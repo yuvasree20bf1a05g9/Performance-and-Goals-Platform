@@ -291,3 +291,9 @@ docker compose up --build        # then open http://localhost:8000
 * **Simulated auth (`X-Actor-Id`)** keeps the demo friction-free; the permission logic is real and sits behind a single dependency that an SSO/JWT middleware can replace.
 * **SQLite by default, PostgreSQL ready** — zero-setup for reviewers, with deferred/`use_alter` foreign keys so the `employees ↔ managers` cycle loads on both. Schema is created with `create_all`; a growing project would add Alembic migrations.
 * **Pre-built UI committed** so the app runs with Python alone; CI rebuilds it from source.
+
+---
+
+## Author
+
+Built by **Yuvasree** ([@yuvasree20bf1a05g9](https://github.com/yuvasree20bf1a05g9)) for the hackathon.
