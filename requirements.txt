@@ -1,0 +1,10 @@
+# Runtime
+fastapi>=0.110
+uvicorn>=0.29
+sqlalchemy>=2.0.25
+pydantic>=2.6
+# Tests
+httpx>=0.27
+pytest>=8.0
+# Optional: PostgreSQL driver (only needed when DATABASE_URL points at PostgreSQL)
+# psycopg[binary]>=3.1

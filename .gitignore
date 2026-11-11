@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Local databases
+backend/*.db
+backend/*.db-*
+
+# Generated full-scale dataset (re-create with: python manage.py generate --profile full)
+data/full/
+data/reproducibility_*.json
+
+# Frontend
+frontend/node_modules/
+# NOTE: frontend/dist is committed on purpose so the UI works without Node.js installed
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+output/

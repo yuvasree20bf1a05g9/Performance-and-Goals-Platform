@@ -1,0 +1,151 @@
+employee_id,first_name,last_name,email,department,job_title,job_level,role,location,hire_date,termination_date,employment_status,current_manager_id
+EMP-000001,Vikram,Martins,vikram.martins.000001@example.com,Operations,Chief Executive Officer,L8,executive,Hyderabad,2014-04-01,,active,
+EMP-000002,Nikhil,Wang,nikhil.wang.000002@example.com,Engineering,"VP, Engineering",L8,executive,Chennai,2014-09-22,,active,EMP-000001
+EMP-000003,Uday,Taylor,uday.taylor.000003@example.com,Engineering,"Director, Engineering",L7,manager,Chennai,2015-01-25,,active,EMP-000002
+EMP-000004,Yash,Wright,yash.wright.000004@example.com,Customer Success,"VP, Customer Success",L8,executive,London,2015-05-25,,active,EMP-000001
+EMP-000005,Aarav,Verma,aarav.verma.000005@example.com,Customer Success,"Manager, Customer Success",L6,manager,Bengaluru,2015-05-25,,active,EMP-000004
+EMP-000006,Ananya,Chopra,ananya.chopra.000006@example.com,Engineering,"Manager, Engineering",L5,manager,Remote-IN,2015-06-18,,active,EMP-000003
+EMP-000007,Diya,Shetty,diya.shetty.000007@example.com,Engineering,"Manager, Engineering",L6,manager,Bengaluru,2015-11-15,,active,EMP-000003
+EMP-000008,Yash,Pillai,yash.pillai.000008@example.com,HR,"VP, HR",L8,executive,Hyderabad,2015-12-29,,active,EMP-000001
+EMP-000009,Liam,Banerjee,liam.banerjee.000009@example.com,Finance,"Manager, Finance",L6,manager,Hyderabad,2016-01-12,,active,EMP-000053
+EMP-000010,Yuki,Joshi,yuki.joshi.000010@example.com,Product,Product Manager,L2,employee,Bengaluru,2016-01-25,,active,EMP-000037
+EMP-000011,Nora,Johnson,nora.johnson.000011@example.com,Product,Product Manager,L2,employee,Bengaluru,2016-02-13,,active,EMP-000037
+EMP-000012,Isaac,Wright,isaac.wright.000012@example.com,Customer Success,"Manager, Customer Success",L6,manager,Pune,2016-03-12,,active,EMP-000004
+EMP-000013,Hiro,Joshi,hiro.joshi.000013@example.com,Marketing,Senior Marketing Specialist,L3,employee,Hyderabad,2016-03-25,,active,EMP-000051
+EMP-000014,Chloe,Reddy,chloe.reddy.000014@example.com,Marketing,Senior Marketing Specialist,L3,employee,Bengaluru,2016-04-01,,active,EMP-000051
+EMP-000015,Aisha,Iyer,aisha.iyer.000015@example.com,Sales,Account Executive,L2,employee,Austin,2016-05-04,,active,EMP-000102
+EMP-000016,Chloe,Bose,chloe.bose.000016@example.com,Sales,Associate Account Executive,L1,employee,Bengaluru,2016-07-14,,active,EMP-000046
+EMP-000017,Mei,Sharma,mei.sharma.000017@example.com,Product,Senior Product Manager,L3,employee,Chennai,2016-09-07,,active,EMP-000037
+EMP-000018,Varun,Gupta,varun.gupta.000018@example.com,Operations,"Manager, Operations",L5,manager,Pune,2016-09-19,,active,EMP-000021
+EMP-000019,Sanjana,Kapoor,sanjana.kapoor.000019@example.com,Sales,Senior Account Executive,L3,employee,Pune,2016-11-10,,active,EMP-000102
+EMP-000020,Aisha,Shetty,aisha.shetty.000020@example.com,Operations,Lead Operations Analyst,L4,employee,Hyderabad,2017-01-29,,active,EMP-000018
+EMP-000021,James,Verma,james.verma.000021@example.com,Operations,"VP, Operations",L8,executive,Pune,2017-03-18,,active,EMP-000001
+EMP-000022,Meera,Patel,meera.patel.000022@example.com,Finance,Financial Analyst,L2,employee,Bengaluru,2017-05-13,,active,EMP-000068
+EMP-000023,Arjun,Das,arjun.das.000023@example.com,Engineering,Lead Software Engineer,L4,employee,Bengaluru,2017-05-19,,active,EMP-000048
+EMP-000024,Mason,Nair,mason.nair.000024@example.com,Sales,Account Executive,L2,employee,Remote-IN,2017-06-24,,active,EMP-000102
+EMP-000025,Varun,Sato,varun.sato.000025@example.com,Operations,Senior Operations Analyst,L3,employee,Hyderabad,2017-07-05,,active,EMP-000074
+EMP-000026,Samuel,Smith,samuel.smith.000026@example.com,Engineering,Lead Software Engineer,L4,employee,Chennai,2017-07-24,,active,EMP-000006
+EMP-000027,Rakesh,Johnson,rakesh.johnson.000027@example.com,Engineering,Associate Software Engineer,L1,employee,Bengaluru,2017-08-06,,active,EMP-000007
+EMP-000028,Kavya,Wright,kavya.wright.000028@example.com,Sales,Lead Account Executive,L4,employee,Pune,2017-08-23,,active,EMP-000102
+EMP-000029,Neha,Gupta,neha.gupta.000029@example.com,Engineering,Principal Software Engineer,L5,employee,Hyderabad,2017-08-27,,active,EMP-000099
+EMP-000030,Mei,Iyer,mei.iyer.000030@example.com,Operations,Associate Operations Analyst,L1,employee,Remote-IN,2017-09-03,,active,EMP-000018
+EMP-000031,Rohan,Sharma,rohan.sharma.000031@example.com,Engineering,Senior Software Engineer,L3,employee,Bengaluru,2017-10-03,,active,EMP-000007
+EMP-000032,Meera,Kulkarni,meera.kulkarni.000032@example.com,Sales,Senior Account Executive,L3,employee,Remote-IN,2017-10-13,,active,EMP-000102
+EMP-000033,Yuki,Reddy,yuki.reddy.000033@example.com,Customer Success,Customer Success Specialist,L2,employee,Hyderabad,2017-10-22,,active,EMP-000093
+EMP-000034,Aditi,Bose,aditi.bose.000034@example.com,Sales,Associate Account Executive,L1,employee,Pune,2017-10-31,,active,EMP-000102
+EMP-000035,Ananya,Evans,ananya.evans.000035@example.com,Engineering,Software Engineer,L2,employee,Hyderabad,2017-11-14,,active,EMP-000048
+EMP-000036,James,Wright,james.wright.000036@example.com,Marketing,Senior Marketing Specialist,L3,employee,London,2017-12-21,,active,EMP-000051
+EMP-000037,Aisha,Hughes,aisha.hughes.000037@example.com,Product,"VP, Product",L8,executive,Chennai,2018-01-13,,active,EMP-000001
+EMP-000038,Kabir,Silva,kabir.silva.000038@example.com,HR,Senior HR Generalist,L3,hr_partner,Bengaluru,2018-01-14,,active,EMP-000008
+EMP-000039,Varun,Khan,varun.khan.000039@example.com,Operations,Operations Analyst,L2,employee,Remote-IN,2018-01-26,,active,EMP-000074
+EMP-000040,Lucia,Chopra,lucia.chopra.000040@example.com,Customer Success,Lead Customer Success Specialist,L4,employee,Austin,2018-02-10,,active,EMP-000012
+EMP-000041,Aditi,Patel,aditi.patel.000041@example.com,Product,Associate Product Manager,L1,employee,Pune,2018-02-16,,active,EMP-000037
+EMP-000042,Omar,Bose,omar.bose.000042@example.com,Operations,Operations Analyst,L2,employee,London,2018-03-10,,active,EMP-000021
+EMP-000043,Mason,Kapoor,mason.kapoor.000043@example.com,Product,Product Manager,L2,employee,Chennai,2018-04-04,,active,EMP-000037
+EMP-000044,James,Gupta,james.gupta.000044@example.com,HR,Senior HR Generalist,L3,hr_partner,Hyderabad,2018-05-05,,active,EMP-000008
+EMP-000045,Mateo,Kapoor,mateo.kapoor.000045@example.com,Finance,Senior Financial Analyst,L3,employee,Bengaluru,2018-05-12,,active,EMP-000009
+EMP-000046,Sanjana,Smith,sanjana.smith.000046@example.com,Sales,"VP, Sales",L8,executive,Remote-IN,2018-06-03,,active,EMP-000001
+EMP-000047,Ishaan,Taylor,ishaan.taylor.000047@example.com,Operations,Lead Operations Analyst,L4,employee,Hyderabad,2018-06-11,,active,EMP-000018
+EMP-000048,Hannah,Pillai,hannah.pillai.000048@example.com,Engineering,"Manager, Engineering",L5,manager,Remote-IN,2018-06-20,,active,EMP-000003
+EMP-000049,Olivia,Wright,olivia.wright.000049@example.com,Marketing,Marketing Specialist,L2,employee,Hyderabad,2018-06-22,,active,EMP-000051
+EMP-000050,Hiro,Pillai,hiro.pillai.000050@example.com,Engineering,Software Engineer,L2,employee,Bengaluru,2018-06-29,,active,EMP-000006
+EMP-000051,Riya,Bose,riya.bose.000051@example.com,Marketing,"VP, Marketing",L8,executive,Pune,2018-08-19,,active,EMP-000001
+EMP-000052,Swati,Mehta,swati.mehta.000052@example.com,HR,Lead HR Generalist,L4,hr_partner,Hyderabad,2018-10-18,,active,EMP-000008
+EMP-000053,Ananya,Brown,ananya.brown.000053@example.com,Finance,"VP, Finance",L8,executive,Remote-IN,2018-12-02,,active,EMP-000001
+EMP-000054,Sanjana,Martins,sanjana.martins.000054@example.com,Customer Success,Senior Customer Success Specialist,L3,employee,Hyderabad,2019-01-18,,active,EMP-000012
+EMP-000055,Meera,Brown,meera.brown.000055@example.com,Sales,Lead Account Executive,L4,employee,Remote-IN,2019-03-01,,active,EMP-000102
+EMP-000056,Noah,Tanaka,noah.tanaka.000056@example.com,Engineering,Senior Software Engineer,L3,employee,Hyderabad,2019-03-05,,active,EMP-000007
+EMP-000057,Hannah,Taylor,hannah.taylor.000057@example.com,Sales,Senior Account Executive,L3,employee,Bengaluru,2019-05-08,,active,EMP-000102
+EMP-000058,Noah,Sato,noah.sato.000058@example.com,Product,Principal Product Manager,L5,employee,Bengaluru,2019-06-28,,active,EMP-000037
+EMP-000059,Fatima,Joshi,fatima.joshi.000059@example.com,Engineering,"Director, Engineering",L7,manager,Bengaluru,2019-07-19,,active,EMP-000002
+EMP-000060,Hiro,Patel,hiro.patel.000060@example.com,Engineering,Software Engineer,L2,employee,Hyderabad,2019-08-14,,active,EMP-000006
+EMP-000061,Priya,Verma,priya.verma.000061@example.com,Engineering,Software Engineer,L2,employee,London,2019-09-08,,active,EMP-000059
+EMP-000062,Lakshmi,Sharma,lakshmi.sharma.000062@example.com,Sales,Lead Account Executive,L4,employee,Bengaluru,2019-09-28,,active,EMP-000102
+EMP-000063,Varun,Silva,varun.silva.000063@example.com,Engineering,Senior Software Engineer,L3,employee,Pune,2019-10-01,,active,EMP-000048
+EMP-000064,Siddharth,Bose,siddharth.bose.000064@example.com,Sales,Account Executive,L2,employee,Bengaluru,2019-10-22,,active,EMP-000102
+EMP-000065,Wei,Johnson,wei.johnson.000065@example.com,Engineering,Lead Software Engineer,L4,employee,Hyderabad,2020-01-14,,active,EMP-000007
+EMP-000066,Zara,Joshi,zara.joshi.000066@example.com,Engineering,Lead Software Engineer,L4,employee,Bengaluru,2020-02-28,,active,EMP-000003
+EMP-000067,Chloe,Nair,chloe.nair.000067@example.com,Engineering,Software Engineer,L2,employee,Pune,2020-03-09,2026-05-14,terminated,
+EMP-000068,Emma,Khan,emma.khan.000068@example.com,Finance,"Manager, Finance",L5,manager,Hyderabad,2020-04-15,,active,EMP-000053
+EMP-000069,Olivia,Garcia,olivia.garcia.000069@example.com,HR,Senior HR Generalist,L3,hr_partner,London,2020-04-16,,active,EMP-000008
+EMP-000070,Rakesh,Iyer,rakesh.iyer.000070@example.com,Sales,Lead Account Executive,L4,employee,Pune,2020-07-19,,active,EMP-000102
+EMP-000071,Mei,Taylor,mei.taylor.000071@example.com,Operations,Associate Operations Analyst,L1,admin,Chennai,2020-09-03,,active,EMP-000074
+EMP-000072,Tanvi,Gupta,tanvi.gupta.000072@example.com,Engineering,Lead Software Engineer,L4,employee,Chennai,2020-09-09,,active,EMP-000048
+EMP-000073,Ethan,Ali,ethan.ali.000073@example.com,Marketing,Lead Marketing Specialist,L4,employee,Bengaluru,2020-11-21,,active,EMP-000051
+EMP-000074,Aarav,Singh,aarav.singh.000074@example.com,Operations,"Manager, Operations",L6,manager,Bengaluru,2020-12-05,,active,EMP-000021
+EMP-000075,Ava,Das,ava.das.000075@example.com,Product,Associate Product Manager,L1,employee,London,2020-12-05,,active,EMP-000037
+EMP-000076,Siddharth,Wright,siddharth.wright.000076@example.com,Operations,Operations Analyst,L2,admin,Hyderabad,2021-01-04,,active,EMP-000018
+EMP-000077,Aditi,Kapoor,aditi.kapoor.000077@example.com,Operations,Senior Operations Analyst,L3,employee,Bengaluru,2021-01-08,,active,EMP-000074
+EMP-000078,Manish,Lopez,manish.lopez.000078@example.com,Customer Success,Senior Customer Success Specialist,L3,employee,Remote-IN,2021-01-17,,active,EMP-000079
+EMP-000079,Mei,Clarke,mei.clarke.000079@example.com,Customer Success,"Manager, Customer Success",L5,manager,Bengaluru,2021-02-16,,active,EMP-000004
+EMP-000080,Yash,Lopez,yash.lopez.000080@example.com,HR,HR Generalist,L2,hr_partner,Hyderabad,2021-03-10,,active,EMP-000008
+EMP-000081,Neha,Clarke,neha.clarke.000081@example.com,Sales,Lead Account Executive,L4,employee,Hyderabad,2021-03-13,,active,EMP-000102
+EMP-000082,Carlos,Wilson,carlos.wilson.000082@example.com,Engineering,Senior Software Engineer,L3,employee,Bengaluru,2021-03-25,,active,EMP-000099
+EMP-000083,Mei,Gupta,mei.gupta.000083@example.com,Engineering,Software Engineer,L2,employee,London,2021-05-13,,active,EMP-000048
+EMP-000084,Lucas,Ali,lucas.ali.000084@example.com,Operations,Senior Operations Analyst,L3,employee,Bengaluru,2021-05-29,,active,EMP-000074
+EMP-000085,Omar,Walker,omar.walker.000085@example.com,Product,Senior Product Manager,L3,employee,Chennai,2021-06-27,,active,EMP-000037
+EMP-000086,Mateo,Johnson,mateo.johnson.000086@example.com,Finance,Lead Financial Analyst,L4,employee,Pune,2021-07-12,,active,EMP-000009
+EMP-000087,Lucia,Wilson,lucia.wilson.000087@example.com,Finance,Senior Financial Analyst,L3,employee,Chennai,2021-07-13,,active,EMP-000068
+EMP-000088,Lucas,Menon,lucas.menon.000088@example.com,HR,Lead HR Generalist,L4,employee,Chennai,2021-08-04,,active,EMP-000008
+EMP-000089,Omar,Silva,omar.silva.000089@example.com,Operations,Principal Operations Analyst,L5,employee,Chennai,2021-09-17,,active,EMP-000074
+EMP-000090,Hannah,Brown,hannah.brown.000090@example.com,Marketing,Senior Marketing Specialist,L3,employee,Chennai,2021-10-29,,active,EMP-000051
+EMP-000091,Varun,Rao,varun.rao.000091@example.com,Operations,Associate Operations Analyst,L1,admin,Austin,2021-11-18,,active,EMP-000018
+EMP-000092,Daniel,Smith,daniel.smith.000092@example.com,Sales,Senior Account Executive,L3,employee,Hyderabad,2021-11-24,,active,EMP-000102
+EMP-000093,Lucia,Wang,lucia.wang.000093@example.com,Customer Success,"Manager, Customer Success",L6,manager,Austin,2022-02-24,,active,EMP-000004
+EMP-000094,Mei,Bose,mei.bose.000094@example.com,Engineering,Software Engineer,L2,employee,Bengaluru,2022-03-19,,active,EMP-000007
+EMP-000095,Nora,Das,nora.das.000095@example.com,Product,Product Manager,L2,employee,Pune,2022-04-28,2026-03-17,terminated,
+EMP-000096,Emma,Garcia,emma.garcia.000096@example.com,Engineering,Software Engineer,L2,employee,Austin,2022-05-04,,active,EMP-000048
+EMP-000097,Zara,Chen,zara.chen.000097@example.com,Customer Success,"Manager, Customer Success",L5,manager,Hyderabad,2022-05-19,,active,EMP-000004
+EMP-000098,Arjun,Sharma,arjun.sharma.000098@example.com,Sales,Account Executive,L2,employee,Bengaluru,2022-06-14,,active,EMP-000102
+EMP-000099,Rakesh,Wilson,rakesh.wilson.000099@example.com,Engineering,"Manager, Engineering",L6,manager,Hyderabad,2022-06-18,,active,EMP-000059
+EMP-000100,Grace,Sharma,grace.sharma.000100@example.com,Operations,Lead Operations Analyst,L4,employee,Pune,2022-06-21,,active,EMP-000074
+EMP-000101,Mei,Brown,mei.brown.000101@example.com,Sales,Senior Account Executive,L3,employee,Hyderabad,2022-06-28,,active,EMP-000102
+EMP-000102,Neha,Lopez,neha.lopez.000102@example.com,Sales,"Manager, Sales",L5,manager,Bengaluru,2022-10-26,,active,EMP-000046
+EMP-000103,Yuki,Silva,yuki.silva.000103@example.com,Engineering,Senior Software Engineer,L3,employee,Austin,2022-12-01,,active,EMP-000048
+EMP-000104,Tanvi,Wang,tanvi.wang.000104@example.com,HR,Senior HR Generalist,L3,employee,Austin,2023-01-17,,active,EMP-000008
+EMP-000105,Varun,Bose,varun.bose.000105@example.com,Sales,Associate Account Executive,L1,employee,Remote-IN,2023-05-01,,active,EMP-000102
+EMP-000106,Arjun,Pillai,arjun.pillai.000106@example.com,Customer Success,Associate Customer Success Specialist,L1,employee,Remote-IN,2023-07-09,,active,EMP-000005
+EMP-000107,Sofia,Rao,sofia.rao.000107@example.com,Marketing,Marketing Specialist,L2,employee,Remote-IN,2023-08-09,,active,EMP-000051
+EMP-000108,Wei,Kapoor,wei.kapoor.000108@example.com,Customer Success,Associate Customer Success Specialist,L1,employee,Pune,2023-08-21,,active,EMP-000097
+EMP-000109,Siddharth,Tanaka,siddharth.tanaka.000109@example.com,Sales,Account Executive,L2,employee,Hyderabad,2023-09-07,,active,EMP-000102
+EMP-000110,Daniel,Johnson,daniel.johnson.000110@example.com,Operations,Senior Operations Analyst,L3,employee,Hyderabad,2023-09-13,,active,EMP-000018
+EMP-000111,Neha,Iyer,neha.iyer.000111@example.com,Operations,Senior Operations Analyst,L3,employee,Remote-IN,2023-10-06,2026-05-25,terminated,
+EMP-000112,Rohan,Wang,rohan.wang.000112@example.com,Engineering,Software Engineer,L2,employee,Remote-IN,2023-11-14,,active,EMP-000007
+EMP-000113,Yuki,Evans,yuki.evans.000113@example.com,Engineering,Lead Software Engineer,L4,employee,Hyderabad,2023-12-09,,active,EMP-000006
+EMP-000114,Ananya,Wang,ananya.wang.000114@example.com,HR,HR Generalist,L2,hr_partner,Bengaluru,2023-12-15,,active,EMP-000008
+EMP-000115,Priya,Verma,priya.verma.000115@example.com,Engineering,Software Engineer,L2,employee,Chennai,2023-12-23,,active,EMP-000006
+EMP-000116,Kavya,Brown,kavya.brown.000116@example.com,Finance,Financial Analyst,L2,employee,Hyderabad,2024-01-30,,active,EMP-000009
+EMP-000117,Sanjana,Walker,sanjana.walker.000117@example.com,Engineering,Associate Software Engineer,L1,employee,Hyderabad,2024-02-10,,active,EMP-000059
+EMP-000118,Sophia,Sato,sophia.sato.000118@example.com,Customer Success,Customer Success Specialist,L2,employee,Chennai,2024-02-17,,active,EMP-000097
+EMP-000119,Hannah,Taylor,hannah.taylor.000119@example.com,Sales,Senior Account Executive,L3,employee,Bengaluru,2024-04-01,,active,EMP-000102
+EMP-000120,Diya,Kapoor,diya.kapoor.000120@example.com,Engineering,Principal Software Engineer,L5,employee,Bengaluru,2024-04-03,,active,EMP-000006
+EMP-000121,Kavya,Wilson,kavya.wilson.000121@example.com,Sales,Senior Account Executive,L3,employee,Remote-IN,2024-04-25,,active,EMP-000102
+EMP-000122,Omar,Das,omar.das.000122@example.com,Operations,Senior Operations Analyst,L3,employee,Chennai,2024-05-26,,active,EMP-000074
+EMP-000123,Kavya,Garcia,kavya.garcia.000123@example.com,Engineering,Senior Software Engineer,L3,employee,Chennai,2024-05-26,,active,EMP-000099
+EMP-000124,Lakshmi,Bose,lakshmi.bose.000124@example.com,Finance,Associate Financial Analyst,L1,employee,Remote-IN,2024-07-18,2026-09-19,terminated,
+EMP-000125,Swati,Sato,swati.sato.000125@example.com,Sales,Senior Account Executive,L3,employee,Bengaluru,2024-09-20,,active,EMP-000102
+EMP-000126,Lakshmi,Kapoor,lakshmi.kapoor.000126@example.com,Operations,Associate Operations Analyst,L1,employee,Hyderabad,2024-09-28,,active,EMP-000018
+EMP-000127,Aisha,Wilson,aisha.wilson.000127@example.com,Customer Success,Customer Success Specialist,L2,employee,Remote-IN,2024-10-28,2026-05-21,terminated,
+EMP-000128,Rakesh,Smith,rakesh.smith.000128@example.com,Sales,Lead Account Executive,L4,employee,Hyderabad,2024-11-02,,active,EMP-000102
+EMP-000129,Chloe,Taylor,chloe.taylor.000129@example.com,Engineering,Senior Software Engineer,L3,employee,Hyderabad,2024-11-17,,active,EMP-000006
+EMP-000130,Aditi,Wang,aditi.wang.000130@example.com,Operations,Operations Analyst,L2,employee,Chennai,2024-11-29,,active,EMP-000074
+EMP-000131,Diya,Clarke,diya.clarke.000131@example.com,Product,Product Manager,L2,employee,Pune,2025-01-24,,active,EMP-000037
+EMP-000132,Mason,Menon,mason.menon.000132@example.com,Sales,Senior Account Executive,L3,employee,Bengaluru,2025-03-15,,active,EMP-000102
+EMP-000133,Carlos,Pillai,carlos.pillai.000133@example.com,Sales,Account Executive,L2,employee,Pune,2025-03-27,,active,EMP-000102
+EMP-000134,Hannah,Khan,hannah.khan.000134@example.com,Engineering,Senior Software Engineer,L3,employee,Hyderabad,2025-05-28,,active,EMP-000048
+EMP-000135,Mateo,Sharma,mateo.sharma.000135@example.com,Customer Success,Senior Customer Success Specialist,L3,employee,Bengaluru,2025-06-21,,active,EMP-000079
+EMP-000136,Yash,Silva,yash.silva.000136@example.com,Customer Success,Senior Customer Success Specialist,L3,employee,Hyderabad,2025-07-08,,active,EMP-000093
+EMP-000137,Kabir,Silva,kabir.silva.000137@example.com,Engineering,Lead Software Engineer,L4,employee,Hyderabad,2025-07-31,,active,EMP-000048
+EMP-000138,Liam,Sharma,liam.sharma.000138@example.com,Engineering,Software Engineer,L2,employee,Pune,2025-08-07,,active,EMP-000059
+EMP-000139,Siddharth,Wright,siddharth.wright.000139@example.com,Operations,Operations Analyst,L2,employee,Pune,2025-08-08,,active,EMP-000018
+EMP-000140,Kabir,Verma,kabir.verma.000140@example.com,Customer Success,Senior Customer Success Specialist,L3,employee,Bengaluru,2025-10-07,,active,EMP-000079
+EMP-000141,Ishaan,Walker,ishaan.walker.000141@example.com,Product,Principal Product Manager,L5,employee,Hyderabad,2025-11-04,,active,EMP-000037
+EMP-000142,Hannah,Khan,hannah.khan.000142@example.com,Operations,Operations Analyst,L2,employee,Bengaluru,2025-11-20,,active,EMP-000074
+EMP-000143,Pooja,Wang,pooja.wang.000143@example.com,Customer Success,Senior Operations Analyst,L3,it_ops,Austin,2025-12-02,,active,EMP-000097
+EMP-000144,Mateo,Ali,mateo.ali.000144@example.com,Sales,Account Executive,L2,employee,Chennai,2025-12-04,,active,EMP-000102
+EMP-000145,Sophia,Nair,sophia.nair.000145@example.com,Sales,Senior Account Executive,L3,employee,London,2025-12-18,,active,EMP-000102
+EMP-000146,Liam,Garcia,liam.garcia.000146@example.com,Operations,Operations Analyst,L2,employee,Pune,2026-01-01,,active,EMP-000074
+EMP-000147,Noah,Taylor,noah.taylor.000147@example.com,Finance,Lead Financial Analyst,L4,employee,Hyderabad,2026-03-27,,active,EMP-000009
+EMP-000148,Grace,Wright,grace.wright.000148@example.com,Sales,Account Executive,L2,employee,Remote-IN,2026-04-17,,active,EMP-000102
+EMP-000149,Ananya,Shetty,ananya.shetty.000149@example.com,Engineering,Senior Software Engineer,L3,employee,Hyderabad,2026-06-04,,active,EMP-000059
+EMP-000150,Isaac,Bose,isaac.bose.000150@example.com,Operations,Senior Operations Analyst,L3,employee,London,2026-09-19,,active,EMP-000018

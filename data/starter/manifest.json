@@ -1,0 +1,211 @@
+{
+  "generator": "data_generator",
+  "generator_version": "1.0.0",
+  "profile": "starter",
+  "scale": 0.05,
+  "seed": 20261022,
+  "as_of": "2026-11-11",
+  "command": "python manage.py generate --profile starter --seed 20261022",
+  "python_version": "3.10.12",
+  "data_provenance": {
+    "source": "100% synthetic, produced by this repository's code with a fixed seed",
+    "external_datasets_used": [],
+    "personal_data": "none - names are drawn from a generic list and e-mails use example.com",
+    "license": "MIT (same as the code)"
+  },
+  "expected_counts": {
+    "employees": 150,
+    "managers": 25,
+    "goals": 500,
+    "checkins": 1000
+  },
+  "row_counts": {
+    "employees": 150,
+    "managers": 25,
+    "manager_assignments": 152,
+    "review_cycles": 3,
+    "goals": 500,
+    "key_results": 1140,
+    "goal_versions": 1786,
+    "checkins": 1000,
+    "kr_updates": 2296,
+    "evidence_links": 776,
+    "competencies": 6,
+    "peer_nominations": 823,
+    "feedback": 2659,
+    "reviews": 284,
+    "review_events": 749,
+    "development_plans": 32,
+    "plan_approvals": 36
+  },
+  "ground_truth_counts": {
+    "anomaly:closed_cycle_silent_edit": 6,
+    "anomaly:goal_owner_mismatch": 6,
+    "anomaly:progress_over_scale_no_rationale": 3,
+    "anomaly:reviewer_lacks_relationship": 6,
+    "anomaly:untraceable_feedback": 3,
+    "scenario:changed_goal": 75,
+    "scenario:conflicting_feedback": 31,
+    "scenario:incomplete_review": 15,
+    "scenario:manager_transfer": 3,
+    "scenario:overachievement_with_rationale": 41
+  },
+  "files": {
+    "csv/checkins.csv": {
+      "sha256": "b1ceecb7a8c184312811fa499781e8b125c874207e14fa858e7c5b3db5c376e7",
+      "bytes": 117562
+    },
+    "csv/competencies.csv": {
+      "sha256": "16d565a0a9fe487ba8e1f4db8151521115a9492d130736190dd77c99036703e4",
+      "bytes": 521
+    },
+    "csv/development_plans.csv": {
+      "sha256": "cb84d9fce2d524096541a2242a8ace906eeb530b7b53a046df2827df09239e4a",
+      "bytes": 5353
+    },
+    "csv/employees.csv": {
+      "sha256": "ffa2913fff88bb67d8417396638090194dbc51e1401aac22bc7f25ec45245565",
+      "bytes": 20914
+    },
+    "csv/evidence_links.csv": {
+      "sha256": "7d8ddc66172ad5e94f13c6a4a1692cb25a52eba45757a3b4a4a5b30f6c9820ec",
+      "bytes": 103521
+    },
+    "csv/feedback.csv": {
+      "sha256": "db53d3622b7314f465db27d11b410c077565a5632f336af22780ced789d39608",
+      "bytes": 406577
+    },
+    "csv/goal_versions.csv": {
+      "sha256": "f38382abbc7ba67945afb71fcffe354fd6f012a1e3e098547b73553b205edac7",
+      "bytes": 210077
+    },
+    "csv/goals.csv": {
+      "sha256": "1ac39a557b2b24ef34e49d275b588e8a877933eb10476ad12bf8eacd77d92c21",
+      "bytes": 80135
+    },
+    "csv/key_results.csv": {
+      "sha256": "83aa117d6fce101726ec45ebe90cce19368460921ec3dabb48b5e543e9bf1be8",
+      "bytes": 145016
+    },
+    "csv/kr_updates.csv": {
+      "sha256": "1e6d54ac0cbdfd99fd02909e178f51e8c12dd77d145abf63526aefc4c6826ee2",
+      "bytes": 146005
+    },
+    "csv/manager_assignments.csv": {
+      "sha256": "817f94af609e2a26e2f013bac1e7df3a0f97752d5ab1eb1f02f6c60f5f2cca90",
+      "bytes": 9610
+    },
+    "csv/managers.csv": {
+      "sha256": "12e77358119d5ec22e485cd6f8da584ec5e42ee93773aa2cf1933e61ada633ca",
+      "bytes": 1045
+    },
+    "csv/peer_nominations.csv": {
+      "sha256": "2c48ccf51e45fdca8c91eca16b580831e5532c73198c31fae9e301cfaa7a3ce4",
+      "bytes": 71694
+    },
+    "csv/plan_approvals.csv": {
+      "sha256": "d0a3b27118445bb8d729159de91ef670a2fd2d5e2bee5eafba459c2342ded0ca",
+      "bytes": 2712
+    },
+    "csv/review_cycles.csv": {
+      "sha256": "685128488306e35eea2a53a26c84daa9a706e2a885953c9bf78fc9f7b5d83fad",
+      "bytes": 385
+    },
+    "csv/review_events.csv": {
+      "sha256": "eac143126dc644584dd1daba1d10b99203e496bd1a706b00fc09bfef584c8906",
+      "bytes": 78259
+    },
+    "csv/reviews.csv": {
+      "sha256": "2f6f6c100cc6d693be4fe135112caab5519768b3d33b2ad5271ec9365f5c9332",
+      "bytes": 46893
+    },
+    "ground_truth/ground_truth.csv": {
+      "sha256": "c6391e951b62c0eab0d1811039622c25ceafc7c934c0a017189be4cf7b5b2f63",
+      "bytes": 42477
+    },
+    "ground_truth/ground_truth.json": {
+      "sha256": "9fe1aec55da3caeb67b361130a0a78715d376567bd08f0dc2306809985a5ba26",
+      "bytes": 86283
+    },
+    "ground_truth/review_outcomes.csv": {
+      "sha256": "f8dca756ecdc8656b9107404987faeb93f50b40b198d81fdac8825f24e4b7d51",
+      "bytes": 19048
+    },
+    "json/checkins.json": {
+      "sha256": "8e978577eb165502a1233ae8e75a025e7966dfe436ad436f5c07a07533bff689",
+      "bytes": 290781
+    },
+    "json/competencies.json": {
+      "sha256": "87a640fe0e8a32890a8a2a7a6d5259a0059e71f4fffea4cd703a0ab268393ab9",
+      "bytes": 1225
+    },
+    "json/development_plans.json": {
+      "sha256": "0197c950dd932bd931c08c8a049782ab346305b7d69f2b7dccabf03961d33dd9",
+      "bytes": 12889
+    },
+    "json/employees.json": {
+      "sha256": "f06a8c0079ef71f6a9f440544e819e9cadf9ea33117af8e38de076ce610ebc4c",
+      "bytes": 59723
+    },
+    "json/evidence_links.json": {
+      "sha256": "497831575bf7e2bc3fe940f284ec92c4977d63dd391e1cac57bcf95cff6e40cf",
+      "bytes": 202479
+    },
+    "json/feedback.json": {
+      "sha256": "95eb129c382357f5937efacbcf9cdad32906d91bb2bbe0635494cbeace12fea7",
+      "bytes": 1017158
+    },
+    "json/goal_versions.json": {
+      "sha256": "d1dcf90a32489ea53921175e80030e4e099e1044823650ede155bc2f2968eb21",
+      "bytes": 619509
+    },
+    "json/goals.json": {
+      "sha256": "39e9d0d4b1ccd89be09757899461df7e698288f6b3a5f057a1cdcbb2486bab47",
+      "bytes": 190998
+    },
+    "json/key_results.json": {
+      "sha256": "7917aab63d0bff1b9d82130b01ce7cf73190f067c49b20be723e6e9ddba9a52d",
+      "bytes": 404058
+    },
+    "json/kr_updates.json": {
+      "sha256": "937085792d38f8ebc550fe8a6e023e86db435277118742ccb73e36de7b42e553",
+      "bytes": 446274
+    },
+    "json/manager_assignments.json": {
+      "sha256": "5ee20d8df333a12f75fcbfe04a2469b996ce1ee8f22ae2337cb1c2f150152efb",
+      "bytes": 32915
+    },
+    "json/managers.json": {
+      "sha256": "3f826ed676aa5136259d4e297abc4cace306f822f3605cafa6e64bf82fb71ee7",
+      "bytes": 3562
+    },
+    "json/peer_nominations.json": {
+      "sha256": "6c29250e075343c856998317b3d0c4f9fb499ba1a59477fa1234222861dd60b4",
+      "bytes": 199169
+    },
+    "json/plan_approvals.json": {
+      "sha256": "9e3765a190f585baa6281662716a3a057909db5ca569e4408c2a167b34dfd184",
+      "bytes": 7617
+    },
+    "json/review_cycles.json": {
+      "sha256": "07c202548febaeed8d642e2e3d1addf7718848eeec671095ca7adf32aed9212c",
+      "bytes": 780
+    },
+    "json/review_events.json": {
+      "sha256": "8b778f18399e99afc7e931d33d27584fe5d8454d581ae4d3736e13d3f0cbfdef",
+      "bytes": 256934
+    },
+    "json/reviews.json": {
+      "sha256": "36189f241fc61e1b7a68ebb590a5493d0ebea41f7a9f0219878f8bc0da41ecc7",
+      "bytes": 146679
+    },
+    "sql/seed_postgres.sql": {
+      "sha256": "a1141360f1e1d3c2ea6085df672ab3d270b1bab88a42d48d122a5d1f26bb715c",
+      "bytes": 1839106
+    },
+    "sql/seed_sqlite.sql": {
+      "sha256": "7cfc79f5f18aebd92456f7328fb8a2b3e733b079ea18a90dd4914d14dcfe429e",
+      "bytes": 1837542
+    }
+  }
+}

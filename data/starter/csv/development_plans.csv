@@ -1,0 +1,33 @@
+plan_id,employee_id,cycle_id,review_id,competency_id,objective,training_cost,requires_hr_approval,target_date,created_at,completed_at,status
+DP-2026-000001,EMP-000005,CYCLE-2026-H1,REV-2026-000004,COMP-02,Build stronger cross-team working relationships,1450.00,true,2027-02-04,2026-08-12T17:05:54,,submitted
+DP-2026-000002,EMP-000019,CYCLE-2026-H1,REV-2026-000018,COMP-02,Build stronger cross-team working relationships,0.00,false,2026-11-29,2026-08-18T19:02:14,,approved
+DP-2026-000003,EMP-000021,CYCLE-2026-H1,REV-2026-000020,COMP-01,Improve planning and delivery predictability,650.00,false,2027-02-06,2026-08-11T16:39:38,,approved
+DP-2026-000004,EMP-000022,CYCLE-2026-H1,REV-2026-000021,COMP-01,Improve planning and delivery predictability,1630.00,true,2026-11-05,2026-08-26T17:55:50,,approved
+DP-2026-000005,EMP-000024,CYCLE-2026-H1,REV-2026-000023,COMP-02,Build stronger cross-team working relationships,0.00,false,2026-10-18,2026-08-15T19:54:12,,approved
+DP-2026-000006,EMP-000030,CYCLE-2026-H1,REV-2026-000029,COMP-01,Improve planning and delivery predictability,0.00,false,2026-11-01,2026-08-18T13:29:23,2026-10-14T17:00:00,completed
+DP-2026-000007,EMP-000039,CYCLE-2026-H1,REV-2026-000038,COMP-03,Deepen understanding of customer needs,1910.00,true,2026-10-06,2026-08-07T11:23:04,,submitted
+DP-2026-000008,EMP-000046,CYCLE-2026-H1,REV-2026-000045,COMP-03,Deepen understanding of customer needs,0.00,false,2027-02-06,2026-08-18T23:39:12,,approved
+DP-2026-000009,EMP-000048,CYCLE-2026-H1,REV-2026-000047,COMP-01,Improve planning and delivery predictability,0.00,false,2027-01-12,2026-08-24T13:46:22,,approved
+DP-2026-000010,EMP-000053,CYCLE-2026-H1,REV-2026-000052,COMP-06,Develop coaching and delegation skills,0.00,false,2027-01-30,2026-08-17T14:48:13,,approved
+DP-2026-000011,EMP-000062,CYCLE-2026-H1,REV-2026-000061,COMP-02,Build stronger cross-team working relationships,0.00,false,2027-01-14,2026-08-13T18:09:55,,approved
+DP-2026-000012,EMP-000064,CYCLE-2026-H1,REV-2026-000063,COMP-03,Deepen understanding of customer needs,2900.00,true,2026-10-25,2026-08-17T16:02:17,2026-10-19T17:00:00,completed
+DP-2026-000013,EMP-000068,CYCLE-2026-H1,REV-2026-000066,COMP-01,Improve planning and delivery predictability,2610.00,true,2026-12-12,2026-08-26T18:28:03,,approved
+DP-2026-000014,EMP-000069,CYCLE-2026-H1,REV-2026-000067,COMP-02,Build stronger cross-team working relationships,180.00,false,2026-11-18,2026-08-25T16:30:32,,approved
+DP-2026-000015,EMP-000074,CYCLE-2026-H1,REV-2026-000072,COMP-04,Close functional / technical skill gaps,300.00,false,2027-01-21,2026-08-20T13:09:49,,approved
+DP-2026-000016,EMP-000076,CYCLE-2026-H1,REV-2026-000074,COMP-01,Improve planning and delivery predictability,0.00,false,2026-12-17,2026-08-18T16:27:11,,approved
+DP-2026-000017,EMP-000079,CYCLE-2026-H1,REV-2026-000077,COMP-04,Close functional / technical skill gaps,360.00,false,2026-12-21,2026-08-15T18:43:03,,approved
+DP-2026-000018,EMP-000080,CYCLE-2026-H1,REV-2026-000078,COMP-02,Build stronger cross-team working relationships,0.00,false,2026-12-22,2026-08-09T10:27:34,,draft
+DP-2026-000019,EMP-000081,CYCLE-2026-H1,REV-2026-000079,COMP-04,Close functional / technical skill gaps,0.00,false,2027-02-08,2026-08-20T12:23:06,,approved
+DP-2026-000020,EMP-000087,CYCLE-2026-H1,REV-2026-000085,COMP-03,Deepen understanding of customer needs,1270.00,true,2026-10-28,2026-08-22T16:45:46,2026-10-28T17:00:00,completed
+DP-2026-000021,EMP-000093,CYCLE-2026-H1,REV-2026-000091,COMP-02,Build stronger cross-team working relationships,480.00,false,2026-10-12,2026-08-07T17:35:29,,approved
+DP-2026-000022,EMP-000096,CYCLE-2026-H1,REV-2026-000093,COMP-02,Build stronger cross-team working relationships,0.00,false,2027-01-08,2026-08-26T18:41:36,,approved
+DP-2026-000023,EMP-000108,CYCLE-2026-H1,REV-2026-000105,COMP-03,Deepen understanding of customer needs,0.00,false,2026-11-05,2026-08-13T16:38:53,,draft
+DP-2026-000024,EMP-000110,CYCLE-2026-H1,REV-2026-000107,COMP-01,Improve planning and delivery predictability,0.00,false,2026-12-05,2026-08-14T16:33:28,,approved
+DP-2026-000025,EMP-000119,CYCLE-2026-H1,REV-2026-000115,COMP-02,Build stronger cross-team working relationships,2310.00,true,2027-01-11,2026-08-20T14:25:50,,submitted
+DP-2026-000026,EMP-000128,CYCLE-2026-H1,REV-2026-000123,COMP-01,Improve planning and delivery predictability,0.00,false,2026-10-12,2026-08-03T16:02:45,,approved
+DP-2026-000027,EMP-000130,CYCLE-2026-H1,REV-2026-000125,COMP-03,Deepen understanding of customer needs,0.00,false,2026-11-13,2026-08-09T16:26:07,,approved
+DP-2026-000028,EMP-000131,CYCLE-2026-H1,REV-2026-000126,COMP-01,Improve planning and delivery predictability,0.00,false,2027-02-14,2026-08-22T13:10:25,,approved
+DP-2026-000029,EMP-000133,CYCLE-2026-H1,REV-2026-000128,COMP-02,Build stronger cross-team working relationships,0.00,false,2027-02-05,2026-08-09T16:41:00,,submitted
+DP-2026-000030,EMP-000141,CYCLE-2026-H1,REV-2026-000136,COMP-02,Build stronger cross-team working relationships,0.00,false,2026-10-06,2026-08-07T15:47:02,,approved
+DP-2026-000031,EMP-000144,CYCLE-2026-H1,REV-2026-000139,COMP-05,Communicate status and risks more clearly,0.00,false,2026-10-15,2026-08-16T20:26:40,,approved
+DP-2026-000032,EMP-000146,CYCLE-2026-H1,REV-2026-000141,COMP-02,Build stronger cross-team working relationships,190.00,false,2026-12-14,2026-08-26T12:43:17,,approved

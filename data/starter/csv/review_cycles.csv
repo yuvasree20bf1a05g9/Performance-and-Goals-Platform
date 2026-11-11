@@ -1,0 +1,4 @@
+cycle_id,name,start_date,end_date,goal_setting_deadline,review_deadline,status,closed_at
+CYCLE-2026-H1,2026 H1 Performance Cycle,2026-01-01,2026-06-30,2026-01-31,2026-07-31,closed,2026-08-14T18:00:00
+CYCLE-2026-H2,2026 H2 Performance Cycle,2026-07-01,2026-12-31,2026-07-31,2027-01-31,active,
+CYCLE-2027-H1,2027 H1 Performance Cycle,2027-01-01,2027-06-30,2027-01-31,2027-07-31,planned,

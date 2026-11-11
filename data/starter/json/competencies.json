@@ -1,0 +1,56 @@
+[
+ {
+  "competency_id": "COMP-01",
+  "name": "Delivery & Execution",
+  "category": "core",
+  "description": "Plans and delivers outcomes reliably",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "all"
+ },
+ {
+  "competency_id": "COMP-02",
+  "name": "Collaboration",
+  "category": "core",
+  "description": "Works effectively across teams",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "all"
+ },
+ {
+  "competency_id": "COMP-03",
+  "name": "Customer Focus",
+  "category": "core",
+  "description": "Understands and serves customer needs",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "all"
+ },
+ {
+  "competency_id": "COMP-04",
+  "name": "Functional Expertise",
+  "category": "technical",
+  "description": "Depth of role-specific skill",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "all"
+ },
+ {
+  "competency_id": "COMP-05",
+  "name": "Communication",
+  "category": "core",
+  "description": "Communicates clearly and openly",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "all"
+ },
+ {
+  "competency_id": "COMP-06",
+  "name": "People Leadership",
+  "category": "leadership",
+  "description": "Coaches, delegates and grows people",
+  "scale_min": 1,
+  "scale_max": 5,
+  "applies_to": "managers"
+ }
+]

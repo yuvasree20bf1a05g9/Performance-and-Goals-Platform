@@ -1,0 +1,177 @@
+[
+ {
+  "manager_id": "EMP-000001",
+  "management_level": "executive",
+  "max_span": 15,
+  "manager_since": "2014-04-01",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000002",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2014-09-22",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000003",
+  "management_level": "director",
+  "max_span": 10,
+  "manager_since": "2016-11-17",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000004",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2015-05-25",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000005",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2018-01-13",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000006",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2017-06-19",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000007",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2017-04-03",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000008",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2015-12-29",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000009",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2016-11-29",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000012",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2019-01-12",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000018",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2018-12-18",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000021",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2017-03-18",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000037",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2018-01-13",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000046",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2018-06-03",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000048",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2020-05-06",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000051",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2018-08-19",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000053",
+  "management_level": "vp",
+  "max_span": 12,
+  "manager_since": "2018-12-02",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000059",
+  "management_level": "director",
+  "max_span": 10,
+  "manager_since": "2020-12-28",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000068",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2022-08-02",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000074",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2021-12-04",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000079",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2023-03-24",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000093",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2023-10-30",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000097",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2024-04-28",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000099",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2024-06-01",
+  "is_active": true
+ },
+ {
+  "manager_id": "EMP-000102",
+  "management_level": "line_manager",
+  "max_span": 12,
+  "manager_since": "2023-02-07",
+  "is_active": true
+ }
+]

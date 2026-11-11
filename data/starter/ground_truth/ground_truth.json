@@ -1,0 +1,2871 @@
+[
+ {
+  "label_id": "GT-000001",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "goal_id_owner_conflict",
+  "entity_type": "goal",
+  "entity_id": "GOAL-EMP-000013-001",
+  "related_ids": [
+   "EMP-000013",
+   "EMP-000013|CYCLE-2026-H1",
+   "EMP-000036",
+   "EMP-000036|CYCLE-2026-H1"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "block_update_and_reassign_owner",
+  "rule_reference": "R1: goal owner must match goal_id",
+  "description": "Owner changed from EMP-000013 to EMP-000036 without re-keying the goal"
+ },
+ {
+  "label_id": "GT-000002",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "goal_id_owner_conflict",
+  "entity_type": "goal",
+  "entity_id": "GOAL-EMP-000098-004",
+  "related_ids": [
+   "EMP-000098",
+   "EMP-000098|CYCLE-2026-H1",
+   "EMP-000109",
+   "EMP-000109|CYCLE-2026-H1"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "block_update_and_reassign_owner",
+  "rule_reference": "R1: goal owner must match goal_id",
+  "description": "Owner changed from EMP-000098 to EMP-000109 without re-keying the goal"
+ },
+ {
+  "label_id": "GT-000003",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "goal_id_owner_conflict",
+  "entity_type": "goal",
+  "entity_id": "GOAL-EMP-000088-003",
+  "related_ids": [
+   "EMP-000044",
+   "EMP-000044|CYCLE-2026-H2",
+   "EMP-000088",
+   "EMP-000088|CYCLE-2026-H2"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "block_update_and_reassign_owner",
+  "rule_reference": "R1: goal owner must match goal_id",
+  "description": "Owner changed from EMP-000088 to EMP-000044 without re-keying the goal"
+ },
+ {
+  "label_id": "GT-000004",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "checkin_by_non_owner",
+  "entity_type": "checkin",
+  "entity_id": "CHK-0000063",
+  "related_ids": [
+   "EMP-000143",
+   "GOAL-EMP-000083-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "reject_checkin",
+  "rule_reference": "R1: only goal owner or their manager may check in",
+  "description": "EMP-000143 updated a goal they do not own"
+ },
+ {
+  "label_id": "GT-000005",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "checkin_by_non_owner",
+  "entity_type": "checkin",
+  "entity_id": "CHK-0000736",
+  "related_ids": [
+   "EMP-000140",
+   "GOAL-EMP-000004-005"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "reject_checkin",
+  "rule_reference": "R1: only goal owner or their manager may check in",
+  "description": "EMP-000140 updated a goal they do not own"
+ },
+ {
+  "label_id": "GT-000006",
+  "label_kind": "anomaly",
+  "issue_type": "goal_owner_mismatch",
+  "sub_type": "checkin_by_non_owner",
+  "entity_type": "checkin",
+  "entity_id": "CHK-0000839",
+  "related_ids": [
+   "EMP-000126",
+   "GOAL-EMP-000104-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "reject_checkin",
+  "rule_reference": "R1: only goal owner or their manager may check in",
+  "description": "EMP-000126 updated a goal they do not own"
+ },
+ {
+  "label_id": "GT-000007",
+  "label_kind": "anomaly",
+  "issue_type": "progress_over_scale_no_rationale",
+  "sub_type": "missing_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0002216",
+  "related_ids": [
+   "CHK-0000966",
+   "GOAL-EMP-000101-003",
+   "KR-GOAL-EMP-000101-003-01"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "cap_progress_at_100_and_request_rationale",
+  "rule_reference": "R2: progress > 100% requires a rationale",
+  "description": "Reported 118% of target with no rationale"
+ },
+ {
+  "label_id": "GT-000008",
+  "label_kind": "anomaly",
+  "issue_type": "progress_over_scale_no_rationale",
+  "sub_type": "missing_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001589",
+  "related_ids": [
+   "CHK-0000690",
+   "GOAL-EMP-000087-002",
+   "KR-GOAL-EMP-000087-002-02"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "cap_progress_at_100_and_request_rationale",
+  "rule_reference": "R2: progress > 100% requires a rationale",
+  "description": "Reported 128% of target with no rationale"
+ },
+ {
+  "label_id": "GT-000009",
+  "label_kind": "anomaly",
+  "issue_type": "progress_over_scale_no_rationale",
+  "sub_type": "missing_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001407",
+  "related_ids": [
+   "CHK-0000610",
+   "GOAL-EMP-000009-004",
+   "KR-GOAL-EMP-000009-004-01"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "cap_progress_at_100_and_request_rationale",
+  "rule_reference": "R2: progress > 100% requires a rationale",
+  "description": "Reported 124% of target with no rationale"
+ },
+ {
+  "label_id": "GT-000010",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "review_by_non_manager",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000016",
+  "related_ids": [
+   "EMP-000017",
+   "EMP-000074"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "invalidate_review_and_reassign_to_actual_manager",
+  "rule_reference": "R3: reviewer must have managed the employee during the cycle",
+  "description": "EMP-000074 reviewed EMP-000017 without a reporting relationship"
+ },
+ {
+  "label_id": "GT-000011",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "review_by_non_manager",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000047",
+  "related_ids": [
+   "EMP-000005",
+   "EMP-000048"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "invalidate_review_and_reassign_to_actual_manager",
+  "rule_reference": "R3: reviewer must have managed the employee during the cycle",
+  "description": "EMP-000005 reviewed EMP-000048 without a reporting relationship"
+ },
+ {
+  "label_id": "GT-000012",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "review_by_non_manager",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000091",
+  "related_ids": [
+   "EMP-000079",
+   "EMP-000093"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "invalidate_review_and_reassign_to_actual_manager",
+  "rule_reference": "R3: reviewer must have managed the employee during the cycle",
+  "description": "EMP-000079 reviewed EMP-000093 without a reporting relationship"
+ },
+ {
+  "label_id": "GT-000013",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "peer_feedback_no_relationship",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0000031",
+  "related_ids": [
+   "EMP-000079",
+   "REV-2026-000029"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "discard_feedback",
+  "rule_reference": "R3: peer feedback requires an accepted nomination",
+  "description": "EMP-000079 gave peer feedback without a nomination"
+ },
+ {
+  "label_id": "GT-000014",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "peer_feedback_no_relationship",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0000074",
+  "related_ids": [
+   "EMP-000145",
+   "REV-2026-000071"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "discard_feedback",
+  "rule_reference": "R3: peer feedback requires an accepted nomination",
+  "description": "EMP-000145 gave peer feedback without a nomination"
+ },
+ {
+  "label_id": "GT-000015",
+  "label_kind": "anomaly",
+  "issue_type": "reviewer_lacks_relationship",
+  "sub_type": "peer_feedback_no_relationship",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0002471",
+  "related_ids": [
+   "EMP-000010",
+   "REV-2026-000205"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "discard_feedback",
+  "rule_reference": "R3: peer feedback requires an accepted nomination",
+  "description": "EMP-000010 gave peer feedback without a nomination"
+ },
+ {
+  "label_id": "GT-000016",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "review_event_after_close",
+  "entity_type": "review_event",
+  "entity_id": "REVEV-0000112",
+  "related_ids": [
+   "REV-2026-000028"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "Manager summary edited after cycle close without approval"
+ },
+ {
+  "label_id": "GT-000017",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "review_event_after_close",
+  "entity_type": "review_event",
+  "entity_id": "REVEV-0000442",
+  "related_ids": [
+   "REV-2026-000116"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "Manager summary edited after cycle close without approval"
+ },
+ {
+  "label_id": "GT-000018",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "review_event_after_close",
+  "entity_type": "review_event",
+  "entity_id": "REVEV-0000475",
+  "related_ids": [
+   "REV-2026-000124"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "Manager summary edited after cycle close without approval"
+ },
+ {
+  "label_id": "GT-000019",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "goal_version_after_close",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000778",
+  "related_ids": [
+   "GOAL-EMP-000062-002",
+   "KR-GOAL-EMP-000062-002-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "KR target lowered after cycle close, inflating progress"
+ },
+ {
+  "label_id": "GT-000020",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "goal_version_after_close",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001139",
+  "related_ids": [
+   "GOAL-EMP-000097-002",
+   "KR-GOAL-EMP-000097-002-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "KR target lowered after cycle close, inflating progress"
+ },
+ {
+  "label_id": "GT-000021",
+  "label_kind": "anomaly",
+  "issue_type": "closed_cycle_silent_edit",
+  "sub_type": "goal_version_after_close",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001369",
+  "related_ids": [
+   "GOAL-EMP-000116-001",
+   "KR-GOAL-EMP-000116-001-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "revert_change_and_audit",
+  "rule_reference": "R4: edits after close need rationale + approval",
+  "description": "KR target lowered after cycle close, inflating progress"
+ },
+ {
+  "label_id": "GT-000022",
+  "label_kind": "anomaly",
+  "issue_type": "untraceable_feedback",
+  "sub_type": "missing_giver",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0001424",
+  "related_ids": [
+   "REV-2026-000053"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "exclude_from_scoring_and_trace_source",
+  "rule_reference": "R5: every feedback row must name its giver",
+  "description": "Imported feedback has no giver reference"
+ },
+ {
+  "label_id": "GT-000023",
+  "label_kind": "anomaly",
+  "issue_type": "untraceable_feedback",
+  "sub_type": "missing_giver",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0001434",
+  "related_ids": [
+   "REV-2026-000015"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "exclude_from_scoring_and_trace_source",
+  "rule_reference": "R5: every feedback row must name its giver",
+  "description": "Imported feedback has no giver reference"
+ },
+ {
+  "label_id": "GT-000024",
+  "label_kind": "anomaly",
+  "issue_type": "untraceable_feedback",
+  "sub_type": "missing_giver",
+  "entity_type": "feedback",
+  "entity_id": "FB-2026-0002612",
+  "related_ids": [
+   "REV-2026-000220"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "exclude_from_scoring_and_trace_source",
+  "rule_reference": "R5: every feedback row must name its giver",
+  "description": "Imported feedback has no giver reference"
+ },
+ {
+  "label_id": "GT-000025",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000028",
+  "related_ids": [
+   "GOAL-EMP-000004-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 25.00 -> 20.00"
+ },
+ {
+  "label_id": "GT-000026",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000081",
+  "related_ids": [
+   "GOAL-EMP-000007-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 75.00 -> 74.00"
+ },
+ {
+  "label_id": "GT-000027",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000085",
+  "related_ids": [
+   "GOAL-EMP-000008-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 71.00 -> 72.00"
+ },
+ {
+  "label_id": "GT-000028",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000204",
+  "related_ids": [
+   "GOAL-EMP-000018-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 33.00 -> 29.00"
+ },
+ {
+  "label_id": "GT-000029",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000237",
+  "related_ids": [
+   "GOAL-EMP-000021-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 6.00 -> 7.00"
+ },
+ {
+  "label_id": "GT-000030",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000251",
+  "related_ids": [
+   "GOAL-EMP-000022-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 37.00 -> 30.00"
+ },
+ {
+  "label_id": "GT-000031",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000264",
+  "related_ids": [
+   "GOAL-EMP-000023-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 27.00 -> 26.00"
+ },
+ {
+  "label_id": "GT-000032",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000268",
+  "related_ids": [
+   "GOAL-EMP-000023-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 7.00 -> 8.00"
+ },
+ {
+  "label_id": "GT-000033",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000272",
+  "related_ids": [
+   "GOAL-EMP-000024-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Lead a knowledge-sharing series -> Lead a knowledge-sharing series (revised)"
+ },
+ {
+  "label_id": "GT-000034",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000325",
+  "related_ids": [
+   "GOAL-EMP-000028-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Lead a knowledge-sharing series -> Lead a knowledge-sharing series (revised)"
+ },
+ {
+  "label_id": "GT-000035",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000344",
+  "related_ids": [
+   "GOAL-EMP-000030-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 6.00 -> 7.00"
+ },
+ {
+  "label_id": "GT-000036",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000399",
+  "related_ids": [
+   "GOAL-EMP-000033-003"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 47.00 -> 49.00"
+ },
+ {
+  "label_id": "GT-000037",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000431",
+  "related_ids": [
+   "GOAL-EMP-000035-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 5.00 -> 4.00"
+ },
+ {
+  "label_id": "GT-000038",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000435",
+  "related_ids": [
+   "GOAL-EMP-000036-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 49.00 -> 56.00"
+ },
+ {
+  "label_id": "GT-000039",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000440",
+  "related_ids": [
+   "GOAL-EMP-000036-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 30.00 -> 34.00"
+ },
+ {
+  "label_id": "GT-000040",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000445",
+  "related_ids": [
+   "GOAL-EMP-000036-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 13.00 -> 14.00"
+ },
+ {
+  "label_id": "GT-000041",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000506",
+  "related_ids": [
+   "GOAL-EMP-000042-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 91.00 -> 92.00"
+ },
+ {
+  "label_id": "GT-000042",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000606",
+  "related_ids": [
+   "GOAL-EMP-000049-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 23.00 -> 25.00"
+ },
+ {
+  "label_id": "GT-000043",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000711",
+  "related_ids": [
+   "GOAL-EMP-000057-005"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 608000.00 -> 699200.00"
+ },
+ {
+  "label_id": "GT-000044",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000750",
+  "related_ids": [
+   "GOAL-EMP-000060-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 40.00 -> 46.00"
+ },
+ {
+  "label_id": "GT-000045",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000754",
+  "related_ids": [
+   "GOAL-EMP-000061-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 23.00 -> 22.00"
+ },
+ {
+  "label_id": "GT-000046",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000811",
+  "related_ids": [
+   "GOAL-EMP-000064-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve process cycle time -> Improve process cycle time (revised)"
+ },
+ {
+  "label_id": "GT-000047",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000818",
+  "related_ids": [
+   "GOAL-EMP-000064-005"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 16.00 -> 18.00"
+ },
+ {
+  "label_id": "GT-000048",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000822",
+  "related_ids": [
+   "GOAL-EMP-000065-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 293.00 -> 313.00"
+ },
+ {
+  "label_id": "GT-000049",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000823",
+  "related_ids": [
+   "GOAL-EMP-000065-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve cross-team collaboration -> Improve cross-team collaboration (revised)"
+ },
+ {
+  "label_id": "GT-000050",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000831",
+  "related_ids": [
+   "GOAL-EMP-000065-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 20.00 -> 22.00"
+ },
+ {
+  "label_id": "GT-000051",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000835",
+  "related_ids": [
+   "GOAL-EMP-000066-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Build expertise in a new domain -> Build expertise in a new domain (revised)"
+ },
+ {
+  "label_id": "GT-000052",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000851",
+  "related_ids": [
+   "GOAL-EMP-000068-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 90.00 -> 89.00"
+ },
+ {
+  "label_id": "GT-000053",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000859",
+  "related_ids": [
+   "GOAL-EMP-000069-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 28.00 -> 32.00"
+ },
+ {
+  "label_id": "GT-000054",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000875",
+  "related_ids": [
+   "GOAL-EMP-000070-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve Sales unit economics -> Improve Sales unit economics (revised)"
+ },
+ {
+  "label_id": "GT-000055",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000905",
+  "related_ids": [
+   "GOAL-EMP-000074-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 29.00 -> 26.00"
+ },
+ {
+  "label_id": "GT-000056",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000915",
+  "related_ids": [
+   "GOAL-EMP-000075-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 28.00 -> 24.00"
+ },
+ {
+  "label_id": "GT-000057",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000923",
+  "related_ids": [
+   "GOAL-EMP-000075-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 25.00 -> 28.00"
+ },
+ {
+  "label_id": "GT-000058",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0000992",
+  "related_ids": [
+   "GOAL-EMP-000082-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve Engineering unit economics -> Improve Engineering unit economics (revised)"
+ },
+ {
+  "label_id": "GT-000059",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001013",
+  "related_ids": [
+   "GOAL-EMP-000084-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 36.00 -> 31.00"
+ },
+ {
+  "label_id": "GT-000060",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001021",
+  "related_ids": [
+   "GOAL-EMP-000085-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 38.00 -> 42.00"
+ },
+ {
+  "label_id": "GT-000061",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001050",
+  "related_ids": [
+   "GOAL-EMP-000087-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 31.00 -> 28.00"
+ },
+ {
+  "label_id": "GT-000062",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001058",
+  "related_ids": [
+   "GOAL-EMP-000088-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 10.00 -> 11.00"
+ },
+ {
+  "label_id": "GT-000063",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001072",
+  "related_ids": [
+   "GOAL-EMP-000089-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve process cycle time -> Improve process cycle time (revised)"
+ },
+ {
+  "label_id": "GT-000064",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001092",
+  "related_ids": [
+   "GOAL-EMP-000091-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve process cycle time -> Improve process cycle time (revised)"
+ },
+ {
+  "label_id": "GT-000065",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001106",
+  "related_ids": [
+   "GOAL-EMP-000093-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 17.00 -> 18.00"
+ },
+ {
+  "label_id": "GT-000066",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001118",
+  "related_ids": [
+   "GOAL-EMP-000094-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 5.00 -> 4.00"
+ },
+ {
+  "label_id": "GT-000067",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001126",
+  "related_ids": [
+   "GOAL-EMP-000096-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 9.00 -> 10.00"
+ },
+ {
+  "label_id": "GT-000068",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001171",
+  "related_ids": [
+   "GOAL-EMP-000099-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 686.00 -> 644.00"
+ },
+ {
+  "label_id": "GT-000069",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001176",
+  "related_ids": [
+   "GOAL-EMP-000099-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 60.00 -> 58.00"
+ },
+ {
+  "label_id": "GT-000070",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001184",
+  "related_ids": [
+   "GOAL-EMP-000100-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 3.00 -> 2.00"
+ },
+ {
+  "label_id": "GT-000071",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001185",
+  "related_ids": [
+   "GOAL-EMP-000100-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Reduce customer-reported issues -> Reduce customer-reported issues (revised)"
+ },
+ {
+  "label_id": "GT-000072",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001193",
+  "related_ids": [
+   "GOAL-EMP-000101-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 17.00 -> 19.00"
+ },
+ {
+  "label_id": "GT-000073",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001264",
+  "related_ids": [
+   "GOAL-EMP-000107-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 1052.00 -> 894.00"
+ },
+ {
+  "label_id": "GT-000074",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001273",
+  "related_ids": [
+   "GOAL-EMP-000107-003"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Complete advanced certification -> Complete advanced certification (revised)"
+ },
+ {
+  "label_id": "GT-000075",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001278",
+  "related_ids": [
+   "GOAL-EMP-000107-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 18.00 -> 16.00"
+ },
+ {
+  "label_id": "GT-000076",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001282",
+  "related_ids": [
+   "GOAL-EMP-000108-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 4.00 -> 3.00"
+ },
+ {
+  "label_id": "GT-000077",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001283",
+  "related_ids": [
+   "GOAL-EMP-000108-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Grow Customer Success revenue contribution -> Grow Customer Success revenue contribution (revised)"
+ },
+ {
+  "label_id": "GT-000078",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001291",
+  "related_ids": [
+   "GOAL-EMP-000108-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 39.00 -> 43.00"
+ },
+ {
+  "label_id": "GT-000079",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001303",
+  "related_ids": [
+   "GOAL-EMP-000109-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 445000.00 -> 378250.00"
+ },
+ {
+  "label_id": "GT-000080",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001321",
+  "related_ids": [
+   "GOAL-EMP-000112-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 236.00 -> 259.00"
+ },
+ {
+  "label_id": "GT-000081",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001325",
+  "related_ids": [
+   "GOAL-EMP-000112-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 11.00 -> 13.00"
+ },
+ {
+  "label_id": "GT-000082",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001336",
+  "related_ids": [
+   "GOAL-EMP-000113-003"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 20.00 -> 18.00"
+ },
+ {
+  "label_id": "GT-000083",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001409",
+  "related_ids": [
+   "GOAL-EMP-000118-003"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 26.00 -> 22.00"
+ },
+ {
+  "label_id": "GT-000084",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001414",
+  "related_ids": [
+   "GOAL-EMP-000118-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 87.00 -> 86.00"
+ },
+ {
+  "label_id": "GT-000085",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001455",
+  "related_ids": [
+   "GOAL-EMP-000122-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 37.00 -> 30.00"
+ },
+ {
+  "label_id": "GT-000086",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001460",
+  "related_ids": [
+   "GOAL-EMP-000122-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 6.00 -> 5.00"
+ },
+ {
+  "label_id": "GT-000087",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001495",
+  "related_ids": [
+   "GOAL-EMP-000124-005"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve onboarding experience -> Improve onboarding experience (revised)"
+ },
+ {
+  "label_id": "GT-000088",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001503",
+  "related_ids": [
+   "GOAL-EMP-000125-002"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 742000.00 -> 593600.00"
+ },
+ {
+  "label_id": "GT-000089",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001516",
+  "related_ids": [
+   "GOAL-EMP-000126-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 9.00 -> 10.00"
+ },
+ {
+  "label_id": "GT-000090",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001525",
+  "related_ids": [
+   "GOAL-EMP-000126-003"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 90.00 -> 91.00"
+ },
+ {
+  "label_id": "GT-000091",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001533",
+  "related_ids": [
+   "GOAL-EMP-000128-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 591000.00 -> 650100.00"
+ },
+ {
+  "label_id": "GT-000092",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001562",
+  "related_ids": [
+   "GOAL-EMP-000131-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 4.00 -> 3.00"
+ },
+ {
+  "label_id": "GT-000093",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001575",
+  "related_ids": [
+   "GOAL-EMP-000131-005"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Reduce customer-reported issues -> Reduce customer-reported issues (revised)"
+ },
+ {
+  "label_id": "GT-000094",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001590",
+  "related_ids": [
+   "GOAL-EMP-000132-004"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 511000.00 -> 459900.00"
+ },
+ {
+  "label_id": "GT-000095",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001594",
+  "related_ids": [
+   "GOAL-EMP-000133-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Deliver H1 Sales roadmap commitments -> Deliver H1 Sales roadmap commitments (revised)"
+ },
+ {
+  "label_id": "GT-000096",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001613",
+  "related_ids": [
+   "GOAL-EMP-000134-003"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Reduce customer-reported issues -> Reduce customer-reported issues (revised)"
+ },
+ {
+  "label_id": "GT-000097",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001642",
+  "related_ids": [
+   "GOAL-EMP-000137-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "target_value changed 24.00 -> 20.00"
+ },
+ {
+  "label_id": "GT-000098",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001650",
+  "related_ids": [
+   "GOAL-EMP-000138-001"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Improve Engineering unit economics -> Improve Engineering unit economics (revised)"
+ },
+ {
+  "label_id": "GT-000099",
+  "label_kind": "scenario",
+  "issue_type": "changed_goal",
+  "sub_type": "changed_goal",
+  "entity_type": "goal_version",
+  "entity_id": "GV-0001736",
+  "related_ids": [
+   "GOAL-EMP-000144-002"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "use_latest_approved_value",
+  "rule_reference": "S1: approved mid-cycle change is versioned",
+  "description": "title changed Raise team engagement score -> Raise team engagement score (revised)"
+ },
+ {
+  "label_id": "GT-000100",
+  "label_kind": "scenario",
+  "issue_type": "manager_transfer",
+  "sub_type": "manager_transfer",
+  "entity_type": "manager_assignment",
+  "entity_id": "MA-000077",
+  "related_ids": [
+   "EMP-000074",
+   "EMP-000077"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "reviewer_is_manager_at_cycle_end",
+  "rule_reference": "S2: transfers create a new effective-dated row",
+  "description": "EMP-000077 moved to EMP-000074 on 2026-07-29"
+ },
+ {
+  "label_id": "GT-000101",
+  "label_kind": "scenario",
+  "issue_type": "manager_transfer",
+  "sub_type": "manager_transfer",
+  "entity_type": "manager_assignment",
+  "entity_id": "MA-000124",
+  "related_ids": [
+   "EMP-000099",
+   "EMP-000123"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "reviewer_is_manager_at_cycle_end",
+  "rule_reference": "S2: transfers create a new effective-dated row",
+  "description": "EMP-000123 moved to EMP-000099 on 2026-09-04"
+ },
+ {
+  "label_id": "GT-000102",
+  "label_kind": "scenario",
+  "issue_type": "manager_transfer",
+  "sub_type": "manager_transfer",
+  "entity_type": "manager_assignment",
+  "entity_id": "MA-000145",
+  "related_ids": [
+   "EMP-000097",
+   "EMP-000143"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "reviewer_is_manager_at_cycle_end",
+  "rule_reference": "S2: transfers create a new effective-dated row",
+  "description": "EMP-000143 moved to EMP-000097 on 2026-06-26"
+ },
+ {
+  "label_id": "GT-000103",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000025",
+  "related_ids": [
+   "EMP-000026"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: active_goal"
+ },
+ {
+  "label_id": "GT-000104",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000027",
+  "related_ids": [
+   "EMP-000028"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: checkin:GOAL-EMP-000028-001"
+ },
+ {
+  "label_id": "GT-000105",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000032",
+  "related_ids": [
+   "EMP-000033"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: self_feedback;manager_feedback"
+ },
+ {
+  "label_id": "GT-000106",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000034",
+  "related_ids": [
+   "EMP-000035"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: self_feedback;manager_feedback"
+ },
+ {
+  "label_id": "GT-000107",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000043",
+  "related_ids": [
+   "EMP-000044"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: self_feedback;manager_feedback"
+ },
+ {
+  "label_id": "GT-000108",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000053",
+  "related_ids": [
+   "EMP-000054"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback;checkin:GOAL-EMP-000054-001"
+ },
+ {
+  "label_id": "GT-000109",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000071",
+  "related_ids": [
+   "EMP-000073"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback"
+ },
+ {
+  "label_id": "GT-000110",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000089",
+  "related_ids": [
+   "EMP-000091"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: active_goal"
+ },
+ {
+  "label_id": "GT-000111",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000094",
+  "related_ids": [
+   "EMP-000097"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: checkin:GOAL-EMP-000097-002"
+ },
+ {
+  "label_id": "GT-000112",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000095",
+  "related_ids": [
+   "EMP-000098"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: self_feedback;manager_feedback"
+ },
+ {
+  "label_id": "GT-000113",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000096",
+  "related_ids": [
+   "EMP-000099"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback"
+ },
+ {
+  "label_id": "GT-000114",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000099",
+  "related_ids": [
+   "EMP-000102"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback"
+ },
+ {
+  "label_id": "GT-000115",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000106",
+  "related_ids": [
+   "EMP-000109"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback"
+ },
+ {
+  "label_id": "GT-000116",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000114",
+  "related_ids": [
+   "EMP-000118"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: checkin:GOAL-EMP-000118-003"
+ },
+ {
+  "label_id": "GT-000117",
+  "label_kind": "scenario",
+  "issue_type": "incomplete_review",
+  "sub_type": "incomplete_review",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000131",
+  "related_ids": [
+   "EMP-000136"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "hold_from_calibration",
+  "rule_reference": "S3: completion requires all inputs",
+  "description": "missing: manager_feedback"
+ },
+ {
+  "label_id": "GT-000118",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000003",
+  "related_ids": [
+   "COMP-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02"
+ },
+ {
+  "label_id": "GT-000119",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000004",
+  "related_ids": [
+   "COMP-02",
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02, COMP-05"
+ },
+ {
+  "label_id": "GT-000120",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000010",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000121",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000015",
+  "related_ids": [
+   "COMP-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02"
+ },
+ {
+  "label_id": "GT-000122",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000019",
+  "related_ids": [
+   "COMP-02",
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02, COMP-05"
+ },
+ {
+  "label_id": "GT-000123",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000023",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000124",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000025",
+  "related_ids": [
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03"
+ },
+ {
+  "label_id": "GT-000125",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000037",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000126",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000040",
+  "related_ids": [
+   "COMP-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02"
+ },
+ {
+  "label_id": "GT-000127",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000045",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000128",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000186",
+  "related_ids": [
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03"
+ },
+ {
+  "label_id": "GT-000129",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000048",
+  "related_ids": [
+   "COMP-01"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-01"
+ },
+ {
+  "label_id": "GT-000130",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000191",
+  "related_ids": [
+   "COMP-01",
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-01, COMP-03"
+ },
+ {
+  "label_id": "GT-000131",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000062",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000132",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000064",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000133",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000067",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000134",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000075",
+  "related_ids": [
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03"
+ },
+ {
+  "label_id": "GT-000135",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000081",
+  "related_ids": [
+   "COMP-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02"
+ },
+ {
+  "label_id": "GT-000136",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000098",
+  "related_ids": [
+   "COMP-01"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-01"
+ },
+ {
+  "label_id": "GT-000137",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000105",
+  "related_ids": [
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03"
+ },
+ {
+  "label_id": "GT-000138",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000112",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000139",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000114",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000140",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000122",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000141",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000124",
+  "related_ids": [
+   "COMP-03"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03"
+ },
+ {
+  "label_id": "GT-000142",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000125",
+  "related_ids": [
+   "COMP-03",
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-03, COMP-05"
+ },
+ {
+  "label_id": "GT-000143",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000128",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000144",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000130",
+  "related_ids": [
+   "COMP-01"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-01"
+ },
+ {
+  "label_id": "GT-000145",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000136",
+  "related_ids": [
+   "COMP-02"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-02"
+ },
+ {
+  "label_id": "GT-000146",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000138",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000147",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000278",
+  "related_ids": [
+   "COMP-04"
+  ],
+  "cycle_id": "CYCLE-2026-H2",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-04"
+ },
+ {
+  "label_id": "GT-000148",
+  "label_kind": "scenario",
+  "issue_type": "conflicting_feedback",
+  "sub_type": "conflicting_feedback",
+  "entity_type": "review",
+  "entity_id": "REV-2026-000139",
+  "related_ids": [
+   "COMP-05"
+  ],
+  "cycle_id": "CYCLE-2026-H1",
+  "expected_decision": "flag_for_calibration",
+  "rule_reference": "S4: |self - manager| >= 2 on a competency",
+  "description": "conflict on COMP-05"
+ },
+ {
+  "label_id": "GT-000149",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000096",
+  "related_ids": [
+   "KR-GOAL-EMP-000033-001-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 104.25% with rationale"
+ },
+ {
+  "label_id": "GT-000150",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000241",
+  "related_ids": [
+   "KR-GOAL-EMP-000086-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 103.7% with rationale"
+ },
+ {
+  "label_id": "GT-000151",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000242",
+  "related_ids": [
+   "KR-GOAL-EMP-000086-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 102.33% with rationale"
+ },
+ {
+  "label_id": "GT-000152",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000293",
+  "related_ids": [
+   "KR-GOAL-EMP-000135-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 133.33% with rationale"
+ },
+ {
+  "label_id": "GT-000153",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000560",
+  "related_ids": [
+   "KR-GOAL-EMP-000021-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 120.0% with rationale"
+ },
+ {
+  "label_id": "GT-000154",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000659",
+  "related_ids": [
+   "KR-GOAL-EMP-000061-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 131.39% with rationale"
+ },
+ {
+  "label_id": "GT-000155",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000742",
+  "related_ids": [
+   "KR-GOAL-EMP-000116-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 109.09% with rationale"
+ },
+ {
+  "label_id": "GT-000156",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000743",
+  "related_ids": [
+   "KR-GOAL-EMP-000116-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 103.25% with rationale"
+ },
+ {
+  "label_id": "GT-000157",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000756",
+  "related_ids": [
+   "KR-GOAL-EMP-000028-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 120.0% with rationale"
+ },
+ {
+  "label_id": "GT-000158",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000862",
+  "related_ids": [
+   "KR-GOAL-EMP-000113-003-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 130.33% with rationale"
+ },
+ {
+  "label_id": "GT-000159",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000866",
+  "related_ids": [
+   "KR-GOAL-EMP-000126-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 112.5% with rationale"
+ },
+ {
+  "label_id": "GT-000160",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000890",
+  "related_ids": [
+   "KR-GOAL-EMP-000036-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 102.7% with rationale"
+ },
+ {
+  "label_id": "GT-000161",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000907",
+  "related_ids": [
+   "KR-GOAL-EMP-000144-003-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 105.72% with rationale"
+ },
+ {
+  "label_id": "GT-000162",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000951",
+  "related_ids": [
+   "KR-GOAL-EMP-000055-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 106.64% with rationale"
+ },
+ {
+  "label_id": "GT-000163",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000952",
+  "related_ids": [
+   "KR-GOAL-EMP-000044-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 108.0% with rationale"
+ },
+ {
+  "label_id": "GT-000164",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000969",
+  "related_ids": [
+   "KR-GOAL-EMP-000058-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 105.56% with rationale"
+ },
+ {
+  "label_id": "GT-000165",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000972",
+  "related_ids": [
+   "KR-GOAL-EMP-000006-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 100.64% with rationale"
+ },
+ {
+  "label_id": "GT-000166",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0000977",
+  "related_ids": [
+   "KR-GOAL-EMP-000129-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 104.38% with rationale"
+ },
+ {
+  "label_id": "GT-000167",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001011",
+  "related_ids": [
+   "KR-GOAL-EMP-000144-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 125.88% with rationale"
+ },
+ {
+  "label_id": "GT-000168",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001017",
+  "related_ids": [
+   "KR-GOAL-EMP-000013-003-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 101.83% with rationale"
+ },
+ {
+  "label_id": "GT-000169",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001022",
+  "related_ids": [
+   "KR-GOAL-EMP-000043-002-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 103.33% with rationale"
+ },
+ {
+  "label_id": "GT-000170",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001037",
+  "related_ids": [
+   "KR-GOAL-EMP-000120-001-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 122.22% with rationale"
+ },
+ {
+  "label_id": "GT-000171",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001057",
+  "related_ids": [
+   "KR-GOAL-EMP-000027-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 101.22% with rationale"
+ },
+ {
+  "label_id": "GT-000172",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001087",
+  "related_ids": [
+   "KR-GOAL-EMP-000112-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 107.69% with rationale"
+ },
+ {
+  "label_id": "GT-000173",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001096",
+  "related_ids": [
+   "KR-GOAL-EMP-000102-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 120.0% with rationale"
+ },
+ {
+  "label_id": "GT-000174",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001102",
+  "related_ids": [
+   "KR-GOAL-EMP-000104-001-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 125.0% with rationale"
+ },
+ {
+  "label_id": "GT-000175",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001115",
+  "related_ids": [
+   "KR-GOAL-EMP-000002-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 102.4% with rationale"
+ },
+ {
+  "label_id": "GT-000176",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001121",
+  "related_ids": [
+   "KR-GOAL-EMP-000063-002-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 136.36% with rationale"
+ },
+ {
+  "label_id": "GT-000177",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001125",
+  "related_ids": [
+   "KR-GOAL-EMP-000069-001-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 103.9% with rationale"
+ },
+ {
+  "label_id": "GT-000178",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001131",
+  "related_ids": [
+   "KR-GOAL-EMP-000049-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 102.2% with rationale"
+ },
+ {
+  "label_id": "GT-000179",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001141",
+  "related_ids": [
+   "KR-GOAL-EMP-000116-002-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 100.67% with rationale"
+ },
+ {
+  "label_id": "GT-000180",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001159",
+  "related_ids": [
+   "KR-GOAL-EMP-000039-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 102.78% with rationale"
+ },
+ {
+  "label_id": "GT-000181",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001169",
+  "related_ids": [
+   "KR-GOAL-EMP-000122-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 105.0% with rationale"
+ },
+ {
+  "label_id": "GT-000182",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001196",
+  "related_ids": [
+   "KR-GOAL-EMP-000113-002-04"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 101.37% with rationale"
+ },
+ {
+  "label_id": "GT-000183",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001206",
+  "related_ids": [
+   "KR-GOAL-EMP-000008-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 150.0% with rationale"
+ },
+ {
+  "label_id": "GT-000184",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001226",
+  "related_ids": [
+   "KR-GOAL-EMP-000032-001-03"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 122.29% with rationale"
+ },
+ {
+  "label_id": "GT-000185",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001234",
+  "related_ids": [
+   "KR-GOAL-EMP-000008-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 100.92% with rationale"
+ },
+ {
+  "label_id": "GT-000186",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001241",
+  "related_ids": [
+   "KR-GOAL-EMP-000118-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 109.25% with rationale"
+ },
+ {
+  "label_id": "GT-000187",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001243",
+  "related_ids": [
+   "KR-GOAL-EMP-000115-002-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 110.0% with rationale"
+ },
+ {
+  "label_id": "GT-000188",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001254",
+  "related_ids": [
+   "KR-GOAL-EMP-000080-001-02"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 114.29% with rationale"
+ },
+ {
+  "label_id": "GT-000189",
+  "label_kind": "scenario",
+  "issue_type": "overachievement_with_rationale",
+  "sub_type": "overachievement_with_rationale",
+  "entity_type": "kr_update",
+  "entity_id": "KRU-0001272",
+  "related_ids": [
+   "KR-GOAL-EMP-000023-001-01"
+  ],
+  "cycle_id": null,
+  "expected_decision": "allow_stretch_credit_up_to_120",
+  "rule_reference": "S5: justified over-achievement is capped at 120%",
+  "description": "raw 103.03% with rationale"
+ }
+]

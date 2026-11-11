@@ -1,0 +1,1141 @@
+kr_id,goal_id,description,metric_type,unit,direction,start_value,target_value,weight_pct,current_value,raw_progress_pct,scoring_progress_pct
+KR-GOAL-EMP-000002-001-01,GOAL-EMP-000002-001,Reduce p95 API latency,duration,ms,decrease,826.00,616.00,35,610.95,102.40,102.40
+KR-GOAL-EMP-000002-001-02,GOAL-EMP-000002-001,Cut open P1 defects,count,defects,decrease,35.00,20.00,65,21.00,93.33,93.33
+KR-GOAL-EMP-000003-001-01,GOAL-EMP-000003-001,Cut open P1 defects,count,defects,decrease,37.00,27.00,40,27.00,100.00,100.00
+KR-GOAL-EMP-000003-001-02,GOAL-EMP-000003-001,Raise automated test coverage,percentage,%,increase,55.00,73.00,60,72.74,98.56,98.56
+KR-GOAL-EMP-000003-002-01,GOAL-EMP-000003-002,Raise automated test coverage,percentage,%,increase,53.00,68.00,55,61.66,57.73,57.73
+KR-GOAL-EMP-000003-002-02,GOAL-EMP-000003-002,Cut open P1 defects,count,defects,decrease,21.00,6.00,45,7.00,93.33,93.33
+KR-GOAL-EMP-000004-001-01,GOAL-EMP-000004-001,Increase renewal rate,percentage,%,increase,78.00,83.00,50,80.95,59.00,59.00
+KR-GOAL-EMP-000004-001-02,GOAL-EMP-000004-001,Raise NPS,count,points,increase,40.00,46.00,50,44.00,66.67,66.67
+KR-GOAL-EMP-000004-002-01,GOAL-EMP-000004-002,Complete learning hours,count,hours,increase,0.00,20.00,100,20.00,100.00,100.00
+KR-GOAL-EMP-000004-003-01,GOAL-EMP-000004-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,55,5.00,100.00,100.00
+KR-GOAL-EMP-000004-003-02,GOAL-EMP-000004-003,Increase renewal rate,percentage,%,increase,87.00,95.00,45,90.04,38.00,38.00
+KR-GOAL-EMP-000005-001-01,GOAL-EMP-000005-001,Increase renewal rate,percentage,%,increase,88.00,94.00,65,89.87,31.17,31.17
+KR-GOAL-EMP-000005-001-02,GOAL-EMP-000005-001,Raise NPS,count,points,increase,41.00,48.00,35,45.00,57.14,57.14
+KR-GOAL-EMP-000006-001-01,GOAL-EMP-000006-001,Cut open P1 defects,count,defects,decrease,20.00,6.00,100,10.00,71.43,71.43
+KR-GOAL-EMP-000006-002-01,GOAL-EMP-000006-002,Raise automated test coverage,percentage,%,increase,55.00,69.00,35,69.09,100.64,100.64
+KR-GOAL-EMP-000006-002-02,GOAL-EMP-000006-002,Complete learning hours,count,hours,increase,0.00,34.00,65,26.00,76.47,76.47
+KR-GOAL-EMP-000006-003-01,GOAL-EMP-000006-003,Raise automated test coverage,percentage,%,increase,67.00,78.00,30,71.73,43.00,43.00
+KR-GOAL-EMP-000006-003-02,GOAL-EMP-000006-003,Complete learning hours,count,hours,increase,0.00,25.00,45,6.00,24.00,24.00
+KR-GOAL-EMP-000006-003-03,GOAL-EMP-000006-003,Cut open P1 defects,count,defects,decrease,22.00,12.00,25,14.00,80.00,80.00
+KR-GOAL-EMP-000007-001-01,GOAL-EMP-000007-001,Cut open P1 defects,count,defects,decrease,34.00,22.00,50,22.00,100.00,100.00
+KR-GOAL-EMP-000007-001-02,GOAL-EMP-000007-001,Ship production features,count,features,increase,0.00,10.00,50,10.00,100.00,100.00
+KR-GOAL-EMP-000007-002-01,GOAL-EMP-000007-002,Raise automated test coverage,percentage,%,increase,67.00,80.00,30,76.96,76.62,76.62
+KR-GOAL-EMP-000007-002-02,GOAL-EMP-000007-002,Reduce p95 API latency,duration,ms,decrease,787.00,616.00,25,619.96,97.68,97.68
+KR-GOAL-EMP-000007-002-03,GOAL-EMP-000007-002,Complete learning hours,count,hours,increase,0.00,15.00,20,15.00,100.00,100.00
+KR-GOAL-EMP-000007-002-04,GOAL-EMP-000007-002,Ship production features,count,features,increase,0.00,8.00,25,8.00,100.00,100.00
+KR-GOAL-EMP-000008-001-01,GOAL-EMP-000008-001,Raise engagement survey participation,percentage,%,increase,60.00,72.00,100,72.11,100.92,100.92
+KR-GOAL-EMP-000008-002-01,GOAL-EMP-000008-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,65,3.00,150.00,120.00
+KR-GOAL-EMP-000008-002-02,GOAL-EMP-000008-002,Raise engagement survey participation,percentage,%,increase,68.00,82.00,35,79.07,79.07,79.07
+KR-GOAL-EMP-000009-001-01,GOAL-EMP-000009-001,Reduce reconciliation exceptions,count,exceptions,decrease,74.00,56.00,30,57.00,94.44,94.44
+KR-GOAL-EMP-000009-001-02,GOAL-EMP-000009-001,Shorten month-end close,duration,days,decrease,10.00,7.00,35,7.32,89.33,89.33
+KR-GOAL-EMP-000009-001-03,GOAL-EMP-000009-001,Improve forecast accuracy,percentage,%,increase,81.00,86.00,35,85.48,89.60,89.60
+KR-GOAL-EMP-000009-002-01,GOAL-EMP-000009-002,Improve forecast accuracy,percentage,%,increase,88.00,94.00,65,93.26,87.67,87.67
+KR-GOAL-EMP-000009-002-02,GOAL-EMP-000009-002,Reduce reconciliation exceptions,count,exceptions,decrease,41.00,21.00,35,22.00,95.00,95.00
+KR-GOAL-EMP-000009-003-01,GOAL-EMP-000009-003,Improve forecast accuracy,percentage,%,increase,82.00,89.00,25,88.76,96.57,96.57
+KR-GOAL-EMP-000009-003-02,GOAL-EMP-000009-003,Shorten month-end close,duration,days,decrease,8.00,6.00,25,6.75,62.50,62.50
+KR-GOAL-EMP-000009-003-03,GOAL-EMP-000009-003,Reduce reconciliation exceptions,count,exceptions,decrease,52.00,19.00,30,20.00,96.97,96.97
+KR-GOAL-EMP-000009-003-04,GOAL-EMP-000009-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,20,6.00,100.00,100.00
+KR-GOAL-EMP-000010-001-01,GOAL-EMP-000010-001,Launch roadmap epics,count,epics,increase,0.00,5.00,50,3.00,60.00,60.00
+KR-GOAL-EMP-000010-001-02,GOAL-EMP-000010-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,50,2.00,100.00,100.00
+KR-GOAL-EMP-000011-001-01,GOAL-EMP-000011-001,Increase feature adoption,percentage,%,increase,38.00,49.00,100,39.71,15.55,15.55
+KR-GOAL-EMP-000012-001-01,GOAL-EMP-000012-001,Complete learning hours,count,hours,increase,0.00,38.00,55,38.00,100.00,100.00
+KR-GOAL-EMP-000012-001-02,GOAL-EMP-000012-001,Reduce churned accounts,count,accounts,decrease,45.00,33.00,45,35.00,83.33,83.33
+KR-GOAL-EMP-000012-002-01,GOAL-EMP-000012-002,Increase renewal rate,percentage,%,increase,83.00,91.00,60,86.97,49.62,49.62
+KR-GOAL-EMP-000012-002-02,GOAL-EMP-000012-002,Raise NPS,count,points,increase,34.00,48.00,40,43.00,64.29,64.29
+KR-GOAL-EMP-000013-001-01,GOAL-EMP-000013-001,Complete learning hours,count,hours,increase,0.00,34.00,30,34.00,100.00,100.00
+KR-GOAL-EMP-000013-001-02,GOAL-EMP-000013-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,4.00,100.00,100.00
+KR-GOAL-EMP-000013-001-03,GOAL-EMP-000013-001,Generate marketing qualified leads,count,MQLs,increase,0.00,1148.00,35,548.00,47.74,47.74
+KR-GOAL-EMP-000013-002-01,GOAL-EMP-000013-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,2.00,100.00,100.00
+KR-GOAL-EMP-000013-003-01,GOAL-EMP-000013-003,Grow organic traffic,percentage,%,increase,0.00,18.00,55,16.86,93.67,93.67
+KR-GOAL-EMP-000013-003-02,GOAL-EMP-000013-003,Generate marketing qualified leads,count,MQLs,increase,0.00,602.00,45,613.00,101.83,101.83
+KR-GOAL-EMP-000014-001-01,GOAL-EMP-000014-001,Grow organic traffic,percentage,%,increase,0.00,25.00,100,14.67,58.68,58.68
+KR-GOAL-EMP-000015-001-01,GOAL-EMP-000015-001,Close new ARR,currency,USD,increase,0.00,329000.00,100,293580.00,89.23,89.23
+KR-GOAL-EMP-000016-001-01,GOAL-EMP-000016-001,Build qualified pipeline,currency,USD,increase,0.00,1173000.00,25,257499.00,21.95,21.95
+KR-GOAL-EMP-000016-001-02,GOAL-EMP-000016-001,Close new ARR,currency,USD,increase,0.00,801000.00,40,201236.00,25.12,25.12
+KR-GOAL-EMP-000016-001-03,GOAL-EMP-000016-001,Win new logos,count,logos,increase,0.00,6.00,35,3.00,50.00,50.00
+KR-GOAL-EMP-000017-001-01,GOAL-EMP-000017-001,Increase feature adoption,percentage,%,increase,21.00,40.00,50,34.40,70.53,70.53
+KR-GOAL-EMP-000017-001-02,GOAL-EMP-000017-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,50,4.00,80.00,80.00
+KR-GOAL-EMP-000018-001-01,GOAL-EMP-000018-001,Reduce ticket resolution time,duration,hours,decrease,53.00,29.00,100,41.39,48.37,48.37
+KR-GOAL-EMP-000018-002-01,GOAL-EMP-000018-002,Automate manual processes,count,processes,increase,0.00,7.00,55,4.00,57.14,57.14
+KR-GOAL-EMP-000018-002-02,GOAL-EMP-000018-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,45,2.00,50.00,50.00
+KR-GOAL-EMP-000019-001-01,GOAL-EMP-000019-001,Win new logos,count,logos,increase,0.00,6.00,40,4.00,66.67,66.67
+KR-GOAL-EMP-000019-001-02,GOAL-EMP-000019-001,Close new ARR,currency,USD,increase,0.00,236000.00,35,151931.00,64.38,64.38
+KR-GOAL-EMP-000019-001-03,GOAL-EMP-000019-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,1.00,20.00,20.00
+KR-GOAL-EMP-000020-001-01,GOAL-EMP-000020-001,Reduce ticket resolution time,duration,hours,decrease,33.00,19.00,25,22.17,77.36,77.36
+KR-GOAL-EMP-000020-001-02,GOAL-EMP-000020-001,Automate manual processes,count,processes,increase,0.00,10.00,40,10.00,100.00,100.00
+KR-GOAL-EMP-000020-001-03,GOAL-EMP-000020-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,2.00,66.67,66.67
+KR-GOAL-EMP-000021-001-01,GOAL-EMP-000021-001,Complete learning hours,count,hours,increase,0.00,27.00,45,21.00,77.78,77.78
+KR-GOAL-EMP-000021-001-02,GOAL-EMP-000021-001,Reduce ticket resolution time,duration,hours,decrease,51.00,32.00,55,34.38,87.47,87.47
+KR-GOAL-EMP-000021-002-01,GOAL-EMP-000021-002,Complete learning hours,count,hours,increase,0.00,19.00,20,11.00,57.89,57.89
+KR-GOAL-EMP-000021-002-02,GOAL-EMP-000021-002,Automate manual processes,count,processes,increase,0.00,5.00,30,6.00,120.00,120.00
+KR-GOAL-EMP-000021-002-03,GOAL-EMP-000021-002,Improve SLA attainment,percentage,%,increase,89.00,96.00,15,90.88,26.86,26.86
+KR-GOAL-EMP-000021-002-04,GOAL-EMP-000021-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,7.00,35,6.00,85.71,85.71
+KR-GOAL-EMP-000022-001-01,GOAL-EMP-000022-001,Improve forecast accuracy,percentage,%,increase,82.00,90.00,45,85.52,44.00,44.00
+KR-GOAL-EMP-000022-001-02,GOAL-EMP-000022-001,Complete learning hours,count,hours,increase,0.00,30.00,55,12.00,40.00,40.00
+KR-GOAL-EMP-000023-001-01,GOAL-EMP-000023-001,Complete learning hours,count,hours,increase,0.00,33.00,30,34.00,103.03,103.03
+KR-GOAL-EMP-000023-001-02,GOAL-EMP-000023-001,Cut open P1 defects,count,defects,decrease,31.00,22.00,35,25.00,66.67,66.67
+KR-GOAL-EMP-000023-001-03,GOAL-EMP-000023-001,Reduce p95 API latency,duration,ms,decrease,727.00,640.00,35,667.22,68.71,68.71
+KR-GOAL-EMP-000024-001-01,GOAL-EMP-000024-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,2.00,50.00,50.00
+KR-GOAL-EMP-000024-001-02,GOAL-EMP-000024-001,Complete learning hours,count,hours,increase,0.00,13.00,15,11.00,84.62,84.62
+KR-GOAL-EMP-000024-001-03,GOAL-EMP-000024-001,Close new ARR,currency,USD,increase,0.00,768000.00,30,271711.00,35.38,35.38
+KR-GOAL-EMP-000024-001-04,GOAL-EMP-000024-001,Build qualified pipeline,currency,USD,increase,0.00,616000.00,30,419646.00,68.12,68.12
+KR-GOAL-EMP-000025-001-01,GOAL-EMP-000025-001,Improve SLA attainment,percentage,%,increase,87.00,93.00,100,88.22,20.33,20.33
+KR-GOAL-EMP-000025-002-01,GOAL-EMP-000025-002,Complete learning hours,count,hours,increase,0.00,12.00,30,5.00,41.67,41.67
+KR-GOAL-EMP-000025-002-02,GOAL-EMP-000025-002,Automate manual processes,count,processes,increase,0.00,3.00,20,2.00,66.67,66.67
+KR-GOAL-EMP-000025-002-03,GOAL-EMP-000025-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,4.00,66.67,66.67
+KR-GOAL-EMP-000026-001-01,GOAL-EMP-000026-001,Reduce p95 API latency,duration,ms,decrease,817.00,565.00,50,734.82,32.61,32.61
+KR-GOAL-EMP-000026-001-02,GOAL-EMP-000026-001,Complete learning hours,count,hours,increase,0.00,38.00,50,12.00,31.58,31.58
+KR-GOAL-EMP-000026-002-01,GOAL-EMP-000026-002,Complete learning hours,count,hours,increase,0.00,37.00,100,26.00,70.27,70.27
+KR-GOAL-EMP-000027-001-01,GOAL-EMP-000027-001,Complete learning hours,count,hours,increase,0.00,14.00,60,14.00,100.00,100.00
+KR-GOAL-EMP-000027-001-02,GOAL-EMP-000027-001,Raise automated test coverage,percentage,%,increase,49.00,63.00,40,57.34,59.57,59.57
+KR-GOAL-EMP-000027-002-01,GOAL-EMP-000027-002,Raise automated test coverage,percentage,%,increase,61.00,70.00,40,70.11,101.22,101.22
+KR-GOAL-EMP-000027-002-02,GOAL-EMP-000027-002,Ship production features,count,features,increase,0.00,12.00,25,9.00,75.00,75.00
+KR-GOAL-EMP-000027-002-03,GOAL-EMP-000027-002,Cut open P1 defects,count,defects,decrease,37.00,26.00,35,33.00,36.36,36.36
+KR-GOAL-EMP-000027-003-01,GOAL-EMP-000027-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,65,3.00,75.00,75.00
+KR-GOAL-EMP-000027-003-02,GOAL-EMP-000027-003,Raise automated test coverage,percentage,%,increase,65.00,76.00,35,74.20,83.64,83.64
+KR-GOAL-EMP-000028-001-01,GOAL-EMP-000028-001,Win new logos,count,logos,increase,0.00,10.00,25,0.00,0.00,0.00
+KR-GOAL-EMP-000028-001-02,GOAL-EMP-000028-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,75,0.00,0.00,0.00
+KR-GOAL-EMP-000028-002-01,GOAL-EMP-000028-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,2.00,100.00,100.00
+KR-GOAL-EMP-000028-002-02,GOAL-EMP-000028-002,Win new logos,count,logos,increase,0.00,15.00,30,18.00,120.00,120.00
+KR-GOAL-EMP-000028-002-03,GOAL-EMP-000028-002,Close new ARR,currency,USD,increase,0.00,595000.00,35,561515.00,94.37,94.37
+KR-GOAL-EMP-000029-001-01,GOAL-EMP-000029-001,Ship production features,count,features,increase,0.00,10.00,100,9.00,90.00,90.00
+KR-GOAL-EMP-000030-001-01,GOAL-EMP-000030-001,Automate manual processes,count,processes,increase,0.00,7.00,100,5.00,71.43,71.43
+KR-GOAL-EMP-000031-001-01,GOAL-EMP-000031-001,Cut open P1 defects,count,defects,decrease,31.00,21.00,45,25.00,60.00,60.00
+KR-GOAL-EMP-000031-001-02,GOAL-EMP-000031-001,Reduce p95 API latency,duration,ms,decrease,712.00,468.00,55,564.96,60.26,60.26
+KR-GOAL-EMP-000032-001-01,GOAL-EMP-000032-001,Close new ARR,currency,USD,increase,0.00,783000.00,35,506543.00,64.69,64.69
+KR-GOAL-EMP-000032-001-02,GOAL-EMP-000032-001,Win new logos,count,logos,increase,0.00,8.00,45,6.00,75.00,75.00
+KR-GOAL-EMP-000032-001-03,GOAL-EMP-000032-001,Build qualified pipeline,currency,USD,increase,0.00,706000.00,20,863399.00,122.29,120.00
+KR-GOAL-EMP-000032-002-01,GOAL-EMP-000032-002,Complete learning hours,count,hours,increase,0.00,35.00,35,24.00,68.57,68.57
+KR-GOAL-EMP-000032-002-02,GOAL-EMP-000032-002,Build qualified pipeline,currency,USD,increase,0.00,2094000.00,25,1534350.00,73.27,73.27
+KR-GOAL-EMP-000032-002-03,GOAL-EMP-000032-002,Close new ARR,currency,USD,increase,0.00,669000.00,40,570670.00,85.30,85.30
+KR-GOAL-EMP-000033-001-01,GOAL-EMP-000033-001,Raise NPS,count,points,increase,25.00,37.00,45,34.00,75.00,75.00
+KR-GOAL-EMP-000033-001-02,GOAL-EMP-000033-001,Complete learning hours,count,hours,increase,0.00,17.00,30,14.00,82.35,82.35
+KR-GOAL-EMP-000033-001-03,GOAL-EMP-000033-001,Increase renewal rate,percentage,%,increase,85.00,89.00,25,89.17,104.25,104.25
+KR-GOAL-EMP-000033-002-01,GOAL-EMP-000033-002,Complete learning hours,count,hours,increase,0.00,22.00,40,22.00,100.00,100.00
+KR-GOAL-EMP-000033-002-02,GOAL-EMP-000033-002,Raise NPS,count,points,increase,43.00,51.00,60,49.00,75.00,75.00
+KR-GOAL-EMP-000033-003-01,GOAL-EMP-000033-003,Raise NPS,count,points,increase,35.00,49.00,55,44.00,64.29,64.29
+KR-GOAL-EMP-000033-003-02,GOAL-EMP-000033-003,Reduce churned accounts,count,accounts,decrease,40.00,34.00,45,34.00,100.00,100.00
+KR-GOAL-EMP-000034-001-01,GOAL-EMP-000034-001,Close new ARR,currency,USD,increase,0.00,652000.00,20,519988.00,79.75,79.75
+KR-GOAL-EMP-000034-001-02,GOAL-EMP-000034-001,Complete learning hours,count,hours,increase,0.00,30.00,40,30.00,100.00,100.00
+KR-GOAL-EMP-000034-001-03,GOAL-EMP-000034-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,40,3.00,60.00,60.00
+KR-GOAL-EMP-000034-002-01,GOAL-EMP-000034-002,Complete learning hours,count,hours,increase,0.00,18.00,50,18.00,100.00,100.00
+KR-GOAL-EMP-000034-002-02,GOAL-EMP-000034-002,Build qualified pipeline,currency,USD,increase,0.00,458000.00,50,453621.00,99.04,99.04
+KR-GOAL-EMP-000035-001-01,GOAL-EMP-000035-001,Reduce p95 API latency,duration,ms,decrease,857.00,594.00,60,752.23,39.84,39.84
+KR-GOAL-EMP-000035-001-02,GOAL-EMP-000035-001,Raise automated test coverage,percentage,%,increase,51.00,65.00,40,60.56,68.29,68.29
+KR-GOAL-EMP-000036-001-01,GOAL-EMP-000036-001,Reduce cost per lead,currency,USD,decrease,93.00,56.00,55,55.00,102.70,102.70
+KR-GOAL-EMP-000036-001-02,GOAL-EMP-000036-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,45,5.00,100.00,100.00
+KR-GOAL-EMP-000036-002-01,GOAL-EMP-000036-002,Complete learning hours,count,hours,increase,0.00,34.00,40,34.00,100.00,100.00
+KR-GOAL-EMP-000036-002-02,GOAL-EMP-000036-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,4.00,100.00,100.00
+KR-GOAL-EMP-000036-002-03,GOAL-EMP-000036-002,Grow organic traffic,percentage,%,increase,0.00,25.00,35,23.85,95.40,95.40
+KR-GOAL-EMP-000037-001-01,GOAL-EMP-000037-001,Complete learning hours,count,hours,increase,0.00,25.00,45,10.00,40.00,40.00
+KR-GOAL-EMP-000037-001-02,GOAL-EMP-000037-001,Increase feature adoption,percentage,%,increase,40.00,49.00,55,45.66,62.89,62.89
+KR-GOAL-EMP-000037-002-01,GOAL-EMP-000037-002,Complete learning hours,count,hours,increase,0.00,36.00,55,22.00,61.11,61.11
+KR-GOAL-EMP-000037-002-02,GOAL-EMP-000037-002,Launch roadmap epics,count,epics,increase,0.00,6.00,45,4.00,66.67,66.67
+KR-GOAL-EMP-000038-001-01,GOAL-EMP-000038-001,Deliver training sessions,count,sessions,increase,0.00,20.00,35,6.00,30.00,30.00
+KR-GOAL-EMP-000038-001-02,GOAL-EMP-000038-001,Complete learning hours,count,hours,increase,0.00,22.00,35,5.00,22.73,22.73
+KR-GOAL-EMP-000038-001-03,GOAL-EMP-000038-001,Raise engagement survey participation,percentage,%,increase,74.00,87.00,30,76.74,21.08,21.08
+KR-GOAL-EMP-000038-002-01,GOAL-EMP-000038-002,Complete learning hours,count,hours,increase,0.00,36.00,25,22.00,61.11,61.11
+KR-GOAL-EMP-000038-002-02,GOAL-EMP-000038-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,3.00,75.00,75.00
+KR-GOAL-EMP-000038-002-03,GOAL-EMP-000038-002,Raise engagement survey participation,percentage,%,increase,73.00,89.00,35,82.29,58.06,58.06
+KR-GOAL-EMP-000039-001-01,GOAL-EMP-000039-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,4.00,100.00,100.00
+KR-GOAL-EMP-000039-001-02,GOAL-EMP-000039-001,Reduce ticket resolution time,duration,hours,decrease,30.00,12.00,15,11.50,102.78,102.78
+KR-GOAL-EMP-000039-001-03,GOAL-EMP-000039-001,Automate manual processes,count,processes,increase,0.00,10.00,50,10.00,100.00,100.00
+KR-GOAL-EMP-000040-001-01,GOAL-EMP-000040-001,Increase renewal rate,percentage,%,increase,82.00,90.00,100,89.10,88.75,88.75
+KR-GOAL-EMP-000040-002-01,GOAL-EMP-000040-002,Complete learning hours,count,hours,increase,0.00,28.00,60,27.00,96.43,96.43
+KR-GOAL-EMP-000040-002-02,GOAL-EMP-000040-002,Reduce churned accounts,count,accounts,decrease,34.00,29.00,40,30.00,80.00,80.00
+KR-GOAL-EMP-000041-001-01,GOAL-EMP-000041-001,Launch roadmap epics,count,epics,increase,0.00,3.00,35,3.00,100.00,100.00
+KR-GOAL-EMP-000041-001-02,GOAL-EMP-000041-001,Complete customer discovery interviews,count,interviews,increase,0.00,25.00,35,12.00,48.00,48.00
+KR-GOAL-EMP-000041-001-03,GOAL-EMP-000041-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,30,3.00,75.00,75.00
+KR-GOAL-EMP-000041-002-01,GOAL-EMP-000041-002,Launch roadmap epics,count,epics,increase,0.00,6.00,100,6.00,100.00,100.00
+KR-GOAL-EMP-000042-001-01,GOAL-EMP-000042-001,Improve SLA attainment,percentage,%,increase,85.00,92.00,40,90.54,79.14,79.14
+KR-GOAL-EMP-000042-001-02,GOAL-EMP-000042-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,60,2.00,66.67,66.67
+KR-GOAL-EMP-000043-001-01,GOAL-EMP-000043-001,Increase feature adoption,percentage,%,increase,30.00,44.00,20,32.09,14.93,14.93
+KR-GOAL-EMP-000043-001-02,GOAL-EMP-000043-001,Complete customer discovery interviews,count,interviews,increase,0.00,11.00,25,3.00,27.27,27.27
+KR-GOAL-EMP-000043-001-03,GOAL-EMP-000043-001,Launch roadmap epics,count,epics,increase,0.00,5.00,25,1.00,20.00,20.00
+KR-GOAL-EMP-000043-001-04,GOAL-EMP-000043-001,Complete learning hours,count,hours,increase,0.00,40.00,30,6.00,15.00,15.00
+KR-GOAL-EMP-000043-002-01,GOAL-EMP-000043-002,Increase feature adoption,percentage,%,increase,39.00,53.00,20,49.60,75.71,75.71
+KR-GOAL-EMP-000043-002-02,GOAL-EMP-000043-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,20,6.00,100.00,100.00
+KR-GOAL-EMP-000043-002-03,GOAL-EMP-000043-002,Complete customer discovery interviews,count,interviews,increase,0.00,30.00,35,31.00,103.33,103.33
+KR-GOAL-EMP-000043-002-04,GOAL-EMP-000043-002,Complete learning hours,count,hours,increase,0.00,31.00,25,16.00,51.61,51.61
+KR-GOAL-EMP-000044-001-01,GOAL-EMP-000044-001,Raise engagement survey participation,percentage,%,increase,70.00,85.00,60,86.20,108.00,108.00
+KR-GOAL-EMP-000044-001-02,GOAL-EMP-000044-001,Reduce time to hire,duration,days,decrease,46.00,28.00,40,36.55,52.50,52.50
+KR-GOAL-EMP-000045-001-01,GOAL-EMP-000045-001,Shorten month-end close,duration,days,decrease,10.00,6.00,55,7.88,53.00,53.00
+KR-GOAL-EMP-000045-001-02,GOAL-EMP-000045-001,Improve forecast accuracy,percentage,%,increase,85.00,93.00,45,88.32,41.50,41.50
+KR-GOAL-EMP-000045-002-01,GOAL-EMP-000045-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,60,2.00,40.00,40.00
+KR-GOAL-EMP-000045-002-02,GOAL-EMP-000045-002,Shorten month-end close,duration,days,decrease,8.00,4.00,40,5.88,53.00,53.00
+KR-GOAL-EMP-000046-001-01,GOAL-EMP-000046-001,Build qualified pipeline,currency,USD,increase,0.00,706000.00,45,423861.00,60.04,60.04
+KR-GOAL-EMP-000046-001-02,GOAL-EMP-000046-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,30,2.00,33.33,33.33
+KR-GOAL-EMP-000046-001-03,GOAL-EMP-000046-001,Close new ARR,currency,USD,increase,0.00,691000.00,25,622600.00,90.10,90.10
+KR-GOAL-EMP-000046-002-01,GOAL-EMP-000046-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,45,2.00,40.00,40.00
+KR-GOAL-EMP-000046-002-02,GOAL-EMP-000046-002,Complete learning hours,count,hours,increase,0.00,32.00,25,26.00,81.25,81.25
+KR-GOAL-EMP-000046-002-03,GOAL-EMP-000046-002,Build qualified pipeline,currency,USD,increase,0.00,723000.00,30,243415.00,33.67,33.67
+KR-GOAL-EMP-000047-001-01,GOAL-EMP-000047-001,Automate manual processes,count,processes,increase,0.00,5.00,100,4.00,80.00,80.00
+KR-GOAL-EMP-000047-002-01,GOAL-EMP-000047-002,Reduce ticket resolution time,duration,hours,decrease,57.00,42.00,40,44.73,81.80,81.80
+KR-GOAL-EMP-000047-002-02,GOAL-EMP-000047-002,Automate manual processes,count,processes,increase,0.00,5.00,60,4.00,80.00,80.00
+KR-GOAL-EMP-000048-001-01,GOAL-EMP-000048-001,Cut open P1 defects,count,defects,decrease,26.00,14.00,40,19.00,58.33,58.33
+KR-GOAL-EMP-000048-001-02,GOAL-EMP-000048-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,60,2.00,40.00,40.00
+KR-GOAL-EMP-000048-002-01,GOAL-EMP-000048-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,15,4.00,80.00,80.00
+KR-GOAL-EMP-000048-002-02,GOAL-EMP-000048-002,Ship production features,count,features,increase,0.00,6.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000048-002-03,GOAL-EMP-000048-002,Raise automated test coverage,percentage,%,increase,55.00,65.00,35,61.40,64.00,64.00
+KR-GOAL-EMP-000048-003-01,GOAL-EMP-000048-003,Reduce p95 API latency,duration,ms,decrease,711.00,419.00,100,451.44,88.89,88.89
+KR-GOAL-EMP-000048-004-01,GOAL-EMP-000048-004,Ship production features,count,features,increase,0.00,10.00,40,7.00,70.00,70.00
+KR-GOAL-EMP-000048-004-02,GOAL-EMP-000048-004,Reduce p95 API latency,duration,ms,decrease,723.00,553.00,30,660.22,36.93,36.93
+KR-GOAL-EMP-000048-004-03,GOAL-EMP-000048-004,Complete learning hours,count,hours,increase,0.00,26.00,30,16.00,61.54,61.54
+KR-GOAL-EMP-000049-001-01,GOAL-EMP-000049-001,Reduce cost per lead,currency,USD,decrease,93.00,72.00,45,77.00,76.19,76.19
+KR-GOAL-EMP-000049-001-02,GOAL-EMP-000049-001,Grow organic traffic,percentage,%,increase,0.00,15.00,55,15.33,102.20,102.20
+KR-GOAL-EMP-000050-001-01,GOAL-EMP-000050-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,100,3.00,100.00,100.00
+KR-GOAL-EMP-000051-001-01,GOAL-EMP-000051-001,Reduce cost per lead,currency,USD,decrease,142.00,112.00,100,117.00,83.33,83.33
+KR-GOAL-EMP-000051-002-01,GOAL-EMP-000051-002,Generate marketing qualified leads,count,MQLs,increase,0.00,1268.00,60,809.00,63.80,63.80
+KR-GOAL-EMP-000051-002-02,GOAL-EMP-000051-002,Reduce cost per lead,currency,USD,decrease,132.00,115.00,40,116.00,94.12,94.12
+KR-GOAL-EMP-000052-001-01,GOAL-EMP-000052-001,Complete learning hours,count,hours,increase,0.00,40.00,35,35.00,87.50,87.50
+KR-GOAL-EMP-000052-001-02,GOAL-EMP-000052-001,Deliver training sessions,count,sessions,increase,0.00,17.00,25,14.00,82.35,82.35
+KR-GOAL-EMP-000052-001-03,GOAL-EMP-000052-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,40,2.00,33.33,33.33
+KR-GOAL-EMP-000052-002-01,GOAL-EMP-000052-002,Raise engagement survey participation,percentage,%,increase,73.00,84.00,100,79.77,61.55,61.55
+KR-GOAL-EMP-000053-001-01,GOAL-EMP-000053-001,Complete learning hours,count,hours,increase,0.00,36.00,50,16.00,44.44,44.44
+KR-GOAL-EMP-000053-001-02,GOAL-EMP-000053-001,Improve forecast accuracy,percentage,%,increase,83.00,86.00,50,84.32,44.00,44.00
+KR-GOAL-EMP-000053-002-01,GOAL-EMP-000053-002,Reduce reconciliation exceptions,count,exceptions,decrease,51.00,18.00,100,50.00,3.03,3.03
+KR-GOAL-EMP-000054-001-01,GOAL-EMP-000054-001,Increase renewal rate,percentage,%,increase,78.00,85.00,100,78.00,0.00,0.00
+KR-GOAL-EMP-000055-001-01,GOAL-EMP-000055-001,Build qualified pipeline,currency,USD,increase,0.00,1195000.00,45,1080338.00,90.40,90.40
+KR-GOAL-EMP-000055-001-02,GOAL-EMP-000055-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,55,3.00,100.00,100.00
+KR-GOAL-EMP-000055-002-01,GOAL-EMP-000055-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,3.00,75.00,75.00
+KR-GOAL-EMP-000055-002-02,GOAL-EMP-000055-002,Close new ARR,currency,USD,increase,0.00,546000.00,60,582247.00,106.64,106.64
+KR-GOAL-EMP-000055-003-01,GOAL-EMP-000055-003,Win new logos,count,logos,increase,0.00,13.00,100,12.00,92.31,92.31
+KR-GOAL-EMP-000056-001-01,GOAL-EMP-000056-001,Ship production features,count,features,increase,0.00,4.00,65,1.00,25.00,25.00
+KR-GOAL-EMP-000056-001-02,GOAL-EMP-000056-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,1.00,50.00,50.00
+KR-GOAL-EMP-000056-002-01,GOAL-EMP-000056-002,Complete learning hours,count,hours,increase,0.00,31.00,60,23.00,74.19,74.19
+KR-GOAL-EMP-000056-002-02,GOAL-EMP-000056-002,Ship production features,count,features,increase,0.00,11.00,40,10.00,90.91,90.91
+KR-GOAL-EMP-000057-001-01,GOAL-EMP-000057-001,Close new ARR,currency,USD,increase,0.00,566000.00,40,523238.00,92.44,92.44
+KR-GOAL-EMP-000057-001-02,GOAL-EMP-000057-001,Complete learning hours,count,hours,increase,0.00,12.00,30,11.00,91.67,91.67
+KR-GOAL-EMP-000057-001-03,GOAL-EMP-000057-001,Win new logos,count,logos,increase,0.00,12.00,30,4.00,33.33,33.33
+KR-GOAL-EMP-000057-002-01,GOAL-EMP-000057-002,Complete learning hours,count,hours,increase,0.00,26.00,35,24.00,92.31,92.31
+KR-GOAL-EMP-000057-002-02,GOAL-EMP-000057-002,Build qualified pipeline,currency,USD,increase,0.00,1316000.00,30,944331.00,71.76,71.76
+KR-GOAL-EMP-000057-002-03,GOAL-EMP-000057-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,3.00,100.00,100.00
+KR-GOAL-EMP-000057-003-01,GOAL-EMP-000057-003,Win new logos,count,logos,increase,0.00,10.00,25,8.00,80.00,80.00
+KR-GOAL-EMP-000057-003-02,GOAL-EMP-000057-003,Close new ARR,currency,USD,increase,0.00,606000.00,40,386684.00,63.81,63.81
+KR-GOAL-EMP-000057-003-03,GOAL-EMP-000057-003,Build qualified pipeline,currency,USD,increase,0.00,2181000.00,35,998837.00,45.80,45.80
+KR-GOAL-EMP-000058-001-01,GOAL-EMP-000058-001,Complete learning hours,count,hours,increase,0.00,23.00,100,8.00,34.78,34.78
+KR-GOAL-EMP-000058-002-01,GOAL-EMP-000058-002,Increase feature adoption,percentage,%,increase,20.00,35.00,50,27.90,52.67,52.67
+KR-GOAL-EMP-000058-002-02,GOAL-EMP-000058-002,Complete customer discovery interviews,count,interviews,increase,0.00,18.00,50,19.00,105.56,105.56
+KR-GOAL-EMP-000058-003-01,GOAL-EMP-000058-003,Complete customer discovery interviews,count,interviews,increase,0.00,21.00,15,8.00,38.10,38.10
+KR-GOAL-EMP-000058-003-02,GOAL-EMP-000058-003,Complete learning hours,count,hours,increase,0.00,36.00,30,22.00,61.11,61.11
+KR-GOAL-EMP-000058-003-03,GOAL-EMP-000058-003,Launch roadmap epics,count,epics,increase,0.00,3.00,30,1.00,33.33,33.33
+KR-GOAL-EMP-000058-003-04,GOAL-EMP-000058-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,4.00,80.00,80.00
+KR-GOAL-EMP-000059-001-01,GOAL-EMP-000059-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,65,0.00,0.00,0.00
+KR-GOAL-EMP-000059-001-02,GOAL-EMP-000059-001,Cut open P1 defects,count,defects,decrease,36.00,26.00,35,36.00,0.00,0.00
+KR-GOAL-EMP-000059-002-01,GOAL-EMP-000059-002,Raise automated test coverage,percentage,%,increase,55.00,64.00,25,63.65,96.11,96.11
+KR-GOAL-EMP-000059-002-02,GOAL-EMP-000059-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,30,6.00,100.00,100.00
+KR-GOAL-EMP-000059-002-03,GOAL-EMP-000059-002,Reduce p95 API latency,duration,ms,decrease,588.00,398.00,35,400.01,98.94,98.94
+KR-GOAL-EMP-000059-002-04,GOAL-EMP-000059-002,Cut open P1 defects,count,defects,decrease,30.00,20.00,10,21.00,90.00,90.00
+KR-GOAL-EMP-000060-001-01,GOAL-EMP-000060-001,Ship production features,count,features,increase,0.00,7.00,100,7.00,100.00,100.00
+KR-GOAL-EMP-000061-001-01,GOAL-EMP-000061-001,Cut open P1 defects,count,defects,decrease,32.00,22.00,50,22.00,100.00,100.00
+KR-GOAL-EMP-000061-001-02,GOAL-EMP-000061-001,Ship production features,count,features,increase,0.00,9.00,50,5.00,55.56,55.56
+KR-GOAL-EMP-000061-002-01,GOAL-EMP-000061-002,Complete learning hours,count,hours,increase,0.00,39.00,45,25.00,64.10,64.10
+KR-GOAL-EMP-000061-002-02,GOAL-EMP-000061-002,Reduce p95 API latency,duration,ms,decrease,670.00,469.00,35,405.91,131.39,120.00
+KR-GOAL-EMP-000061-002-03,GOAL-EMP-000061-002,Raise automated test coverage,percentage,%,increase,69.00,83.00,20,82.99,99.93,99.93
+KR-GOAL-EMP-000062-001-01,GOAL-EMP-000062-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,40,2.00,100.00,100.00
+KR-GOAL-EMP-000062-001-02,GOAL-EMP-000062-001,Complete learning hours,count,hours,increase,0.00,21.00,40,16.00,76.19,76.19
+KR-GOAL-EMP-000062-001-03,GOAL-EMP-000062-001,Win new logos,count,logos,increase,0.00,3.00,20,2.00,66.67,66.67
+KR-GOAL-EMP-000062-002-01,GOAL-EMP-000062-002,Complete learning hours,count,hours,increase,0.00,31.00,20,24.00,77.42,77.42
+KR-GOAL-EMP-000062-002-02,GOAL-EMP-000062-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,35,2.00,40.00,40.00
+KR-GOAL-EMP-000062-002-03,GOAL-EMP-000062-002,Win new logos,count,logos,increase,0.00,7.00,45,3.00,42.86,42.86
+KR-GOAL-EMP-000062-003-01,GOAL-EMP-000062-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,45,3.00,60.00,60.00
+KR-GOAL-EMP-000062-003-02,GOAL-EMP-000062-003,Complete learning hours,count,hours,increase,0.00,14.00,55,8.00,57.14,57.14
+KR-GOAL-EMP-000062-004-01,GOAL-EMP-000062-004,Close new ARR,currency,USD,increase,0.00,218000.00,45,118031.00,54.14,54.14
+KR-GOAL-EMP-000062-004-02,GOAL-EMP-000062-004,Win new logos,count,logos,increase,0.00,12.00,55,9.00,75.00,75.00
+KR-GOAL-EMP-000063-001-01,GOAL-EMP-000063-001,Ship production features,count,features,increase,0.00,7.00,65,5.00,71.43,71.43
+KR-GOAL-EMP-000063-001-02,GOAL-EMP-000063-001,Raise automated test coverage,percentage,%,increase,55.00,71.00,35,63.88,55.50,55.50
+KR-GOAL-EMP-000063-002-01,GOAL-EMP-000063-002,Raise automated test coverage,percentage,%,increase,51.00,67.00,30,61.04,62.75,62.75
+KR-GOAL-EMP-000063-002-02,GOAL-EMP-000063-002,Complete learning hours,count,hours,increase,0.00,22.00,35,30.00,136.36,120.00
+KR-GOAL-EMP-000063-002-03,GOAL-EMP-000063-002,Reduce p95 API latency,duration,ms,decrease,617.00,473.00,35,474.90,98.68,98.68
+KR-GOAL-EMP-000064-001-01,GOAL-EMP-000064-001,Close new ARR,currency,USD,increase,0.00,783000.00,25,510824.00,65.24,65.24
+KR-GOAL-EMP-000064-001-02,GOAL-EMP-000064-001,Win new logos,count,logos,increase,0.00,11.00,30,11.00,100.00,100.00
+KR-GOAL-EMP-000064-001-03,GOAL-EMP-000064-001,Complete learning hours,count,hours,increase,0.00,17.00,30,17.00,100.00,100.00
+KR-GOAL-EMP-000064-001-04,GOAL-EMP-000064-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,15,2.00,66.67,66.67
+KR-GOAL-EMP-000065-001-01,GOAL-EMP-000065-001,Cut open P1 defects,count,defects,decrease,39.00,31.00,25,33.00,75.00,75.00
+KR-GOAL-EMP-000065-001-02,GOAL-EMP-000065-001,Reduce p95 API latency,duration,ms,decrease,496.00,313.00,35,298.10,108.14,100.00
+KR-GOAL-EMP-000065-001-03,GOAL-EMP-000065-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,40,5.00,100.00,100.00
+KR-GOAL-EMP-000066-001-01,GOAL-EMP-000066-001,Cut open P1 defects,count,defects,decrease,23.00,12.00,65,13.00,90.91,90.91
+KR-GOAL-EMP-000066-001-02,GOAL-EMP-000066-001,Complete learning hours,count,hours,increase,0.00,21.00,35,16.00,76.19,76.19
+KR-GOAL-EMP-000066-002-01,GOAL-EMP-000066-002,Cut open P1 defects,count,defects,decrease,25.00,17.00,40,18.00,87.50,87.50
+KR-GOAL-EMP-000066-002-02,GOAL-EMP-000066-002,Ship production features,count,features,increase,0.00,12.00,60,12.00,100.00,100.00
+KR-GOAL-EMP-000066-003-01,GOAL-EMP-000066-003,Complete learning hours,count,hours,increase,0.00,26.00,100,26.00,100.00,100.00
+KR-GOAL-EMP-000068-001-01,GOAL-EMP-000068-001,Improve forecast accuracy,percentage,%,increase,82.00,89.00,100,84.51,35.86,35.86
+KR-GOAL-EMP-000069-001-01,GOAL-EMP-000069-001,Complete learning hours,count,hours,increase,0.00,32.00,35,28.00,87.50,87.50
+KR-GOAL-EMP-000069-001-02,GOAL-EMP-000069-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,10,4.00,80.00,80.00
+KR-GOAL-EMP-000069-001-03,GOAL-EMP-000069-001,Reduce time to hire,duration,days,decrease,43.00,33.00,30,32.61,103.90,103.90
+KR-GOAL-EMP-000069-001-04,GOAL-EMP-000069-001,Deliver training sessions,count,sessions,increase,0.00,18.00,25,14.00,77.78,77.78
+KR-GOAL-EMP-000070-001-01,GOAL-EMP-000070-001,Win new logos,count,logos,increase,0.00,13.00,45,11.00,84.62,84.62
+KR-GOAL-EMP-000070-001-02,GOAL-EMP-000070-001,Close new ARR,currency,USD,increase,0.00,742000.00,55,737394.00,99.38,99.38
+KR-GOAL-EMP-000070-002-01,GOAL-EMP-000070-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,30,4.00,80.00,80.00
+KR-GOAL-EMP-000070-002-02,GOAL-EMP-000070-002,Win new logos,count,logos,increase,0.00,8.00,10,8.00,100.00,100.00
+KR-GOAL-EMP-000070-002-03,GOAL-EMP-000070-002,Complete learning hours,count,hours,increase,0.00,22.00,60,21.00,95.45,95.45
+KR-GOAL-EMP-000071-001-01,GOAL-EMP-000071-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,1.00,50.00,50.00
+KR-GOAL-EMP-000071-001-02,GOAL-EMP-000071-001,Complete learning hours,count,hours,increase,0.00,13.00,25,13.00,100.00,100.00
+KR-GOAL-EMP-000071-001-03,GOAL-EMP-000071-001,Reduce ticket resolution time,duration,hours,decrease,56.00,36.00,40,38.11,89.45,89.45
+KR-GOAL-EMP-000072-001-01,GOAL-EMP-000072-001,Reduce p95 API latency,duration,ms,decrease,676.00,443.00,60,466.43,89.94,89.94
+KR-GOAL-EMP-000072-001-02,GOAL-EMP-000072-001,Cut open P1 defects,count,defects,decrease,36.00,27.00,40,34.00,22.22,22.22
+KR-GOAL-EMP-000073-001-01,GOAL-EMP-000073-001,Reduce cost per lead,currency,USD,decrease,101.00,71.00,100,71.00,100.00,100.00
+KR-GOAL-EMP-000074-001-01,GOAL-EMP-000074-001,Complete learning hours,count,hours,increase,0.00,40.00,40,19.00,47.50,47.50
+KR-GOAL-EMP-000074-001-02,GOAL-EMP-000074-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,60,6.00,100.00,100.00
+KR-GOAL-EMP-000075-001-01,GOAL-EMP-000075-001,Complete customer discovery interviews,count,interviews,increase,0.00,24.00,50,9.00,37.50,37.50
+KR-GOAL-EMP-000075-001-02,GOAL-EMP-000075-001,Increase feature adoption,percentage,%,increase,20.00,34.00,50,29.55,68.21,68.21
+KR-GOAL-EMP-000076-001-01,GOAL-EMP-000076-001,Complete learning hours,count,hours,increase,0.00,23.00,20,10.00,43.48,43.48
+KR-GOAL-EMP-000076-001-02,GOAL-EMP-000076-001,Improve SLA attainment,percentage,%,increase,85.00,92.00,55,90.20,74.29,74.29
+KR-GOAL-EMP-000076-001-03,GOAL-EMP-000076-001,Automate manual processes,count,processes,increase,0.00,4.00,25,2.00,50.00,50.00
+KR-GOAL-EMP-000076-002-01,GOAL-EMP-000076-002,Reduce ticket resolution time,duration,hours,decrease,52.00,32.00,50,44.59,37.05,37.05
+KR-GOAL-EMP-000076-002-02,GOAL-EMP-000076-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,50,1.00,50.00,50.00
+KR-GOAL-EMP-000077-001-01,GOAL-EMP-000077-001,Reduce ticket resolution time,duration,hours,decrease,44.00,24.00,100,31.68,61.60,61.60
+KR-GOAL-EMP-000078-001-01,GOAL-EMP-000078-001,Reduce churned accounts,count,accounts,decrease,35.00,28.00,45,31.00,57.14,57.14
+KR-GOAL-EMP-000078-001-02,GOAL-EMP-000078-001,Raise NPS,count,points,increase,43.00,53.00,55,45.00,20.00,20.00
+KR-GOAL-EMP-000079-001-01,GOAL-EMP-000079-001,Complete learning hours,count,hours,increase,0.00,37.00,30,21.00,56.76,56.76
+KR-GOAL-EMP-000079-001-02,GOAL-EMP-000079-001,Reduce churned accounts,count,accounts,decrease,36.00,23.00,70,29.00,53.85,53.85
+KR-GOAL-EMP-000079-002-01,GOAL-EMP-000079-002,Complete learning hours,count,hours,increase,0.00,34.00,100,32.00,94.12,94.12
+KR-GOAL-EMP-000080-001-01,GOAL-EMP-000080-001,Raise engagement survey participation,percentage,%,increase,65.00,81.00,55,75.86,67.88,67.88
+KR-GOAL-EMP-000080-001-02,GOAL-EMP-000080-001,Deliver training sessions,count,sessions,increase,0.00,7.00,45,8.00,114.29,114.29
+KR-GOAL-EMP-000081-001-01,GOAL-EMP-000081-001,Close new ARR,currency,USD,increase,0.00,570000.00,100,287481.00,50.44,50.44
+KR-GOAL-EMP-000082-001-01,GOAL-EMP-000082-001,Complete learning hours,count,hours,increase,0.00,23.00,25,22.00,95.65,95.65
+KR-GOAL-EMP-000082-001-02,GOAL-EMP-000082-001,Ship production features,count,features,increase,0.00,5.00,35,5.00,100.00,100.00
+KR-GOAL-EMP-000082-001-03,GOAL-EMP-000082-001,Cut open P1 defects,count,defects,decrease,23.00,13.00,40,15.00,80.00,80.00
+KR-GOAL-EMP-000083-001-01,GOAL-EMP-000083-001,Complete learning hours,count,hours,increase,0.00,13.00,35,11.00,84.62,84.62
+KR-GOAL-EMP-000083-001-02,GOAL-EMP-000083-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,15,2.00,100.00,100.00
+KR-GOAL-EMP-000083-001-03,GOAL-EMP-000083-001,Raise automated test coverage,percentage,%,increase,62.00,75.00,50,74.21,93.92,93.92
+KR-GOAL-EMP-000083-002-01,GOAL-EMP-000083-002,Cut open P1 defects,count,defects,decrease,32.00,20.00,70,22.00,83.33,83.33
+KR-GOAL-EMP-000083-002-02,GOAL-EMP-000083-002,Reduce p95 API latency,duration,ms,decrease,440.00,157.00,30,219.73,77.83,77.83
+KR-GOAL-EMP-000084-001-01,GOAL-EMP-000084-001,Automate manual processes,count,processes,increase,0.00,6.00,30,5.00,83.33,83.33
+KR-GOAL-EMP-000084-001-02,GOAL-EMP-000084-001,Complete learning hours,count,hours,increase,0.00,23.00,40,22.00,95.65,95.65
+KR-GOAL-EMP-000084-001-03,GOAL-EMP-000084-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,30,5.00,100.00,100.00
+KR-GOAL-EMP-000085-001-01,GOAL-EMP-000085-001,Launch roadmap epics,count,epics,increase,0.00,3.00,40,2.00,66.67,66.67
+KR-GOAL-EMP-000085-001-02,GOAL-EMP-000085-001,Increase feature adoption,percentage,%,increase,38.00,54.00,60,53.98,99.87,99.87
+KR-GOAL-EMP-000086-001-01,GOAL-EMP-000086-001,Complete learning hours,count,hours,increase,0.00,27.00,50,28.00,103.70,103.70
+KR-GOAL-EMP-000086-001-02,GOAL-EMP-000086-001,Improve forecast accuracy,percentage,%,increase,85.00,88.00,50,88.07,102.33,102.33
+KR-GOAL-EMP-000086-002-01,GOAL-EMP-000086-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,100,4.00,100.00,100.00
+KR-GOAL-EMP-000087-001-01,GOAL-EMP-000087-001,Shorten month-end close,duration,days,decrease,9.00,6.00,55,7.06,64.67,64.67
+KR-GOAL-EMP-000087-001-02,GOAL-EMP-000087-001,Improve forecast accuracy,percentage,%,increase,81.00,85.00,45,84.11,77.75,77.75
+KR-GOAL-EMP-000088-001-01,GOAL-EMP-000088-001,Deliver training sessions,count,sessions,increase,0.00,7.00,35,5.00,71.43,71.43
+KR-GOAL-EMP-000088-001-02,GOAL-EMP-000088-001,Complete learning hours,count,hours,increase,0.00,22.00,40,21.00,95.45,95.45
+KR-GOAL-EMP-000088-001-03,GOAL-EMP-000088-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,5.00,100.00,100.00
+KR-GOAL-EMP-000088-002-01,GOAL-EMP-000088-002,Deliver training sessions,count,sessions,increase,0.00,11.00,50,10.00,90.91,90.91
+KR-GOAL-EMP-000088-002-02,GOAL-EMP-000088-002,Raise engagement survey participation,percentage,%,increase,66.00,79.00,50,78.14,93.38,93.38
+KR-GOAL-EMP-000089-001-01,GOAL-EMP-000089-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,2.00,100.00,100.00
+KR-GOAL-EMP-000090-001-01,GOAL-EMP-000090-001,Complete learning hours,count,hours,increase,0.00,26.00,60,25.00,96.15,96.15
+KR-GOAL-EMP-000090-001-02,GOAL-EMP-000090-001,Grow organic traffic,percentage,%,increase,0.00,32.00,40,22.96,71.75,71.75
+KR-GOAL-EMP-000090-002-01,GOAL-EMP-000090-002,Complete learning hours,count,hours,increase,0.00,14.00,100,9.00,64.29,64.29
+KR-GOAL-EMP-000091-001-01,GOAL-EMP-000091-001,Complete learning hours,count,hours,increase,0.00,27.00,45,0.00,0.00,0.00
+KR-GOAL-EMP-000091-001-02,GOAL-EMP-000091-001,Reduce ticket resolution time,duration,hours,decrease,44.00,30.00,20,44.00,0.00,0.00
+KR-GOAL-EMP-000091-001-03,GOAL-EMP-000091-001,Improve SLA attainment,percentage,%,increase,91.00,95.00,35,91.00,0.00,0.00
+KR-GOAL-EMP-000092-001-01,GOAL-EMP-000092-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,55,1.00,50.00,50.00
+KR-GOAL-EMP-000092-001-02,GOAL-EMP-000092-001,Win new logos,count,logos,increase,0.00,11.00,45,10.00,90.91,90.91
+KR-GOAL-EMP-000093-001-01,GOAL-EMP-000093-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,2.00,66.67,66.67
+KR-GOAL-EMP-000093-001-02,GOAL-EMP-000093-001,Reduce churned accounts,count,accounts,decrease,24.00,18.00,70,21.00,50.00,50.00
+KR-GOAL-EMP-000093-002-01,GOAL-EMP-000093-002,Reduce churned accounts,count,accounts,decrease,33.00,27.00,45,30.00,50.00,50.00
+KR-GOAL-EMP-000093-002-02,GOAL-EMP-000093-002,Raise NPS,count,points,increase,36.00,46.00,55,41.00,50.00,50.00
+KR-GOAL-EMP-000094-001-01,GOAL-EMP-000094-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,20,4.00,100.00,100.00
+KR-GOAL-EMP-000094-001-02,GOAL-EMP-000094-001,Raise automated test coverage,percentage,%,increase,48.00,66.00,50,59.28,62.67,62.67
+KR-GOAL-EMP-000094-001-03,GOAL-EMP-000094-001,Complete learning hours,count,hours,increase,0.00,23.00,30,17.00,73.91,73.91
+KR-GOAL-EMP-000096-001-01,GOAL-EMP-000096-001,Ship production features,count,features,increase,0.00,10.00,100,9.00,90.00,90.00
+KR-GOAL-EMP-000097-001-01,GOAL-EMP-000097-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,2.00,66.67,66.67
+KR-GOAL-EMP-000097-001-02,GOAL-EMP-000097-001,Reduce churned accounts,count,accounts,decrease,42.00,36.00,60,38.00,66.67,66.67
+KR-GOAL-EMP-000097-002-01,GOAL-EMP-000097-002,Reduce churned accounts,count,accounts,decrease,30.00,25.00,35,30.00,0.00,0.00
+KR-GOAL-EMP-000097-002-02,GOAL-EMP-000097-002,Increase renewal rate,percentage,%,increase,88.00,93.00,20,88.00,0.00,0.00
+KR-GOAL-EMP-000097-002-03,GOAL-EMP-000097-002,Raise NPS,count,points,increase,32.00,45.00,45,32.00,0.00,0.00
+KR-GOAL-EMP-000098-001-01,GOAL-EMP-000098-001,Complete learning hours,count,hours,increase,0.00,20.00,45,11.00,55.00,55.00
+KR-GOAL-EMP-000098-001-02,GOAL-EMP-000098-001,Build qualified pipeline,currency,USD,increase,0.00,1642000.00,25,1568797.00,95.54,95.54
+KR-GOAL-EMP-000098-001-03,GOAL-EMP-000098-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,30,3.00,50.00,50.00
+KR-GOAL-EMP-000098-002-01,GOAL-EMP-000098-002,Build qualified pipeline,currency,USD,increase,0.00,995000.00,50,864365.00,86.87,86.87
+KR-GOAL-EMP-000098-002-02,GOAL-EMP-000098-002,Complete learning hours,count,hours,increase,0.00,29.00,50,20.00,68.97,68.97
+KR-GOAL-EMP-000098-003-01,GOAL-EMP-000098-003,Win new logos,count,logos,increase,0.00,4.00,25,4.00,100.00,100.00
+KR-GOAL-EMP-000098-003-02,GOAL-EMP-000098-003,Build qualified pipeline,currency,USD,increase,0.00,2168000.00,45,1678497.00,77.42,77.42
+KR-GOAL-EMP-000098-003-03,GOAL-EMP-000098-003,Close new ARR,currency,USD,increase,0.00,865000.00,30,594709.00,68.75,68.75
+KR-GOAL-EMP-000098-004-01,GOAL-EMP-000098-004,Build qualified pipeline,currency,USD,increase,0.00,851000.00,30,538796.00,63.31,63.31
+KR-GOAL-EMP-000098-004-02,GOAL-EMP-000098-004,Win new logos,count,logos,increase,0.00,13.00,20,13.00,100.00,100.00
+KR-GOAL-EMP-000098-004-03,GOAL-EMP-000098-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,50,3.00,60.00,60.00
+KR-GOAL-EMP-000099-001-01,GOAL-EMP-000099-001,Ship production features,count,features,increase,0.00,4.00,40,3.00,75.00,75.00
+KR-GOAL-EMP-000099-001-02,GOAL-EMP-000099-001,Raise automated test coverage,percentage,%,increase,45.00,58.00,60,54.25,71.15,71.15
+KR-GOAL-EMP-000100-001-01,GOAL-EMP-000100-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,100,2.00,66.67,66.67
+KR-GOAL-EMP-000101-001-01,GOAL-EMP-000101-001,Build qualified pipeline,currency,USD,increase,0.00,1750000.00,25,1461296.00,83.50,83.50
+KR-GOAL-EMP-000101-001-02,GOAL-EMP-000101-001,Complete learning hours,count,hours,increase,0.00,32.00,30,32.00,100.00,100.00
+KR-GOAL-EMP-000101-001-03,GOAL-EMP-000101-001,Close new ARR,currency,USD,increase,0.00,843000.00,35,662301.00,78.56,78.56
+KR-GOAL-EMP-000101-001-04,GOAL-EMP-000101-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,10,3.00,100.00,100.00
+KR-GOAL-EMP-000102-001-01,GOAL-EMP-000102-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,2.00,50.00,50.00
+KR-GOAL-EMP-000102-001-02,GOAL-EMP-000102-001,Close new ARR,currency,USD,increase,0.00,645000.00,20,616088.00,95.52,95.52
+KR-GOAL-EMP-000102-001-03,GOAL-EMP-000102-001,Win new logos,count,logos,increase,0.00,15.00,25,9.00,60.00,60.00
+KR-GOAL-EMP-000102-001-04,GOAL-EMP-000102-001,Build qualified pipeline,currency,USD,increase,0.00,1764000.00,20,1211083.00,68.66,68.66
+KR-GOAL-EMP-000102-002-01,GOAL-EMP-000102-002,Win new logos,count,logos,increase,0.00,3.00,30,1.00,33.33,33.33
+KR-GOAL-EMP-000102-002-02,GOAL-EMP-000102-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,6.00,120.00,120.00
+KR-GOAL-EMP-000102-002-03,GOAL-EMP-000102-002,Build qualified pipeline,currency,USD,increase,0.00,2356000.00,35,910748.00,38.66,38.66
+KR-GOAL-EMP-000102-002-04,GOAL-EMP-000102-002,Complete learning hours,count,hours,increase,0.00,36.00,15,30.00,83.33,83.33
+KR-GOAL-EMP-000102-003-01,GOAL-EMP-000102-003,Win new logos,count,logos,increase,0.00,11.00,15,10.00,90.91,90.91
+KR-GOAL-EMP-000102-003-02,GOAL-EMP-000102-003,Complete learning hours,count,hours,increase,0.00,17.00,30,14.00,82.35,82.35
+KR-GOAL-EMP-000102-003-03,GOAL-EMP-000102-003,Build qualified pipeline,currency,USD,increase,0.00,1756000.00,25,910610.00,51.86,51.86
+KR-GOAL-EMP-000102-003-04,GOAL-EMP-000102-003,Close new ARR,currency,USD,increase,0.00,535000.00,30,376575.00,70.39,70.39
+KR-GOAL-EMP-000103-001-01,GOAL-EMP-000103-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,3.00,75.00,75.00
+KR-GOAL-EMP-000103-001-02,GOAL-EMP-000103-001,Ship production features,count,features,increase,0.00,12.00,65,7.00,58.33,58.33
+KR-GOAL-EMP-000104-001-01,GOAL-EMP-000104-001,Raise engagement survey participation,percentage,%,increase,67.00,79.00,20,78.24,93.67,93.67
+KR-GOAL-EMP-000104-001-02,GOAL-EMP-000104-001,Complete learning hours,count,hours,increase,0.00,30.00,30,29.00,96.67,96.67
+KR-GOAL-EMP-000104-001-03,GOAL-EMP-000104-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,50,5.00,125.00,120.00
+KR-GOAL-EMP-000105-001-01,GOAL-EMP-000105-001,Close new ARR,currency,USD,increase,0.00,769000.00,100,584255.00,75.98,75.98
+KR-GOAL-EMP-000105-002-01,GOAL-EMP-000105-002,Win new logos,count,logos,increase,0.00,8.00,35,6.00,75.00,75.00
+KR-GOAL-EMP-000105-002-02,GOAL-EMP-000105-002,Close new ARR,currency,USD,increase,0.00,675000.00,30,489928.00,72.58,72.58
+KR-GOAL-EMP-000105-002-03,GOAL-EMP-000105-002,Build qualified pipeline,currency,USD,increase,0.00,892000.00,35,676505.00,75.84,75.84
+KR-GOAL-EMP-000105-003-01,GOAL-EMP-000105-003,Close new ARR,currency,USD,increase,0.00,649000.00,25,637299.00,98.20,98.20
+KR-GOAL-EMP-000105-003-02,GOAL-EMP-000105-003,Build qualified pipeline,currency,USD,increase,0.00,2194000.00,35,1763473.00,80.38,80.38
+KR-GOAL-EMP-000105-003-03,GOAL-EMP-000105-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,2.00,66.67,66.67
+KR-GOAL-EMP-000106-001-01,GOAL-EMP-000106-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,20,2.00,50.00,50.00
+KR-GOAL-EMP-000106-001-02,GOAL-EMP-000106-001,Complete learning hours,count,hours,increase,0.00,33.00,80,30.00,90.91,90.91
+KR-GOAL-EMP-000106-002-01,GOAL-EMP-000106-002,Complete learning hours,count,hours,increase,0.00,26.00,55,10.00,38.46,38.46
+KR-GOAL-EMP-000106-002-02,GOAL-EMP-000106-002,Increase renewal rate,percentage,%,increase,81.00,85.00,45,83.89,72.25,72.25
+KR-GOAL-EMP-000107-001-01,GOAL-EMP-000107-001,Generate marketing qualified leads,count,MQLs,increase,0.00,894.00,25,194.00,21.70,21.70
+KR-GOAL-EMP-000107-001-02,GOAL-EMP-000107-001,Grow organic traffic,percentage,%,increase,0.00,28.00,35,9.62,34.36,34.36
+KR-GOAL-EMP-000107-001-03,GOAL-EMP-000107-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,40,1.00,50.00,50.00
+KR-GOAL-EMP-000107-002-01,GOAL-EMP-000107-002,Complete learning hours,count,hours,increase,0.00,23.00,30,10.00,43.48,43.48
+KR-GOAL-EMP-000107-002-02,GOAL-EMP-000107-002,Reduce cost per lead,currency,USD,decrease,91.00,51.00,35,70.00,52.50,52.50
+KR-GOAL-EMP-000107-002-03,GOAL-EMP-000107-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,35,3.00,50.00,50.00
+KR-GOAL-EMP-000107-003-01,GOAL-EMP-000107-003,Reduce cost per lead,currency,USD,decrease,95.00,63.00,55,88.00,21.88,21.88
+KR-GOAL-EMP-000107-003-02,GOAL-EMP-000107-003,Grow organic traffic,percentage,%,increase,0.00,16.00,45,7.65,47.81,47.81
+KR-GOAL-EMP-000108-001-01,GOAL-EMP-000108-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,1.00,33.33,33.33
+KR-GOAL-EMP-000108-001-02,GOAL-EMP-000108-001,Raise NPS,count,points,increase,44.00,52.00,50,47.00,37.50,37.50
+KR-GOAL-EMP-000109-001-01,GOAL-EMP-000109-001,Build qualified pipeline,currency,USD,increase,0.00,844000.00,55,784618.00,92.96,92.96
+KR-GOAL-EMP-000109-001-02,GOAL-EMP-000109-001,Win new logos,count,logos,increase,0.00,11.00,45,11.00,100.00,100.00
+KR-GOAL-EMP-000109-002-01,GOAL-EMP-000109-002,Complete learning hours,count,hours,increase,0.00,32.00,35,31.00,96.88,96.88
+KR-GOAL-EMP-000109-002-02,GOAL-EMP-000109-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,65,2.00,100.00,100.00
+KR-GOAL-EMP-000110-001-01,GOAL-EMP-000110-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,40,3.00,50.00,50.00
+KR-GOAL-EMP-000110-001-02,GOAL-EMP-000110-001,Improve SLA attainment,percentage,%,increase,82.00,89.00,60,86.12,58.86,58.86
+KR-GOAL-EMP-000112-001-01,GOAL-EMP-000112-001,Cut open P1 defects,count,defects,decrease,29.00,16.00,35,15.00,107.69,107.69
+KR-GOAL-EMP-000112-001-02,GOAL-EMP-000112-001,Reduce p95 API latency,duration,ms,decrease,763.00,485.00,40,488.27,98.82,98.82
+KR-GOAL-EMP-000112-001-03,GOAL-EMP-000112-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,4.00,100.00,100.00
+KR-GOAL-EMP-000113-001-01,GOAL-EMP-000113-001,Complete learning hours,count,hours,increase,0.00,28.00,100,0.00,0.00,0.00
+KR-GOAL-EMP-000113-002-01,GOAL-EMP-000113-002,Cut open P1 defects,count,defects,decrease,21.00,10.00,25,10.00,100.00,100.00
+KR-GOAL-EMP-000113-002-02,GOAL-EMP-000113-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,5.00,100.00,100.00
+KR-GOAL-EMP-000113-002-03,GOAL-EMP-000113-002,Complete learning hours,count,hours,increase,0.00,35.00,35,33.00,94.29,94.29
+KR-GOAL-EMP-000113-002-04,GOAL-EMP-000113-002,Reduce p95 API latency,duration,ms,decrease,593.00,410.00,15,407.50,101.37,101.37
+KR-GOAL-EMP-000113-003-01,GOAL-EMP-000113-003,Raise automated test coverage,percentage,%,increase,68.00,77.00,25,79.73,130.33,120.00
+KR-GOAL-EMP-000113-003-02,GOAL-EMP-000113-003,Complete learning hours,count,hours,increase,0.00,18.00,20,18.00,100.00,100.00
+KR-GOAL-EMP-000113-003-03,GOAL-EMP-000113-003,Reduce p95 API latency,duration,ms,decrease,725.00,593.00,25,594.81,98.63,98.63
+KR-GOAL-EMP-000113-003-04,GOAL-EMP-000113-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,3.00,100.00,100.00
+KR-GOAL-EMP-000113-004-01,GOAL-EMP-000113-004,Reduce p95 API latency,duration,ms,decrease,861.00,759.00,70,760.59,98.44,98.44
+KR-GOAL-EMP-000113-004-02,GOAL-EMP-000113-004,Ship production features,count,features,increase,0.00,6.00,30,6.00,100.00,100.00
+KR-GOAL-EMP-000114-001-01,GOAL-EMP-000114-001,Reduce time to hire,duration,days,decrease,56.00,38.00,60,41.05,83.06,83.06
+KR-GOAL-EMP-000114-001-02,GOAL-EMP-000114-001,Deliver training sessions,count,sessions,increase,0.00,16.00,40,6.00,37.50,37.50
+KR-GOAL-EMP-000115-001-01,GOAL-EMP-000115-001,Complete learning hours,count,hours,increase,0.00,27.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000115-001-02,GOAL-EMP-000115-001,Raise automated test coverage,percentage,%,increase,70.00,80.00,50,70.00,0.00,0.00
+KR-GOAL-EMP-000115-002-01,GOAL-EMP-000115-002,Ship production features,count,features,increase,0.00,10.00,40,11.00,110.00,110.00
+KR-GOAL-EMP-000115-002-02,GOAL-EMP-000115-002,Raise automated test coverage,percentage,%,increase,56.00,71.00,35,64.63,57.53,57.53
+KR-GOAL-EMP-000115-002-03,GOAL-EMP-000115-002,Reduce p95 API latency,duration,ms,decrease,880.00,674.00,25,708.49,83.26,83.26
+KR-GOAL-EMP-000116-001-01,GOAL-EMP-000116-001,Reduce reconciliation exceptions,count,exceptions,decrease,56.00,34.00,65,32.00,109.09,109.09
+KR-GOAL-EMP-000116-001-02,GOAL-EMP-000116-001,Shorten month-end close,duration,days,decrease,9.00,6.00,35,4.87,137.67,120.00
+KR-GOAL-EMP-000116-002-01,GOAL-EMP-000116-002,Complete learning hours,count,hours,increase,0.00,34.00,30,32.00,94.12,94.12
+KR-GOAL-EMP-000116-002-02,GOAL-EMP-000116-002,Improve forecast accuracy,percentage,%,increase,86.00,91.00,40,91.00,100.00,100.00
+KR-GOAL-EMP-000116-002-03,GOAL-EMP-000116-002,Shorten month-end close,duration,days,decrease,11.00,8.00,30,7.98,100.67,100.67
+KR-GOAL-EMP-000117-001-01,GOAL-EMP-000117-001,Cut open P1 defects,count,defects,decrease,31.00,22.00,25,23.00,88.89,88.89
+KR-GOAL-EMP-000117-001-02,GOAL-EMP-000117-001,Complete learning hours,count,hours,increase,0.00,35.00,35,27.00,77.14,77.14
+KR-GOAL-EMP-000117-001-03,GOAL-EMP-000117-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,3.00,75.00,75.00
+KR-GOAL-EMP-000117-002-01,GOAL-EMP-000117-002,Raise automated test coverage,percentage,%,increase,54.00,73.00,45,61.35,38.68,38.68
+KR-GOAL-EMP-000117-002-02,GOAL-EMP-000117-002,Complete learning hours,count,hours,increase,0.00,27.00,55,15.00,55.56,55.56
+KR-GOAL-EMP-000117-003-01,GOAL-EMP-000117-003,Complete learning hours,count,hours,increase,0.00,28.00,50,28.00,100.00,100.00
+KR-GOAL-EMP-000117-003-02,GOAL-EMP-000117-003,Cut open P1 defects,count,defects,decrease,40.00,29.00,50,35.00,45.45,45.45
+KR-GOAL-EMP-000118-001-01,GOAL-EMP-000118-001,Reduce churned accounts,count,accounts,decrease,38.00,25.00,30,32.00,46.15,46.15
+KR-GOAL-EMP-000118-001-02,GOAL-EMP-000118-001,Increase renewal rate,percentage,%,increase,84.00,92.00,30,92.74,109.25,109.25
+KR-GOAL-EMP-000118-001-03,GOAL-EMP-000118-001,Complete learning hours,count,hours,increase,0.00,14.00,40,8.00,57.14,57.14
+KR-GOAL-EMP-000118-002-01,GOAL-EMP-000118-002,Increase renewal rate,percentage,%,increase,81.00,84.00,40,83.08,69.33,69.33
+KR-GOAL-EMP-000118-002-02,GOAL-EMP-000118-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,30,1.00,50.00,50.00
+KR-GOAL-EMP-000118-002-03,GOAL-EMP-000118-002,Reduce churned accounts,count,accounts,decrease,24.00,17.00,30,20.00,57.14,57.14
+KR-GOAL-EMP-000118-003-01,GOAL-EMP-000118-003,Complete learning hours,count,hours,increase,0.00,22.00,100,0.00,0.00,0.00
+KR-GOAL-EMP-000119-001-01,GOAL-EMP-000119-001,Complete learning hours,count,hours,increase,0.00,26.00,40,10.00,38.46,38.46
+KR-GOAL-EMP-000119-001-02,GOAL-EMP-000119-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,4.00,100.00,100.00
+KR-GOAL-EMP-000119-001-03,GOAL-EMP-000119-001,Win new logos,count,logos,increase,0.00,5.00,25,3.00,60.00,60.00
+KR-GOAL-EMP-000119-002-01,GOAL-EMP-000119-002,Close new ARR,currency,USD,increase,0.00,193000.00,45,131533.00,68.15,68.15
+KR-GOAL-EMP-000119-002-02,GOAL-EMP-000119-002,Complete learning hours,count,hours,increase,0.00,12.00,55,2.00,16.67,16.67
+KR-GOAL-EMP-000120-001-01,GOAL-EMP-000120-001,Cut open P1 defects,count,defects,decrease,20.00,6.00,30,12.00,57.14,57.14
+KR-GOAL-EMP-000120-001-02,GOAL-EMP-000120-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,45,2.00,40.00,40.00
+KR-GOAL-EMP-000120-001-03,GOAL-EMP-000120-001,Complete learning hours,count,hours,increase,0.00,18.00,25,22.00,122.22,120.00
+KR-GOAL-EMP-000120-002-01,GOAL-EMP-000120-002,Complete learning hours,count,hours,increase,0.00,37.00,30,30.00,81.08,81.08
+KR-GOAL-EMP-000120-002-02,GOAL-EMP-000120-002,Raise automated test coverage,percentage,%,increase,50.00,64.00,40,59.51,67.93,67.93
+KR-GOAL-EMP-000120-002-03,GOAL-EMP-000120-002,Cut open P1 defects,count,defects,decrease,25.00,14.00,30,21.00,36.36,36.36
+KR-GOAL-EMP-000121-001-01,GOAL-EMP-000121-001,Win new logos,count,logos,increase,0.00,13.00,100,11.00,84.62,84.62
+KR-GOAL-EMP-000122-001-01,GOAL-EMP-000122-001,Complete learning hours,count,hours,increase,0.00,29.00,50,26.00,89.66,89.66
+KR-GOAL-EMP-000122-001-02,GOAL-EMP-000122-001,Reduce ticket resolution time,duration,hours,decrease,57.00,48.00,50,47.55,105.00,105.00
+KR-GOAL-EMP-000122-002-01,GOAL-EMP-000122-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,35,4.00,80.00,80.00
+KR-GOAL-EMP-000122-002-02,GOAL-EMP-000122-002,Reduce ticket resolution time,duration,hours,decrease,59.00,44.00,30,44.11,99.27,99.27
+KR-GOAL-EMP-000122-002-03,GOAL-EMP-000122-002,Complete learning hours,count,hours,increase,0.00,30.00,35,27.00,90.00,90.00
+KR-GOAL-EMP-000123-001-01,GOAL-EMP-000123-001,Raise automated test coverage,percentage,%,increase,50.00,61.00,35,56.62,60.18,60.18
+KR-GOAL-EMP-000123-001-02,GOAL-EMP-000123-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,4.00,100.00,100.00
+KR-GOAL-EMP-000123-001-03,GOAL-EMP-000123-001,Complete learning hours,count,hours,increase,0.00,25.00,40,16.00,64.00,64.00
+KR-GOAL-EMP-000124-001-01,GOAL-EMP-000124-001,Shorten month-end close,duration,days,decrease,8.00,5.00,50,7.56,14.67,14.67
+KR-GOAL-EMP-000124-001-02,GOAL-EMP-000124-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,2.00,66.67,66.67
+KR-GOAL-EMP-000124-002-01,GOAL-EMP-000124-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,1.00,25.00,25.00
+KR-GOAL-EMP-000124-002-02,GOAL-EMP-000124-002,Improve forecast accuracy,percentage,%,increase,84.00,88.00,65,84.78,19.50,19.50
+KR-GOAL-EMP-000124-003-01,GOAL-EMP-000124-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,65,3.00,60.00,60.00
+KR-GOAL-EMP-000124-003-02,GOAL-EMP-000124-003,Complete learning hours,count,hours,increase,0.00,32.00,35,23.00,71.88,71.88
+KR-GOAL-EMP-000125-001-01,GOAL-EMP-000125-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,100,3.00,100.00,100.00
+KR-GOAL-EMP-000126-001-01,GOAL-EMP-000126-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,55,1.00,50.00,50.00
+KR-GOAL-EMP-000126-001-02,GOAL-EMP-000126-001,Automate manual processes,count,processes,increase,0.00,10.00,45,10.00,100.00,100.00
+KR-GOAL-EMP-000126-002-01,GOAL-EMP-000126-002,Complete learning hours,count,hours,increase,0.00,16.00,40,18.00,112.50,112.50
+KR-GOAL-EMP-000126-002-02,GOAL-EMP-000126-002,Automate manual processes,count,processes,increase,0.00,8.00,30,7.00,87.50,87.50
+KR-GOAL-EMP-000126-002-03,GOAL-EMP-000126-002,Reduce ticket resolution time,duration,hours,decrease,58.00,50.00,30,51.29,83.88,83.88
+KR-GOAL-EMP-000128-001-01,GOAL-EMP-000128-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000128-001-02,GOAL-EMP-000128-001,Win new logos,count,logos,increase,0.00,4.00,50,4.00,100.00,100.00
+KR-GOAL-EMP-000128-002-01,GOAL-EMP-000128-002,Close new ARR,currency,USD,increase,0.00,366000.00,50,262490.00,71.72,71.72
+KR-GOAL-EMP-000128-002-02,GOAL-EMP-000128-002,Build qualified pipeline,currency,USD,increase,0.00,650100.00,50,163337.00,25.12,25.12
+KR-GOAL-EMP-000129-001-01,GOAL-EMP-000129-001,Reduce p95 API latency,duration,ms,decrease,570.00,341.00,100,330.98,104.38,104.38
+KR-GOAL-EMP-000130-001-01,GOAL-EMP-000130-001,Reduce ticket resolution time,duration,hours,decrease,52.00,32.00,100,52.00,0.00,0.00
+KR-GOAL-EMP-000131-001-01,GOAL-EMP-000131-001,Complete learning hours,count,hours,increase,0.00,18.00,45,3.00,16.67,16.67
+KR-GOAL-EMP-000131-001-02,GOAL-EMP-000131-001,Complete customer discovery interviews,count,interviews,increase,0.00,15.00,55,4.00,26.67,26.67
+KR-GOAL-EMP-000131-002-01,GOAL-EMP-000131-002,Increase feature adoption,percentage,%,increase,39.00,48.00,30,44.33,59.22,59.22
+KR-GOAL-EMP-000131-002-02,GOAL-EMP-000131-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,3.00,100.00,100.00
+KR-GOAL-EMP-000131-002-03,GOAL-EMP-000131-002,Complete customer discovery interviews,count,interviews,increase,0.00,22.00,35,13.00,59.09,59.09
+KR-GOAL-EMP-000131-003-01,GOAL-EMP-000131-003,Complete customer discovery interviews,count,interviews,increase,0.00,22.00,50,11.00,50.00,50.00
+KR-GOAL-EMP-000131-003-02,GOAL-EMP-000131-003,Complete learning hours,count,hours,increase,0.00,19.00,15,8.00,42.11,42.11
+KR-GOAL-EMP-000131-003-03,GOAL-EMP-000131-003,Launch roadmap epics,count,epics,increase,0.00,5.00,35,2.00,40.00,40.00
+KR-GOAL-EMP-000131-004-01,GOAL-EMP-000131-004,Increase feature adoption,percentage,%,increase,34.00,54.00,50,40.06,30.30,30.30
+KR-GOAL-EMP-000131-004-02,GOAL-EMP-000131-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,50,4.00,100.00,100.00
+KR-GOAL-EMP-000132-001-01,GOAL-EMP-000132-001,Build qualified pipeline,currency,USD,increase,0.00,1209000.00,40,1186637.00,98.15,98.15
+KR-GOAL-EMP-000132-001-02,GOAL-EMP-000132-001,Close new ARR,currency,USD,increase,0.00,415000.00,25,268683.00,64.74,64.74
+KR-GOAL-EMP-000132-001-03,GOAL-EMP-000132-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,2.00,66.67,66.67
+KR-GOAL-EMP-000133-001-01,GOAL-EMP-000133-001,Close new ARR,currency,USD,increase,0.00,293000.00,100,176227.00,60.15,60.15
+KR-GOAL-EMP-000134-001-01,GOAL-EMP-000134-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,3.00,60.00,60.00
+KR-GOAL-EMP-000134-001-02,GOAL-EMP-000134-001,Reduce p95 API latency,duration,ms,decrease,455.00,189.00,45,331.27,46.52,46.52
+KR-GOAL-EMP-000134-001-03,GOAL-EMP-000134-001,Complete learning hours,count,hours,increase,0.00,37.00,30,16.00,43.24,43.24
+KR-GOAL-EMP-000134-002-01,GOAL-EMP-000134-002,Reduce p95 API latency,duration,ms,decrease,606.00,519.00,25,548.92,65.61,65.61
+KR-GOAL-EMP-000134-002-02,GOAL-EMP-000134-002,Cut open P1 defects,count,defects,decrease,24.00,15.00,45,20.00,44.44,44.44
+KR-GOAL-EMP-000134-002-03,GOAL-EMP-000134-002,Ship production features,count,features,increase,0.00,8.00,30,6.00,75.00,75.00
+KR-GOAL-EMP-000134-003-01,GOAL-EMP-000134-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,1.00,50.00,50.00
+KR-GOAL-EMP-000134-003-02,GOAL-EMP-000134-003,Complete learning hours,count,hours,increase,0.00,16.00,65,10.00,62.50,62.50
+KR-GOAL-EMP-000135-001-01,GOAL-EMP-000135-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,2.00,50.00,50.00
+KR-GOAL-EMP-000135-001-02,GOAL-EMP-000135-001,Reduce churned accounts,count,accounts,decrease,36.00,25.00,35,25.00,100.00,100.00
+KR-GOAL-EMP-000135-001-03,GOAL-EMP-000135-001,Increase renewal rate,percentage,%,increase,84.00,87.00,30,86.66,88.67,88.67
+KR-GOAL-EMP-000135-002-01,GOAL-EMP-000135-002,Raise NPS,count,points,increase,25.00,32.00,55,32.00,100.00,100.00
+KR-GOAL-EMP-000135-002-02,GOAL-EMP-000135-002,Reduce churned accounts,count,accounts,decrease,43.00,31.00,45,27.00,133.33,120.00
+KR-GOAL-EMP-000136-001-01,GOAL-EMP-000136-001,Increase renewal rate,percentage,%,increase,82.00,87.00,100,86.82,96.40,96.40
+KR-GOAL-EMP-000137-001-01,GOAL-EMP-000137-001,Reduce p95 API latency,duration,ms,decrease,573.00,390.00,25,472.28,55.04,55.04
+KR-GOAL-EMP-000137-001-02,GOAL-EMP-000137-001,Cut open P1 defects,count,defects,decrease,30.00,22.00,15,24.00,75.00,75.00
+KR-GOAL-EMP-000137-001-03,GOAL-EMP-000137-001,Complete learning hours,count,hours,increase,0.00,20.00,35,17.00,85.00,85.00
+KR-GOAL-EMP-000137-001-04,GOAL-EMP-000137-001,Raise automated test coverage,percentage,%,increase,50.00,66.00,25,57.95,49.69,49.69
+KR-GOAL-EMP-000138-001-01,GOAL-EMP-000138-001,Raise automated test coverage,percentage,%,increase,58.00,69.00,20,68.49,95.36,95.36
+KR-GOAL-EMP-000138-001-02,GOAL-EMP-000138-001,Cut open P1 defects,count,defects,decrease,24.00,14.00,25,14.00,100.00,100.00
+KR-GOAL-EMP-000138-001-03,GOAL-EMP-000138-001,Reduce p95 API latency,duration,ms,decrease,483.00,299.00,30,312.22,92.82,92.82
+KR-GOAL-EMP-000138-001-04,GOAL-EMP-000138-001,Ship production features,count,features,increase,0.00,9.00,25,9.00,100.00,100.00
+KR-GOAL-EMP-000139-001-01,GOAL-EMP-000139-001,Automate manual processes,count,processes,increase,0.00,5.00,30,5.00,100.00,100.00
+KR-GOAL-EMP-000139-001-02,GOAL-EMP-000139-001,Complete learning hours,count,hours,increase,0.00,27.00,30,22.00,81.48,81.48
+KR-GOAL-EMP-000139-001-03,GOAL-EMP-000139-001,Improve SLA attainment,percentage,%,increase,87.00,94.00,40,92.07,72.43,72.43
+KR-GOAL-EMP-000140-001-01,GOAL-EMP-000140-001,Complete learning hours,count,hours,increase,0.00,33.00,70,28.00,84.85,84.85
+KR-GOAL-EMP-000140-001-02,GOAL-EMP-000140-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,3.00,100.00,100.00
+KR-GOAL-EMP-000141-001-01,GOAL-EMP-000141-001,Complete customer discovery interviews,count,interviews,increase,0.00,12.00,30,5.00,41.67,41.67
+KR-GOAL-EMP-000141-001-02,GOAL-EMP-000141-001,Launch roadmap epics,count,epics,increase,0.00,5.00,35,3.00,60.00,60.00
+KR-GOAL-EMP-000141-001-03,GOAL-EMP-000141-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,1.00,33.33,33.33
+KR-GOAL-EMP-000141-002-01,GOAL-EMP-000141-002,Increase feature adoption,percentage,%,increase,22.00,41.00,100,36.14,74.42,74.42
+KR-GOAL-EMP-000142-001-01,GOAL-EMP-000142-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,2.00,100.00,100.00
+KR-GOAL-EMP-000142-001-02,GOAL-EMP-000142-001,Reduce ticket resolution time,duration,hours,decrease,31.00,16.00,40,24.75,41.67,41.67
+KR-GOAL-EMP-000142-001-03,GOAL-EMP-000142-001,Automate manual processes,count,processes,increase,0.00,8.00,25,7.00,87.50,87.50
+KR-GOAL-EMP-000143-001-01,GOAL-EMP-000143-001,Raise NPS,count,points,increase,37.00,49.00,35,48.00,91.67,91.67
+KR-GOAL-EMP-000143-001-02,GOAL-EMP-000143-001,Reduce churned accounts,count,accounts,decrease,35.00,21.00,65,22.00,92.86,92.86
+KR-GOAL-EMP-000143-002-01,GOAL-EMP-000143-002,Increase renewal rate,percentage,%,increase,81.00,89.00,25,87.23,77.88,77.88
+KR-GOAL-EMP-000143-002-02,GOAL-EMP-000143-002,Reduce churned accounts,count,accounts,decrease,31.00,21.00,45,25.00,60.00,60.00
+KR-GOAL-EMP-000143-002-03,GOAL-EMP-000143-002,Raise NPS,count,points,increase,43.00,48.00,30,48.00,100.00,100.00
+KR-GOAL-EMP-000143-003-01,GOAL-EMP-000143-003,Increase renewal rate,percentage,%,increase,78.00,81.00,55,80.37,79.00,79.00
+KR-GOAL-EMP-000143-003-02,GOAL-EMP-000143-003,Complete learning hours,count,hours,increase,0.00,24.00,45,22.00,91.67,91.67
+KR-GOAL-EMP-000143-004-01,GOAL-EMP-000143-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,3.00,100.00,100.00
+KR-GOAL-EMP-000143-004-02,GOAL-EMP-000143-004,Complete learning hours,count,hours,increase,0.00,32.00,15,20.00,62.50,62.50
+KR-GOAL-EMP-000143-004-03,GOAL-EMP-000143-004,Raise NPS,count,points,increase,43.00,52.00,45,51.00,88.89,88.89
+KR-GOAL-EMP-000143-005-01,GOAL-EMP-000143-005,Increase renewal rate,percentage,%,increase,80.00,88.00,40,82.49,31.12,31.12
+KR-GOAL-EMP-000143-005-02,GOAL-EMP-000143-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,60,4.00,100.00,100.00
+KR-GOAL-EMP-000144-001-01,GOAL-EMP-000144-001,Close new ARR,currency,USD,increase,0.00,713000.00,100,578073.00,81.08,81.08
+KR-GOAL-EMP-000144-002-01,GOAL-EMP-000144-002,Close new ARR,currency,USD,increase,0.00,304000.00,55,382684.00,125.88,120.00
+KR-GOAL-EMP-000144-002-02,GOAL-EMP-000144-002,Win new logos,count,logos,increase,0.00,5.00,45,4.00,80.00,80.00
+KR-GOAL-EMP-000144-003-01,GOAL-EMP-000144-003,Complete learning hours,count,hours,increase,0.00,33.00,20,22.00,66.67,66.67
+KR-GOAL-EMP-000144-003-02,GOAL-EMP-000144-003,Close new ARR,currency,USD,increase,0.00,177000.00,35,173504.00,98.02,98.02
+KR-GOAL-EMP-000144-003-03,GOAL-EMP-000144-003,Build qualified pipeline,currency,USD,increase,0.00,1425000.00,25,1506578.00,105.72,105.72
+KR-GOAL-EMP-000144-003-04,GOAL-EMP-000144-003,Win new logos,count,logos,increase,0.00,14.00,20,12.00,85.71,85.71
+KR-GOAL-EMP-000145-001-01,GOAL-EMP-000145-001,Close new ARR,currency,USD,increase,0.00,170000.00,40,77102.00,45.35,45.35
+KR-GOAL-EMP-000145-001-02,GOAL-EMP-000145-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,15,2.00,66.67,66.67
+KR-GOAL-EMP-000145-001-03,GOAL-EMP-000145-001,Build qualified pipeline,currency,USD,increase,0.00,1158000.00,45,621780.00,53.69,53.69
+KR-GOAL-EMP-000146-001-01,GOAL-EMP-000146-001,Improve SLA attainment,percentage,%,increase,91.00,94.00,45,91.53,17.67,17.67
+KR-GOAL-EMP-000146-001-02,GOAL-EMP-000146-001,Automate manual processes,count,processes,increase,0.00,4.00,55,3.00,75.00,75.00
+KR-GOAL-EMP-000146-002-01,GOAL-EMP-000146-002,Automate manual processes,count,processes,increase,0.00,9.00,100,6.00,66.67,66.67
+KR-GOAL-EMP-000002-002-01,GOAL-EMP-000002-002,Reduce p95 API latency,duration,ms,decrease,718.00,489.00,50,614.20,45.33,45.33
+KR-GOAL-EMP-000002-002-02,GOAL-EMP-000002-002,Complete learning hours,count,hours,increase,0.00,40.00,50,19.00,47.50,47.50
+KR-GOAL-EMP-000002-003-01,GOAL-EMP-000002-003,Raise automated test coverage,percentage,%,increase,58.00,71.00,30,58.00,0.00,0.00
+KR-GOAL-EMP-000002-003-02,GOAL-EMP-000002-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000002-003-03,GOAL-EMP-000002-003,Cut open P1 defects,count,defects,decrease,26.00,18.00,40,26.00,0.00,0.00
+KR-GOAL-EMP-000003-003-01,GOAL-EMP-000003-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,2.00,33.33,33.33
+KR-GOAL-EMP-000003-003-02,GOAL-EMP-000003-003,Raise automated test coverage,percentage,%,increase,58.00,77.00,50,65.56,39.79,39.79
+KR-GOAL-EMP-000004-004-01,GOAL-EMP-000004-004,Reduce churned accounts,count,accounts,decrease,20.00,6.00,100,20.00,0.00,0.00
+KR-GOAL-EMP-000004-005-01,GOAL-EMP-000004-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,100,2.00,33.33,33.33
+KR-GOAL-EMP-000004-006-01,GOAL-EMP-000004-006,Raise NPS,count,points,increase,43.00,49.00,50,48.00,83.33,83.33
+KR-GOAL-EMP-000004-006-02,GOAL-EMP-000004-006,Increase renewal rate,percentage,%,increase,80.00,86.00,20,82.59,43.17,43.17
+KR-GOAL-EMP-000004-006-03,GOAL-EMP-000004-006,Reduce churned accounts,count,accounts,decrease,42.00,37.00,30,39.00,60.00,60.00
+KR-GOAL-EMP-000005-002-01,GOAL-EMP-000005-002,Raise NPS,count,points,increase,42.00,51.00,55,45.00,33.33,33.33
+KR-GOAL-EMP-000005-002-02,GOAL-EMP-000005-002,Complete learning hours,count,hours,increase,0.00,12.00,45,3.00,25.00,25.00
+KR-GOAL-EMP-000006-004-01,GOAL-EMP-000006-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,100,2.00,40.00,40.00
+KR-GOAL-EMP-000006-005-01,GOAL-EMP-000006-005,Cut open P1 defects,count,defects,decrease,32.00,23.00,50,29.00,33.33,33.33
+KR-GOAL-EMP-000006-005-02,GOAL-EMP-000006-005,Raise automated test coverage,percentage,%,increase,53.00,66.00,50,56.15,24.23,24.23
+KR-GOAL-EMP-000007-003-01,GOAL-EMP-000007-003,Complete learning hours,count,hours,increase,0.00,25.00,65,14.00,56.00,56.00
+KR-GOAL-EMP-000007-003-02,GOAL-EMP-000007-003,Raise automated test coverage,percentage,%,increase,46.00,65.00,35,57.92,62.74,62.74
+KR-GOAL-EMP-000007-004-01,GOAL-EMP-000007-004,Raise automated test coverage,percentage,%,increase,62.00,74.00,30,67.56,46.33,46.33
+KR-GOAL-EMP-000007-004-02,GOAL-EMP-000007-004,Reduce p95 API latency,duration,ms,decrease,661.00,374.00,35,473.36,65.38,65.38
+KR-GOAL-EMP-000007-004-03,GOAL-EMP-000007-004,Complete learning hours,count,hours,increase,0.00,23.00,35,15.00,65.22,65.22
+KR-GOAL-EMP-000008-003-01,GOAL-EMP-000008-003,Raise engagement survey participation,percentage,%,increase,73.00,91.00,35,82.65,53.61,53.61
+KR-GOAL-EMP-000008-003-02,GOAL-EMP-000008-003,Deliver training sessions,count,sessions,increase,0.00,18.00,65,7.00,38.89,38.89
+KR-GOAL-EMP-000008-004-01,GOAL-EMP-000008-004,Deliver training sessions,count,sessions,increase,0.00,8.00,55,4.00,50.00,50.00
+KR-GOAL-EMP-000008-004-02,GOAL-EMP-000008-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,45,2.00,66.67,66.67
+KR-GOAL-EMP-000009-004-01,GOAL-EMP-000009-004,Shorten month-end close,duration,days,decrease,10.00,6.00,45,5.04,124.00,100.00
+KR-GOAL-EMP-000009-004-02,GOAL-EMP-000009-004,Reduce reconciliation exceptions,count,exceptions,decrease,43.00,10.00,30,38.00,15.15,15.15
+KR-GOAL-EMP-000009-004-03,GOAL-EMP-000009-004,Complete learning hours,count,hours,increase,0.00,31.00,25,5.00,16.13,16.13
+KR-GOAL-EMP-000010-002-01,GOAL-EMP-000010-002,Complete customer discovery interviews,count,interviews,increase,0.00,27.00,100,15.00,55.56,55.56
+KR-GOAL-EMP-000010-003-01,GOAL-EMP-000010-003,Complete customer discovery interviews,count,interviews,increase,0.00,11.00,45,4.00,36.36,36.36
+KR-GOAL-EMP-000010-003-02,GOAL-EMP-000010-003,Launch roadmap epics,count,epics,increase,0.00,6.00,55,2.00,33.33,33.33
+KR-GOAL-EMP-000011-002-01,GOAL-EMP-000011-002,Complete customer discovery interviews,count,interviews,increase,0.00,20.00,40,3.00,15.00,15.00
+KR-GOAL-EMP-000011-002-02,GOAL-EMP-000011-002,Launch roadmap epics,count,epics,increase,0.00,4.00,40,1.00,25.00,25.00
+KR-GOAL-EMP-000011-002-03,GOAL-EMP-000011-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,3.00,60.00,60.00
+KR-GOAL-EMP-000011-003-01,GOAL-EMP-000011-003,Increase feature adoption,percentage,%,increase,34.00,42.00,100,37.88,48.50,48.50
+KR-GOAL-EMP-000011-004-01,GOAL-EMP-000011-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,45,0.00,0.00,0.00
+KR-GOAL-EMP-000011-004-02,GOAL-EMP-000011-004,Complete customer discovery interviews,count,interviews,increase,0.00,26.00,55,4.00,15.38,15.38
+KR-GOAL-EMP-000011-005-01,GOAL-EMP-000011-005,Complete learning hours,count,hours,increase,0.00,38.00,30,8.00,21.05,21.05
+KR-GOAL-EMP-000011-005-02,GOAL-EMP-000011-005,Increase feature adoption,percentage,%,increase,35.00,50.00,40,41.27,41.80,41.80
+KR-GOAL-EMP-000011-005-03,GOAL-EMP-000011-005,Complete customer discovery interviews,count,interviews,increase,0.00,29.00,30,13.00,44.83,44.83
+KR-GOAL-EMP-000012-003-01,GOAL-EMP-000012-003,Reduce churned accounts,count,accounts,decrease,41.00,29.00,60,39.00,16.67,16.67
+KR-GOAL-EMP-000012-003-02,GOAL-EMP-000012-003,Increase renewal rate,percentage,%,increase,84.00,90.00,40,84.65,10.83,10.83
+KR-GOAL-EMP-000013-004-01,GOAL-EMP-000013-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,40,2.00,33.33,33.33
+KR-GOAL-EMP-000013-004-02,GOAL-EMP-000013-004,Reduce cost per lead,currency,USD,decrease,155.00,135.00,60,148.00,35.00,35.00
+KR-GOAL-EMP-000013-005-01,GOAL-EMP-000013-005,Complete learning hours,count,hours,increase,0.00,28.00,60,13.00,46.43,46.43
+KR-GOAL-EMP-000013-005-02,GOAL-EMP-000013-005,Grow organic traffic,percentage,%,increase,0.00,27.00,40,14.90,55.19,55.19
+KR-GOAL-EMP-000014-002-01,GOAL-EMP-000014-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000014-002-02,GOAL-EMP-000014-002,Reduce cost per lead,currency,USD,decrease,156.00,135.00,45,154.00,9.52,9.52
+KR-GOAL-EMP-000014-003-01,GOAL-EMP-000014-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000014-003-02,GOAL-EMP-000014-003,Generate marketing qualified leads,count,MQLs,increase,0.00,405.00,45,116.00,28.64,28.64
+KR-GOAL-EMP-000014-003-03,GOAL-EMP-000014-003,Complete learning hours,count,hours,increase,0.00,28.00,25,8.00,28.57,28.57
+KR-GOAL-EMP-000014-004-01,GOAL-EMP-000014-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,1.00,50.00,50.00
+KR-GOAL-EMP-000015-002-01,GOAL-EMP-000015-002,Win new logos,count,logos,increase,0.00,11.00,35,6.00,54.55,54.55
+KR-GOAL-EMP-000015-002-02,GOAL-EMP-000015-002,Complete learning hours,count,hours,increase,0.00,15.00,35,8.00,53.33,53.33
+KR-GOAL-EMP-000015-002-03,GOAL-EMP-000015-002,Close new ARR,currency,USD,increase,0.00,314000.00,30,130117.00,41.44,41.44
+KR-GOAL-EMP-000016-002-01,GOAL-EMP-000016-002,Close new ARR,currency,USD,increase,0.00,832000.00,45,47541.00,5.71,5.71
+KR-GOAL-EMP-000016-002-02,GOAL-EMP-000016-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000017-002-01,GOAL-EMP-000017-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,4.00,66.67,66.67
+KR-GOAL-EMP-000017-002-02,GOAL-EMP-000017-002,Complete learning hours,count,hours,increase,0.00,18.00,50,8.00,44.44,44.44
+KR-GOAL-EMP-000018-003-01,GOAL-EMP-000018-003,Improve SLA attainment,percentage,%,increase,91.00,97.00,35,91.85,14.17,14.17
+KR-GOAL-EMP-000018-003-02,GOAL-EMP-000018-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,25,1.00,20.00,20.00
+KR-GOAL-EMP-000018-003-03,GOAL-EMP-000018-003,Reduce ticket resolution time,duration,hours,decrease,57.00,43.00,40,54.56,17.43,17.43
+KR-GOAL-EMP-000018-004-01,GOAL-EMP-000018-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,45,1.00,50.00,50.00
+KR-GOAL-EMP-000018-004-02,GOAL-EMP-000018-004,Reduce ticket resolution time,duration,hours,decrease,45.00,27.00,55,35.75,51.39,51.39
+KR-GOAL-EMP-000019-002-01,GOAL-EMP-000019-002,Build qualified pipeline,currency,USD,increase,0.00,1143000.00,40,483377.00,42.29,42.29
+KR-GOAL-EMP-000019-002-02,GOAL-EMP-000019-002,Win new logos,count,logos,increase,0.00,4.00,60,1.00,25.00,25.00
+KR-GOAL-EMP-000020-002-01,GOAL-EMP-000020-002,Reduce ticket resolution time,duration,hours,decrease,36.00,16.00,20,26.73,46.35,46.35
+KR-GOAL-EMP-000020-002-02,GOAL-EMP-000020-002,Automate manual processes,count,processes,increase,0.00,10.00,40,5.00,50.00,50.00
+KR-GOAL-EMP-000020-002-03,GOAL-EMP-000020-002,Complete learning hours,count,hours,increase,0.00,32.00,40,18.00,56.25,56.25
+KR-GOAL-EMP-000021-003-01,GOAL-EMP-000021-003,Reduce ticket resolution time,duration,hours,decrease,48.00,28.00,15,41.97,30.15,30.15
+KR-GOAL-EMP-000021-003-02,GOAL-EMP-000021-003,Improve SLA attainment,percentage,%,increase,91.00,94.00,20,91.73,24.33,24.33
+KR-GOAL-EMP-000021-003-03,GOAL-EMP-000021-003,Complete learning hours,count,hours,increase,0.00,17.00,45,7.00,41.18,41.18
+KR-GOAL-EMP-000021-003-04,GOAL-EMP-000021-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,20,1.00,50.00,50.00
+KR-GOAL-EMP-000021-004-01,GOAL-EMP-000021-004,Improve SLA attainment,percentage,%,increase,88.00,94.00,45,90.46,41.00,41.00
+KR-GOAL-EMP-000021-004-02,GOAL-EMP-000021-004,Reduce ticket resolution time,duration,hours,decrease,38.00,30.00,55,35.46,31.75,31.75
+KR-GOAL-EMP-000021-005-01,GOAL-EMP-000021-005,Automate manual processes,count,processes,increase,0.00,6.00,35,1.00,16.67,16.67
+KR-GOAL-EMP-000021-005-02,GOAL-EMP-000021-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,2.00,50.00,50.00
+KR-GOAL-EMP-000021-005-03,GOAL-EMP-000021-005,Complete learning hours,count,hours,increase,0.00,29.00,40,8.00,27.59,27.59
+KR-GOAL-EMP-000022-002-01,GOAL-EMP-000022-002,Shorten month-end close,duration,days,decrease,11.00,9.00,40,10.89,5.50,5.50
+KR-GOAL-EMP-000022-002-02,GOAL-EMP-000022-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,25,0.00,0.00,0.00
+KR-GOAL-EMP-000022-002-03,GOAL-EMP-000022-002,Improve forecast accuracy,percentage,%,increase,81.00,85.00,35,81.07,1.75,1.75
+KR-GOAL-EMP-000022-003-01,GOAL-EMP-000022-003,Complete learning hours,count,hours,increase,0.00,25.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000022-003-02,GOAL-EMP-000022-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,60,0.00,0.00,0.00
+KR-GOAL-EMP-000023-002-01,GOAL-EMP-000023-002,Cut open P1 defects,count,defects,decrease,36.00,26.00,100,33.00,30.00,30.00
+KR-GOAL-EMP-000023-003-01,GOAL-EMP-000023-003,Reduce p95 API latency,duration,ms,decrease,504.00,337.00,50,452.38,30.91,30.91
+KR-GOAL-EMP-000023-003-02,GOAL-EMP-000023-003,Ship production features,count,features,increase,0.00,8.00,50,3.00,37.50,37.50
+KR-GOAL-EMP-000024-002-01,GOAL-EMP-000024-002,Build qualified pipeline,currency,USD,increase,0.00,567000.00,55,474850.00,83.75,83.75
+KR-GOAL-EMP-000024-002-02,GOAL-EMP-000024-002,Complete learning hours,count,hours,increase,0.00,36.00,45,15.00,41.67,41.67
+KR-GOAL-EMP-000024-003-01,GOAL-EMP-000024-003,Complete learning hours,count,hours,increase,0.00,18.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000024-003-02,GOAL-EMP-000024-003,Win new logos,count,logos,increase,0.00,15.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000025-003-01,GOAL-EMP-000025-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,0.00,0.00,0.00
+KR-GOAL-EMP-000025-004-01,GOAL-EMP-000025-004,Automate manual processes,count,processes,increase,0.00,9.00,20,3.00,33.33,33.33
+KR-GOAL-EMP-000025-004-02,GOAL-EMP-000025-004,Reduce ticket resolution time,duration,hours,decrease,55.00,35.00,35,49.19,29.05,29.05
+KR-GOAL-EMP-000025-004-03,GOAL-EMP-000025-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,2.00,40.00,40.00
+KR-GOAL-EMP-000025-004-04,GOAL-EMP-000025-004,Improve SLA attainment,percentage,%,increase,89.00,95.00,25,91.00,33.33,33.33
+KR-GOAL-EMP-000025-005-01,GOAL-EMP-000025-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,20,1.00,25.00,25.00
+KR-GOAL-EMP-000025-005-02,GOAL-EMP-000025-005,Reduce ticket resolution time,duration,hours,decrease,45.00,28.00,25,43.20,10.59,10.59
+KR-GOAL-EMP-000025-005-03,GOAL-EMP-000025-005,Improve SLA attainment,percentage,%,increase,83.00,90.00,35,84.08,15.43,15.43
+KR-GOAL-EMP-000025-005-04,GOAL-EMP-000025-005,Complete learning hours,count,hours,increase,0.00,27.00,20,5.00,18.52,18.52
+KR-GOAL-EMP-000026-003-01,GOAL-EMP-000026-003,Raise automated test coverage,percentage,%,increase,59.00,79.00,55,68.63,48.15,48.15
+KR-GOAL-EMP-000026-003-02,GOAL-EMP-000026-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,45,3.00,75.00,75.00
+KR-GOAL-EMP-000027-004-01,GOAL-EMP-000027-004,Reduce p95 API latency,duration,ms,decrease,596.00,359.00,40,484.06,47.23,47.23
+KR-GOAL-EMP-000027-004-02,GOAL-EMP-000027-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,40,3.00,50.00,50.00
+KR-GOAL-EMP-000027-004-03,GOAL-EMP-000027-004,Ship production features,count,features,increase,0.00,11.00,20,2.00,18.18,18.18
+KR-GOAL-EMP-000028-003-01,GOAL-EMP-000028-003,Win new logos,count,logos,increase,0.00,11.00,100,1.00,9.09,9.09
+KR-GOAL-EMP-000029-002-01,GOAL-EMP-000029-002,Reduce p95 API latency,duration,ms,decrease,687.00,578.00,35,607.59,72.85,72.85
+KR-GOAL-EMP-000029-002-02,GOAL-EMP-000029-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,20,2.00,66.67,66.67
+KR-GOAL-EMP-000029-002-03,GOAL-EMP-000029-002,Ship production features,count,features,increase,0.00,8.00,25,6.00,75.00,75.00
+KR-GOAL-EMP-000029-002-04,GOAL-EMP-000029-002,Raise automated test coverage,percentage,%,increase,48.00,63.00,20,58.25,68.33,68.33
+KR-GOAL-EMP-000030-002-01,GOAL-EMP-000030-002,Complete learning hours,count,hours,increase,0.00,16.00,45,5.00,31.25,31.25
+KR-GOAL-EMP-000030-002-02,GOAL-EMP-000030-002,Improve SLA attainment,percentage,%,increase,89.00,96.00,55,91.30,32.86,32.86
+KR-GOAL-EMP-000030-003-01,GOAL-EMP-000030-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,2.00,66.67,66.67
+KR-GOAL-EMP-000030-003-02,GOAL-EMP-000030-003,Automate manual processes,count,processes,increase,0.00,4.00,50,2.00,50.00,50.00
+KR-GOAL-EMP-000030-004-01,GOAL-EMP-000030-004,Improve SLA attainment,percentage,%,increase,90.00,95.00,25,91.75,35.00,35.00
+KR-GOAL-EMP-000030-004-02,GOAL-EMP-000030-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,20,2.00,33.33,33.33
+KR-GOAL-EMP-000030-004-03,GOAL-EMP-000030-004,Automate manual processes,count,processes,increase,0.00,3.00,25,1.00,33.33,33.33
+KR-GOAL-EMP-000030-004-04,GOAL-EMP-000030-004,Reduce ticket resolution time,duration,hours,decrease,31.00,14.00,30,24.00,41.18,41.18
+KR-GOAL-EMP-000031-002-01,GOAL-EMP-000031-002,Cut open P1 defects,count,defects,decrease,30.00,21.00,40,25.00,55.56,55.56
+KR-GOAL-EMP-000031-002-02,GOAL-EMP-000031-002,Complete learning hours,count,hours,increase,0.00,25.00,25,9.00,36.00,36.00
+KR-GOAL-EMP-000031-002-03,GOAL-EMP-000031-002,Ship production features,count,features,increase,0.00,9.00,35,4.00,44.44,44.44
+KR-GOAL-EMP-000031-003-01,GOAL-EMP-000031-003,Raise automated test coverage,percentage,%,increase,50.00,61.00,40,55.06,46.00,46.00
+KR-GOAL-EMP-000031-003-02,GOAL-EMP-000031-003,Complete learning hours,count,hours,increase,0.00,19.00,60,11.00,57.89,57.89
+KR-GOAL-EMP-000031-004-01,GOAL-EMP-000031-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000031-004-02,GOAL-EMP-000031-004,Ship production features,count,features,increase,0.00,7.00,65,0.00,0.00,0.00
+KR-GOAL-EMP-000032-003-01,GOAL-EMP-000032-003,Win new logos,count,logos,increase,0.00,11.00,50,2.00,18.18,18.18
+KR-GOAL-EMP-000032-003-02,GOAL-EMP-000032-003,Build qualified pipeline,currency,USD,increase,0.00,1875000.00,50,759099.00,40.49,40.49
+KR-GOAL-EMP-000032-004-01,GOAL-EMP-000032-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000032-004-02,GOAL-EMP-000032-004,Close new ARR,currency,USD,increase,0.00,820000.00,45,71162.00,8.68,8.68
+KR-GOAL-EMP-000032-005-01,GOAL-EMP-000032-005,Build qualified pipeline,currency,USD,increase,0.00,473000.00,40,108707.00,22.98,22.98
+KR-GOAL-EMP-000032-005-02,GOAL-EMP-000032-005,Complete learning hours,count,hours,increase,0.00,36.00,25,15.00,41.67,41.67
+KR-GOAL-EMP-000032-005-03,GOAL-EMP-000032-005,Close new ARR,currency,USD,increase,0.00,180000.00,35,27496.00,15.28,15.28
+KR-GOAL-EMP-000032-006-01,GOAL-EMP-000032-006,Close new ARR,currency,USD,increase,0.00,681000.00,30,283242.00,41.59,41.59
+KR-GOAL-EMP-000032-006-02,GOAL-EMP-000032-006,Win new logos,count,logos,increase,0.00,12.00,50,7.00,58.33,58.33
+KR-GOAL-EMP-000032-006-03,GOAL-EMP-000032-006,Build qualified pipeline,currency,USD,increase,0.00,1967000.00,20,1035223.00,52.63,52.63
+KR-GOAL-EMP-000033-004-01,GOAL-EMP-000033-004,Complete learning hours,count,hours,increase,0.00,19.00,100,9.00,47.37,47.37
+KR-GOAL-EMP-000033-005-01,GOAL-EMP-000033-005,Complete learning hours,count,hours,increase,0.00,28.00,35,14.00,50.00,50.00
+KR-GOAL-EMP-000033-005-02,GOAL-EMP-000033-005,Increase renewal rate,percentage,%,increase,84.00,90.00,15,87.65,60.83,60.83
+KR-GOAL-EMP-000033-005-03,GOAL-EMP-000033-005,Raise NPS,count,points,increase,44.00,59.00,50,53.00,60.00,60.00
+KR-GOAL-EMP-000034-003-01,GOAL-EMP-000034-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,100,3.00,60.00,60.00
+KR-GOAL-EMP-000034-004-01,GOAL-EMP-000034-004,Complete learning hours,count,hours,increase,0.00,34.00,40,23.00,67.65,67.65
+KR-GOAL-EMP-000034-004-02,GOAL-EMP-000034-004,Close new ARR,currency,USD,increase,0.00,546000.00,60,303022.00,55.50,55.50
+KR-GOAL-EMP-000035-002-01,GOAL-EMP-000035-002,Reduce p95 API latency,duration,ms,decrease,469.00,340.00,55,432.47,28.32,28.32
+KR-GOAL-EMP-000035-002-02,GOAL-EMP-000035-002,Complete learning hours,count,hours,increase,0.00,24.00,45,7.00,29.17,29.17
+KR-GOAL-EMP-000035-003-01,GOAL-EMP-000035-003,Complete learning hours,count,hours,increase,0.00,12.00,40,3.00,25.00,25.00
+KR-GOAL-EMP-000035-003-02,GOAL-EMP-000035-003,Ship production features,count,features,increase,0.00,4.00,60,2.00,50.00,50.00
+KR-GOAL-EMP-000036-003-01,GOAL-EMP-000036-003,Complete learning hours,count,hours,increase,0.00,14.00,50,8.00,57.14,57.14
+KR-GOAL-EMP-000036-003-02,GOAL-EMP-000036-003,Generate marketing qualified leads,count,MQLs,increase,0.00,437.00,50,258.00,59.04,59.04
+KR-GOAL-EMP-000037-003-01,GOAL-EMP-000037-003,Complete customer discovery interviews,count,interviews,increase,0.00,25.00,100,11.00,44.00,44.00
+KR-GOAL-EMP-000037-004-01,GOAL-EMP-000037-004,Complete customer discovery interviews,count,interviews,increase,0.00,23.00,65,9.00,39.13,39.13
+KR-GOAL-EMP-000037-004-02,GOAL-EMP-000037-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,35,1.00,20.00,20.00
+KR-GOAL-EMP-000038-003-01,GOAL-EMP-000038-003,Deliver training sessions,count,sessions,increase,0.00,6.00,50,2.00,33.33,33.33
+KR-GOAL-EMP-000038-003-02,GOAL-EMP-000038-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,2.00,33.33,33.33
+KR-GOAL-EMP-000039-002-01,GOAL-EMP-000039-002,Reduce ticket resolution time,duration,hours,decrease,30.00,11.00,40,29.27,3.84,3.84
+KR-GOAL-EMP-000039-002-02,GOAL-EMP-000039-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,60,0.00,0.00,0.00
+KR-GOAL-EMP-000039-003-01,GOAL-EMP-000039-003,Automate manual processes,count,processes,increase,0.00,5.00,65,2.00,40.00,40.00
+KR-GOAL-EMP-000039-003-02,GOAL-EMP-000039-003,Reduce ticket resolution time,duration,hours,decrease,46.00,29.00,35,38.72,42.82,42.82
+KR-GOAL-EMP-000040-003-01,GOAL-EMP-000040-003,Reduce churned accounts,count,accounts,decrease,29.00,17.00,30,26.00,25.00,25.00
+KR-GOAL-EMP-000040-003-02,GOAL-EMP-000040-003,Increase renewal rate,percentage,%,increase,87.00,93.00,15,90.33,55.50,55.50
+KR-GOAL-EMP-000040-003-03,GOAL-EMP-000040-003,Raise NPS,count,points,increase,33.00,46.00,30,38.00,38.46,38.46
+KR-GOAL-EMP-000040-003-04,GOAL-EMP-000040-003,Complete learning hours,count,hours,increase,0.00,36.00,25,13.00,36.11,36.11
+KR-GOAL-EMP-000041-003-01,GOAL-EMP-000041-003,Complete customer discovery interviews,count,interviews,increase,0.00,26.00,100,5.00,19.23,19.23
+KR-GOAL-EMP-000042-002-01,GOAL-EMP-000042-002,Complete learning hours,count,hours,increase,0.00,34.00,50,7.00,20.59,20.59
+KR-GOAL-EMP-000042-002-02,GOAL-EMP-000042-002,Improve SLA attainment,percentage,%,increase,92.00,97.00,50,93.62,32.40,32.40
+KR-GOAL-EMP-000042-003-01,GOAL-EMP-000042-003,Improve SLA attainment,percentage,%,increase,84.00,87.00,25,84.83,27.67,27.67
+KR-GOAL-EMP-000042-003-02,GOAL-EMP-000042-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,75,2.00,33.33,33.33
+KR-GOAL-EMP-000043-003-01,GOAL-EMP-000043-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,1.00,50.00,50.00
+KR-GOAL-EMP-000043-004-01,GOAL-EMP-000043-004,Launch roadmap epics,count,epics,increase,0.00,3.00,40,1.00,33.33,33.33
+KR-GOAL-EMP-000043-004-02,GOAL-EMP-000043-004,Complete customer discovery interviews,count,interviews,increase,0.00,21.00,60,11.00,52.38,52.38
+KR-GOAL-EMP-000044-002-01,GOAL-EMP-000044-002,Complete learning hours,count,hours,increase,0.00,14.00,60,10.00,71.43,71.43
+KR-GOAL-EMP-000044-002-02,GOAL-EMP-000044-002,Reduce time to hire,duration,days,decrease,51.00,33.00,40,43.52,41.56,41.56
+KR-GOAL-EMP-000044-003-01,GOAL-EMP-000044-003,Reduce time to hire,duration,days,decrease,51.00,38.00,40,42.65,64.23,64.23
+KR-GOAL-EMP-000044-003-02,GOAL-EMP-000044-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,25,2.00,66.67,66.67
+KR-GOAL-EMP-000044-003-03,GOAL-EMP-000044-003,Deliver training sessions,count,sessions,increase,0.00,14.00,15,5.00,35.71,35.71
+KR-GOAL-EMP-000044-003-04,GOAL-EMP-000044-003,Raise engagement survey participation,percentage,%,increase,66.00,83.00,20,73.18,42.24,42.24
+KR-GOAL-EMP-000045-003-01,GOAL-EMP-000045-003,Improve forecast accuracy,percentage,%,increase,81.00,84.00,20,81.64,21.33,21.33
+KR-GOAL-EMP-000045-003-02,GOAL-EMP-000045-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,1.00,33.33,33.33
+KR-GOAL-EMP-000045-003-03,GOAL-EMP-000045-003,Shorten month-end close,duration,days,decrease,9.00,6.00,50,8.16,28.00,28.00
+KR-GOAL-EMP-000046-003-01,GOAL-EMP-000046-003,Build qualified pipeline,currency,USD,increase,0.00,761000.00,50,220817.00,29.02,29.02
+KR-GOAL-EMP-000046-003-02,GOAL-EMP-000046-003,Complete learning hours,count,hours,increase,0.00,18.00,50,3.00,16.67,16.67
+KR-GOAL-EMP-000046-004-01,GOAL-EMP-000046-004,Build qualified pipeline,currency,USD,increase,0.00,1678000.00,30,782023.00,46.60,46.60
+KR-GOAL-EMP-000046-004-02,GOAL-EMP-000046-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,50,1.00,50.00,50.00
+KR-GOAL-EMP-000046-004-03,GOAL-EMP-000046-004,Close new ARR,currency,USD,increase,0.00,510000.00,20,174432.00,34.20,34.20
+KR-GOAL-EMP-000047-003-01,GOAL-EMP-000047-003,Improve SLA attainment,percentage,%,increase,90.00,94.00,50,92.38,59.50,59.50
+KR-GOAL-EMP-000047-003-02,GOAL-EMP-000047-003,Automate manual processes,count,processes,increase,0.00,6.00,50,4.00,66.67,66.67
+KR-GOAL-EMP-000048-005-01,GOAL-EMP-000048-005,Ship production features,count,features,increase,0.00,6.00,50,3.00,50.00,50.00
+KR-GOAL-EMP-000048-005-02,GOAL-EMP-000048-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,2.00,33.33,33.33
+KR-GOAL-EMP-000049-002-01,GOAL-EMP-000049-002,Grow organic traffic,percentage,%,increase,0.00,29.00,55,15.33,52.86,52.86
+KR-GOAL-EMP-000049-002-02,GOAL-EMP-000049-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,45,1.00,33.33,33.33
+KR-GOAL-EMP-000049-003-01,GOAL-EMP-000049-003,Grow organic traffic,percentage,%,increase,0.00,21.00,100,5.66,26.95,26.95
+KR-GOAL-EMP-000049-004-01,GOAL-EMP-000049-004,Grow organic traffic,percentage,%,increase,0.00,25.00,45,9.34,37.36,37.36
+KR-GOAL-EMP-000049-004-02,GOAL-EMP-000049-004,Generate marketing qualified leads,count,MQLs,increase,0.00,1341.00,55,462.00,34.45,34.45
+KR-GOAL-EMP-000050-002-01,GOAL-EMP-000050-002,Complete learning hours,count,hours,increase,0.00,15.00,100,9.00,60.00,60.00
+KR-GOAL-EMP-000050-003-01,GOAL-EMP-000050-003,Raise automated test coverage,percentage,%,increase,70.00,90.00,30,78.79,43.95,43.95
+KR-GOAL-EMP-000050-003-02,GOAL-EMP-000050-003,Cut open P1 defects,count,defects,decrease,35.00,20.00,70,28.00,46.67,46.67
+KR-GOAL-EMP-000051-003-01,GOAL-EMP-000051-003,Complete learning hours,count,hours,increase,0.00,13.00,100,3.00,23.08,23.08
+KR-GOAL-EMP-000051-004-01,GOAL-EMP-000051-004,Reduce cost per lead,currency,USD,decrease,140.00,97.00,45,111.00,67.44,67.44
+KR-GOAL-EMP-000051-004-02,GOAL-EMP-000051-004,Complete learning hours,count,hours,increase,0.00,34.00,55,19.00,55.88,55.88
+KR-GOAL-EMP-000052-003-01,GOAL-EMP-000052-003,Complete learning hours,count,hours,increase,0.00,17.00,100,4.00,23.53,23.53
+KR-GOAL-EMP-000052-004-01,GOAL-EMP-000052-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,55,2.00,33.33,33.33
+KR-GOAL-EMP-000052-004-02,GOAL-EMP-000052-004,Reduce time to hire,duration,days,decrease,41.00,23.00,45,32.21,48.83,48.83
+KR-GOAL-EMP-000053-003-01,GOAL-EMP-000053-003,Improve forecast accuracy,percentage,%,increase,85.00,93.00,35,85.72,9.00,9.00
+KR-GOAL-EMP-000053-003-02,GOAL-EMP-000053-003,Shorten month-end close,duration,days,decrease,8.00,4.00,30,7.54,11.50,11.50
+KR-GOAL-EMP-000053-003-03,GOAL-EMP-000053-003,Reduce reconciliation exceptions,count,exceptions,decrease,58.00,18.00,35,54.00,10.00,10.00
+KR-GOAL-EMP-000053-004-01,GOAL-EMP-000053-004,Reduce reconciliation exceptions,count,exceptions,decrease,43.00,18.00,100,43.00,0.00,0.00
+KR-GOAL-EMP-000054-002-01,GOAL-EMP-000054-002,Reduce churned accounts,count,accounts,decrease,41.00,31.00,30,40.00,10.00,10.00
+KR-GOAL-EMP-000054-002-02,GOAL-EMP-000054-002,Raise NPS,count,points,increase,36.00,47.00,40,39.00,27.27,27.27
+KR-GOAL-EMP-000054-002-03,GOAL-EMP-000054-002,Increase renewal rate,percentage,%,increase,82.00,88.00,30,83.17,19.50,19.50
+KR-GOAL-EMP-000054-003-01,GOAL-EMP-000054-003,Complete learning hours,count,hours,increase,0.00,29.00,30,6.00,20.69,20.69
+KR-GOAL-EMP-000054-003-02,GOAL-EMP-000054-003,Increase renewal rate,percentage,%,increase,78.00,85.00,30,78.74,10.57,10.57
+KR-GOAL-EMP-000054-003-03,GOAL-EMP-000054-003,Raise NPS,count,points,increase,25.00,35.00,40,27.00,20.00,20.00
+KR-GOAL-EMP-000055-004-01,GOAL-EMP-000055-004,Close new ARR,currency,USD,increase,0.00,725000.00,45,311827.00,43.01,43.01
+KR-GOAL-EMP-000055-004-02,GOAL-EMP-000055-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,55,3.00,50.00,50.00
+KR-GOAL-EMP-000056-003-01,GOAL-EMP-000056-003,Ship production features,count,features,increase,0.00,12.00,15,7.00,58.33,58.33
+KR-GOAL-EMP-000056-003-02,GOAL-EMP-000056-003,Reduce p95 API latency,duration,ms,decrease,699.00,589.00,20,646.28,47.93,47.93
+KR-GOAL-EMP-000056-003-03,GOAL-EMP-000056-003,Complete learning hours,count,hours,increase,0.00,23.00,45,10.00,43.48,43.48
+KR-GOAL-EMP-000056-003-04,GOAL-EMP-000056-003,Raise automated test coverage,percentage,%,increase,45.00,56.00,20,50.56,50.55,50.55
+KR-GOAL-EMP-000057-004-01,GOAL-EMP-000057-004,Close new ARR,currency,USD,increase,0.00,175000.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000057-004-02,GOAL-EMP-000057-004,Complete learning hours,count,hours,increase,0.00,25.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000057-005-01,GOAL-EMP-000057-005,Close new ARR,currency,USD,increase,0.00,699200.00,35,352338.00,50.39,50.39
+KR-GOAL-EMP-000057-005-02,GOAL-EMP-000057-005,Complete learning hours,count,hours,increase,0.00,12.00,65,4.00,33.33,33.33
+KR-GOAL-EMP-000058-004-01,GOAL-EMP-000058-004,Launch roadmap epics,count,epics,increase,0.00,6.00,50,2.00,33.33,33.33
+KR-GOAL-EMP-000058-004-02,GOAL-EMP-000058-004,Complete learning hours,count,hours,increase,0.00,24.00,50,8.00,33.33,33.33
+KR-GOAL-EMP-000058-005-01,GOAL-EMP-000058-005,Complete learning hours,count,hours,increase,0.00,20.00,45,5.00,25.00,25.00
+KR-GOAL-EMP-000058-005-02,GOAL-EMP-000058-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,25,1.00,33.33,33.33
+KR-GOAL-EMP-000058-005-03,GOAL-EMP-000058-005,Complete customer discovery interviews,count,interviews,increase,0.00,16.00,30,7.00,43.75,43.75
+KR-GOAL-EMP-000058-006-01,GOAL-EMP-000058-006,Complete customer discovery interviews,count,interviews,increase,0.00,29.00,55,14.00,48.28,48.28
+KR-GOAL-EMP-000058-006-02,GOAL-EMP-000058-006,Complete learning hours,count,hours,increase,0.00,35.00,45,7.00,20.00,20.00
+KR-GOAL-EMP-000059-003-01,GOAL-EMP-000059-003,Cut open P1 defects,count,defects,decrease,27.00,17.00,60,22.00,50.00,50.00
+KR-GOAL-EMP-000059-003-02,GOAL-EMP-000059-003,Reduce p95 API latency,duration,ms,decrease,666.00,485.00,40,570.63,52.69,52.69
+KR-GOAL-EMP-000060-002-01,GOAL-EMP-000060-002,Raise automated test coverage,percentage,%,increase,65.00,83.00,20,73.35,46.39,46.39
+KR-GOAL-EMP-000060-002-02,GOAL-EMP-000060-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,1.00,33.33,33.33
+KR-GOAL-EMP-000060-002-03,GOAL-EMP-000060-002,Complete learning hours,count,hours,increase,0.00,46.00,30,18.00,39.13,39.13
+KR-GOAL-EMP-000061-003-01,GOAL-EMP-000061-003,Ship production features,count,features,increase,0.00,4.00,15,2.00,50.00,50.00
+KR-GOAL-EMP-000061-003-02,GOAL-EMP-000061-003,Raise automated test coverage,percentage,%,increase,55.00,63.00,55,59.02,50.25,50.25
+KR-GOAL-EMP-000061-003-03,GOAL-EMP-000061-003,Cut open P1 defects,count,defects,decrease,34.00,24.00,30,30.00,40.00,40.00
+KR-GOAL-EMP-000061-004-01,GOAL-EMP-000061-004,Ship production features,count,features,increase,0.00,10.00,25,0.00,0.00,0.00
+KR-GOAL-EMP-000061-004-02,GOAL-EMP-000061-004,Reduce p95 API latency,duration,ms,decrease,810.00,720.00,40,810.00,0.00,0.00
+KR-GOAL-EMP-000061-004-03,GOAL-EMP-000061-004,Cut open P1 defects,count,defects,decrease,38.00,30.00,35,38.00,0.00,0.00
+KR-GOAL-EMP-000061-005-01,GOAL-EMP-000061-005,Complete learning hours,count,hours,increase,0.00,23.00,40,5.00,21.74,21.74
+KR-GOAL-EMP-000061-005-02,GOAL-EMP-000061-005,Cut open P1 defects,count,defects,decrease,38.00,29.00,25,33.00,55.56,55.56
+KR-GOAL-EMP-000061-005-03,GOAL-EMP-000061-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,35,2.00,40.00,40.00
+KR-GOAL-EMP-000061-006-01,GOAL-EMP-000061-006,Ship production features,count,features,increase,0.00,5.00,100,3.00,60.00,60.00
+KR-GOAL-EMP-000062-005-01,GOAL-EMP-000062-005,Build qualified pipeline,currency,USD,increase,0.00,1504000.00,40,190586.00,12.67,12.67
+KR-GOAL-EMP-000062-005-02,GOAL-EMP-000062-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,60,2.00,33.33,33.33
+KR-GOAL-EMP-000063-003-01,GOAL-EMP-000063-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,50,2.00,50.00,50.00
+KR-GOAL-EMP-000063-003-02,GOAL-EMP-000063-003,Raise automated test coverage,percentage,%,increase,46.00,60.00,50,51.80,41.43,41.43
+KR-GOAL-EMP-000064-002-01,GOAL-EMP-000064-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,1.00,33.33,33.33
+KR-GOAL-EMP-000064-002-02,GOAL-EMP-000064-002,Close new ARR,currency,USD,increase,0.00,204000.00,30,94312.00,46.23,46.23
+KR-GOAL-EMP-000064-002-03,GOAL-EMP-000064-002,Build qualified pipeline,currency,USD,increase,0.00,1674000.00,35,1033052.00,61.71,61.71
+KR-GOAL-EMP-000064-003-01,GOAL-EMP-000064-003,Complete learning hours,count,hours,increase,0.00,40.00,100,6.00,15.00,15.00
+KR-GOAL-EMP-000064-004-01,GOAL-EMP-000064-004,Win new logos,count,logos,increase,0.00,5.00,45,2.00,40.00,40.00
+KR-GOAL-EMP-000064-004-02,GOAL-EMP-000064-004,Build qualified pipeline,currency,USD,increase,0.00,993000.00,20,400621.00,40.34,40.34
+KR-GOAL-EMP-000064-004-03,GOAL-EMP-000064-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,2.00,66.67,66.67
+KR-GOAL-EMP-000064-005-01,GOAL-EMP-000064-005,Complete learning hours,count,hours,increase,0.00,18.00,30,3.00,16.67,16.67
+KR-GOAL-EMP-000064-005-02,GOAL-EMP-000064-005,Build qualified pipeline,currency,USD,increase,0.00,750000.00,30,161560.00,21.54,21.54
+KR-GOAL-EMP-000064-005-03,GOAL-EMP-000064-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000065-002-01,GOAL-EMP-000065-002,Cut open P1 defects,count,defects,decrease,24.00,9.00,65,22.00,13.33,13.33
+KR-GOAL-EMP-000065-002-02,GOAL-EMP-000065-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000065-003-01,GOAL-EMP-000065-003,Complete learning hours,count,hours,increase,0.00,22.00,35,14.00,63.64,63.64
+KR-GOAL-EMP-000065-003-02,GOAL-EMP-000065-003,Reduce p95 API latency,duration,ms,decrease,623.00,380.00,30,468.16,63.72,63.72
+KR-GOAL-EMP-000065-003-03,GOAL-EMP-000065-003,Raise automated test coverage,percentage,%,increase,69.00,85.00,35,78.81,61.31,61.31
+KR-GOAL-EMP-000066-004-01,GOAL-EMP-000066-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,3.00,50.00,50.00
+KR-GOAL-EMP-000066-004-02,GOAL-EMP-000066-004,Reduce p95 API latency,duration,ms,decrease,487.00,231.00,50,339.66,57.55,57.55
+KR-GOAL-EMP-000068-002-01,GOAL-EMP-000068-002,Improve forecast accuracy,percentage,%,increase,84.00,91.00,30,86.86,40.86,40.86
+KR-GOAL-EMP-000068-002-02,GOAL-EMP-000068-002,Reduce reconciliation exceptions,count,exceptions,decrease,57.00,42.00,40,50.00,46.67,46.67
+KR-GOAL-EMP-000068-002-03,GOAL-EMP-000068-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000069-002-01,GOAL-EMP-000069-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,3.00,50.00,50.00
+KR-GOAL-EMP-000069-002-02,GOAL-EMP-000069-002,Raise engagement survey participation,percentage,%,increase,69.00,78.00,50,75.82,75.78,75.78
+KR-GOAL-EMP-000070-003-01,GOAL-EMP-000070-003,Close new ARR,currency,USD,increase,0.00,243000.00,45,86672.00,35.67,35.67
+KR-GOAL-EMP-000070-003-02,GOAL-EMP-000070-003,Build qualified pipeline,currency,USD,increase,0.00,2110000.00,55,620658.00,29.42,29.42
+KR-GOAL-EMP-000071-002-01,GOAL-EMP-000071-002,Automate manual processes,count,processes,increase,0.00,5.00,100,0.00,0.00,0.00
+KR-GOAL-EMP-000072-002-01,GOAL-EMP-000072-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,1.00,50.00,50.00
+KR-GOAL-EMP-000073-002-01,GOAL-EMP-000073-002,Generate marketing qualified leads,count,MQLs,increase,0.00,968.00,25,0.00,0.00,0.00
+KR-GOAL-EMP-000073-002-02,GOAL-EMP-000073-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000073-002-03,GOAL-EMP-000073-002,Grow organic traffic,percentage,%,increase,0.00,24.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000073-003-01,GOAL-EMP-000073-003,Complete learning hours,count,hours,increase,0.00,30.00,40,12.00,40.00,40.00
+KR-GOAL-EMP-000073-003-02,GOAL-EMP-000073-003,Grow organic traffic,percentage,%,increase,0.00,17.00,60,8.69,51.12,51.12
+KR-GOAL-EMP-000074-002-01,GOAL-EMP-000074-002,Reduce ticket resolution time,duration,hours,decrease,48.00,26.00,100,36.53,52.14,52.14
+KR-GOAL-EMP-000074-003-01,GOAL-EMP-000074-003,Complete learning hours,count,hours,increase,0.00,30.00,20,10.00,33.33,33.33
+KR-GOAL-EMP-000074-003-02,GOAL-EMP-000074-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,15,2.00,40.00,40.00
+KR-GOAL-EMP-000074-003-03,GOAL-EMP-000074-003,Automate manual processes,count,processes,increase,0.00,6.00,30,2.00,33.33,33.33
+KR-GOAL-EMP-000074-003-04,GOAL-EMP-000074-003,Improve SLA attainment,percentage,%,increase,84.00,91.00,35,86.33,33.29,33.29
+KR-GOAL-EMP-000074-004-01,GOAL-EMP-000074-004,Automate manual processes,count,processes,increase,0.00,9.00,40,1.00,11.11,11.11
+KR-GOAL-EMP-000074-004-02,GOAL-EMP-000074-004,Reduce ticket resolution time,duration,hours,decrease,38.00,30.00,35,37.31,8.62,8.62
+KR-GOAL-EMP-000074-004-03,GOAL-EMP-000074-004,Improve SLA attainment,percentage,%,increase,84.00,87.00,25,84.35,11.67,11.67
+KR-GOAL-EMP-000075-002-01,GOAL-EMP-000075-002,Complete learning hours,count,hours,increase,0.00,13.00,60,4.00,30.77,30.77
+KR-GOAL-EMP-000075-002-02,GOAL-EMP-000075-002,Launch roadmap epics,count,epics,increase,0.00,4.00,40,1.00,25.00,25.00
+KR-GOAL-EMP-000075-003-01,GOAL-EMP-000075-003,Increase feature adoption,percentage,%,increase,30.00,39.00,55,31.64,18.22,18.22
+KR-GOAL-EMP-000075-003-02,GOAL-EMP-000075-003,Complete customer discovery interviews,count,interviews,increase,0.00,28.00,45,4.00,14.29,14.29
+KR-GOAL-EMP-000076-003-01,GOAL-EMP-000076-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000076-003-02,GOAL-EMP-000076-003,Improve SLA attainment,percentage,%,increase,84.00,91.00,60,84.00,0.00,0.00
+KR-GOAL-EMP-000076-004-01,GOAL-EMP-000076-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,100,4.00,100.00,100.00
+KR-GOAL-EMP-000076-005-01,GOAL-EMP-000076-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000076-005-02,GOAL-EMP-000076-005,Complete learning hours,count,hours,increase,0.00,30.00,45,3.00,10.00,10.00
+KR-GOAL-EMP-000077-002-01,GOAL-EMP-000077-002,Reduce ticket resolution time,duration,hours,decrease,44.00,34.00,100,40.48,35.20,35.20
+KR-GOAL-EMP-000077-003-01,GOAL-EMP-000077-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,1.00,33.33,33.33
+KR-GOAL-EMP-000077-003-02,GOAL-EMP-000077-003,Automate manual processes,count,processes,increase,0.00,9.00,70,3.00,33.33,33.33
+KR-GOAL-EMP-000078-002-01,GOAL-EMP-000078-002,Increase renewal rate,percentage,%,increase,78.00,81.00,25,79.34,44.67,44.67
+KR-GOAL-EMP-000078-002-02,GOAL-EMP-000078-002,Raise NPS,count,points,increase,43.00,52.00,30,47.00,44.44,44.44
+KR-GOAL-EMP-000078-002-03,GOAL-EMP-000078-002,Complete learning hours,count,hours,increase,0.00,18.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000078-002-04,GOAL-EMP-000078-002,Reduce churned accounts,count,accounts,decrease,31.00,16.00,15,29.00,13.33,13.33
+KR-GOAL-EMP-000078-003-01,GOAL-EMP-000078-003,Reduce churned accounts,count,accounts,decrease,36.00,29.00,100,34.00,28.57,28.57
+KR-GOAL-EMP-000079-003-01,GOAL-EMP-000079-003,Reduce churned accounts,count,accounts,decrease,21.00,11.00,65,19.00,20.00,20.00
+KR-GOAL-EMP-000079-003-02,GOAL-EMP-000079-003,Complete learning hours,count,hours,increase,0.00,27.00,35,14.00,51.85,51.85
+KR-GOAL-EMP-000080-002-01,GOAL-EMP-000080-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,45,0.00,0.00,0.00
+KR-GOAL-EMP-000080-002-02,GOAL-EMP-000080-002,Complete learning hours,count,hours,increase,0.00,13.00,55,2.00,15.38,15.38
+KR-GOAL-EMP-000081-002-01,GOAL-EMP-000081-002,Win new logos,count,logos,increase,0.00,7.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000081-002-02,GOAL-EMP-000081-002,Close new ARR,currency,USD,increase,0.00,717000.00,60,5488.00,0.77,0.77
+KR-GOAL-EMP-000082-002-01,GOAL-EMP-000082-002,Raise automated test coverage,percentage,%,increase,65.00,73.00,100,71.00,75.00,75.00
+KR-GOAL-EMP-000083-003-01,GOAL-EMP-000083-003,Reduce p95 API latency,duration,ms,decrease,666.00,376.00,45,666.00,0.00,0.00
+KR-GOAL-EMP-000083-003-02,GOAL-EMP-000083-003,Ship production features,count,features,increase,0.00,11.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000083-004-01,GOAL-EMP-000083-004,Ship production features,count,features,increase,0.00,9.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000083-004-02,GOAL-EMP-000083-004,Raise automated test coverage,percentage,%,increase,47.00,56.00,50,47.00,0.00,0.00
+KR-GOAL-EMP-000084-002-01,GOAL-EMP-000084-002,Reduce ticket resolution time,duration,hours,decrease,57.00,49.00,15,53.88,39.00,39.00
+KR-GOAL-EMP-000084-002-02,GOAL-EMP-000084-002,Automate manual processes,count,processes,increase,0.00,9.00,30,5.00,55.56,55.56
+KR-GOAL-EMP-000084-002-03,GOAL-EMP-000084-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,30,3.00,50.00,50.00
+KR-GOAL-EMP-000084-002-04,GOAL-EMP-000084-002,Improve SLA attainment,percentage,%,increase,88.00,94.00,25,91.66,61.00,61.00
+KR-GOAL-EMP-000084-003-01,GOAL-EMP-000084-003,Complete learning hours,count,hours,increase,0.00,31.00,25,15.00,48.39,48.39
+KR-GOAL-EMP-000084-003-02,GOAL-EMP-000084-003,Improve SLA attainment,percentage,%,increase,86.00,92.00,75,88.41,40.17,40.17
+KR-GOAL-EMP-000085-002-01,GOAL-EMP-000085-002,Launch roadmap epics,count,epics,increase,0.00,3.00,25,2.00,66.67,66.67
+KR-GOAL-EMP-000085-002-02,GOAL-EMP-000085-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,55,4.00,66.67,66.67
+KR-GOAL-EMP-000085-002-03,GOAL-EMP-000085-002,Increase feature adoption,percentage,%,increase,20.00,42.00,20,32.09,54.95,54.95
+KR-GOAL-EMP-000085-003-01,GOAL-EMP-000085-003,Launch roadmap epics,count,epics,increase,0.00,2.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000085-003-02,GOAL-EMP-000085-003,Complete customer discovery interviews,count,interviews,increase,0.00,15.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000085-003-03,GOAL-EMP-000085-003,Complete learning hours,count,hours,increase,0.00,40.00,15,0.00,0.00,0.00
+KR-GOAL-EMP-000085-003-04,GOAL-EMP-000085-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,20,0.00,0.00,0.00
+KR-GOAL-EMP-000086-003-01,GOAL-EMP-000086-003,Reduce reconciliation exceptions,count,exceptions,decrease,76.00,56.00,25,74.00,10.00,10.00
+KR-GOAL-EMP-000086-003-02,GOAL-EMP-000086-003,Shorten month-end close,duration,days,decrease,8.00,5.00,25,7.81,6.33,6.33
+KR-GOAL-EMP-000086-003-03,GOAL-EMP-000086-003,Improve forecast accuracy,percentage,%,increase,81.00,85.00,30,81.29,7.25,7.25
+KR-GOAL-EMP-000086-003-04,GOAL-EMP-000086-003,Complete learning hours,count,hours,increase,0.00,20.00,20,2.00,10.00,10.00
+KR-GOAL-EMP-000086-004-01,GOAL-EMP-000086-004,Improve forecast accuracy,percentage,%,increase,86.00,93.00,25,90.22,60.29,60.29
+KR-GOAL-EMP-000086-004-02,GOAL-EMP-000086-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,30,2.00,100.00,100.00
+KR-GOAL-EMP-000086-004-03,GOAL-EMP-000086-004,Complete learning hours,count,hours,increase,0.00,37.00,45,20.00,54.05,54.05
+KR-GOAL-EMP-000087-002-01,GOAL-EMP-000087-002,Complete learning hours,count,hours,increase,0.00,39.00,45,8.00,20.51,20.51
+KR-GOAL-EMP-000087-002-02,GOAL-EMP-000087-002,Shorten month-end close,duration,days,decrease,8.00,6.00,55,5.44,128.00,100.00
+KR-GOAL-EMP-000087-003-01,GOAL-EMP-000087-003,Shorten month-end close,duration,days,decrease,11.00,7.00,35,9.73,31.75,31.75
+KR-GOAL-EMP-000087-003-02,GOAL-EMP-000087-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,30,2.00,66.67,66.67
+KR-GOAL-EMP-000087-003-03,GOAL-EMP-000087-003,Reduce reconciliation exceptions,count,exceptions,decrease,70.00,38.00,35,53.00,53.12,53.12
+KR-GOAL-EMP-000087-004-01,GOAL-EMP-000087-004,Reduce reconciliation exceptions,count,exceptions,decrease,48.00,28.00,35,37.00,55.00,55.00
+KR-GOAL-EMP-000087-004-02,GOAL-EMP-000087-004,Improve forecast accuracy,percentage,%,increase,81.00,87.00,30,84.13,52.17,52.17
+KR-GOAL-EMP-000087-004-03,GOAL-EMP-000087-004,Shorten month-end close,duration,days,decrease,9.00,6.00,35,7.05,65.00,65.00
+KR-GOAL-EMP-000088-003-01,GOAL-EMP-000088-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,100,1.00,50.00,50.00
+KR-GOAL-EMP-000088-004-01,GOAL-EMP-000088-004,Raise engagement survey participation,percentage,%,increase,61.00,70.00,30,61.00,0.00,0.00
+KR-GOAL-EMP-000088-004-02,GOAL-EMP-000088-004,Complete learning hours,count,hours,increase,0.00,26.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000088-004-03,GOAL-EMP-000088-004,Deliver training sessions,count,sessions,increase,0.00,11.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000088-005-01,GOAL-EMP-000088-005,Reduce time to hire,duration,days,decrease,59.00,42.00,50,49.57,55.47,55.47
+KR-GOAL-EMP-000088-005-02,GOAL-EMP-000088-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,50,1.00,50.00,50.00
+KR-GOAL-EMP-000088-006-01,GOAL-EMP-000088-006,Reduce time to hire,duration,days,decrease,42.00,29.00,55,42.00,0.00,0.00
+KR-GOAL-EMP-000088-006-02,GOAL-EMP-000088-006,Raise engagement survey participation,percentage,%,increase,68.00,86.00,45,68.00,0.00,0.00
+KR-GOAL-EMP-000089-002-01,GOAL-EMP-000089-002,Complete learning hours,count,hours,increase,0.00,36.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000089-002-02,GOAL-EMP-000089-002,Reduce ticket resolution time,duration,hours,decrease,33.00,19.00,50,33.00,0.00,0.00
+KR-GOAL-EMP-000090-003-01,GOAL-EMP-000090-003,Complete learning hours,count,hours,increase,0.00,15.00,40,7.00,46.67,46.67
+KR-GOAL-EMP-000090-003-02,GOAL-EMP-000090-003,Generate marketing qualified leads,count,MQLs,increase,0.00,1356.00,60,542.00,39.97,39.97
+KR-GOAL-EMP-000091-002-01,GOAL-EMP-000091-002,Reduce ticket resolution time,duration,hours,decrease,39.00,27.00,100,35.39,30.08,30.08
+KR-GOAL-EMP-000092-002-01,GOAL-EMP-000092-002,Win new logos,count,logos,increase,0.00,3.00,40,1.00,33.33,33.33
+KR-GOAL-EMP-000092-002-02,GOAL-EMP-000092-002,Build qualified pipeline,currency,USD,increase,0.00,1297000.00,25,411947.00,31.76,31.76
+KR-GOAL-EMP-000092-002-03,GOAL-EMP-000092-002,Complete learning hours,count,hours,increase,0.00,12.00,35,3.00,25.00,25.00
+KR-GOAL-EMP-000092-003-01,GOAL-EMP-000092-003,Win new logos,count,logos,increase,0.00,12.00,55,8.00,66.67,66.67
+KR-GOAL-EMP-000092-003-02,GOAL-EMP-000092-003,Complete learning hours,count,hours,increase,0.00,31.00,45,17.00,54.84,54.84
+KR-GOAL-EMP-000093-003-01,GOAL-EMP-000093-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,55,1.00,33.33,33.33
+KR-GOAL-EMP-000093-003-02,GOAL-EMP-000093-003,Increase renewal rate,percentage,%,increase,78.00,82.00,45,79.51,37.75,37.75
+KR-GOAL-EMP-000094-002-01,GOAL-EMP-000094-002,Raise automated test coverage,percentage,%,increase,48.00,57.00,50,51.48,38.67,38.67
+KR-GOAL-EMP-000094-002-02,GOAL-EMP-000094-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,1.00,33.33,33.33
+KR-GOAL-EMP-000096-002-01,GOAL-EMP-000096-002,Raise automated test coverage,percentage,%,increase,70.00,88.00,45,70.00,0.00,0.00
+KR-GOAL-EMP-000096-002-02,GOAL-EMP-000096-002,Cut open P1 defects,count,defects,decrease,35.00,26.00,25,35.00,0.00,0.00
+KR-GOAL-EMP-000096-002-03,GOAL-EMP-000096-002,Complete learning hours,count,hours,increase,0.00,28.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000097-003-01,GOAL-EMP-000097-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,35,1.00,16.67,16.67
+KR-GOAL-EMP-000097-003-02,GOAL-EMP-000097-003,Increase renewal rate,percentage,%,increase,81.00,87.00,35,82.81,30.17,30.17
+KR-GOAL-EMP-000097-003-03,GOAL-EMP-000097-003,Complete learning hours,count,hours,increase,0.00,28.00,30,6.00,21.43,21.43
+KR-GOAL-EMP-000098-005-01,GOAL-EMP-000098-005,Build qualified pipeline,currency,USD,increase,0.00,1999000.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000098-005-02,GOAL-EMP-000098-005,Close new ARR,currency,USD,increase,0.00,580000.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000098-005-03,GOAL-EMP-000098-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,25,0.00,0.00,0.00
+KR-GOAL-EMP-000098-006-01,GOAL-EMP-000098-006,Complete learning hours,count,hours,increase,0.00,35.00,55,18.00,51.43,51.43
+KR-GOAL-EMP-000098-006-02,GOAL-EMP-000098-006,Build qualified pipeline,currency,USD,increase,0.00,642000.00,45,270019.00,42.06,42.06
+KR-GOAL-EMP-000099-002-01,GOAL-EMP-000099-002,Reduce p95 API latency,duration,ms,decrease,897.00,644.00,50,800.84,38.01,38.01
+KR-GOAL-EMP-000099-002-02,GOAL-EMP-000099-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,50,1.00,25.00,25.00
+KR-GOAL-EMP-000099-003-01,GOAL-EMP-000099-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000099-003-02,GOAL-EMP-000099-003,Raise automated test coverage,percentage,%,increase,46.00,58.00,50,46.00,0.00,0.00
+KR-GOAL-EMP-000099-004-01,GOAL-EMP-000099-004,Ship production features,count,features,increase,0.00,4.00,55,0.00,0.00,0.00
+KR-GOAL-EMP-000099-004-02,GOAL-EMP-000099-004,Raise automated test coverage,percentage,%,increase,50.00,58.00,45,50.80,10.00,10.00
+KR-GOAL-EMP-000100-002-01,GOAL-EMP-000100-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,35,1.00,50.00,50.00
+KR-GOAL-EMP-000100-002-02,GOAL-EMP-000100-002,Reduce ticket resolution time,duration,hours,decrease,34.00,24.00,25,28.71,52.90,52.90
+KR-GOAL-EMP-000100-002-03,GOAL-EMP-000100-002,Complete learning hours,count,hours,increase,0.00,24.00,40,14.00,58.33,58.33
+KR-GOAL-EMP-000101-002-01,GOAL-EMP-000101-002,Win new logos,count,logos,increase,0.00,13.00,70,4.00,30.77,30.77
+KR-GOAL-EMP-000101-002-02,GOAL-EMP-000101-002,Complete learning hours,count,hours,increase,0.00,19.00,30,7.00,36.84,36.84
+KR-GOAL-EMP-000101-003-01,GOAL-EMP-000101-003,Complete learning hours,count,hours,increase,0.00,40.00,100,47.00,117.50,100.00
+KR-GOAL-EMP-000102-004-01,GOAL-EMP-000102-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,55,2.00,33.33,33.33
+KR-GOAL-EMP-000102-004-02,GOAL-EMP-000102-004,Complete learning hours,count,hours,increase,0.00,12.00,45,5.00,41.67,41.67
+KR-GOAL-EMP-000102-005-01,GOAL-EMP-000102-005,Complete learning hours,count,hours,increase,0.00,39.00,100,19.00,48.72,48.72
+KR-GOAL-EMP-000103-002-01,GOAL-EMP-000103-002,Cut open P1 defects,count,defects,decrease,22.00,10.00,100,17.00,41.67,41.67
+KR-GOAL-EMP-000103-003-01,GOAL-EMP-000103-003,Reduce p95 API latency,duration,ms,decrease,748.00,619.00,30,680.23,52.53,52.53
+KR-GOAL-EMP-000103-003-02,GOAL-EMP-000103-003,Cut open P1 defects,count,defects,decrease,31.00,22.00,35,25.00,66.67,66.67
+KR-GOAL-EMP-000103-003-03,GOAL-EMP-000103-003,Complete learning hours,count,hours,increase,0.00,23.00,35,15.00,65.22,65.22
+KR-GOAL-EMP-000104-002-01,GOAL-EMP-000104-002,Deliver training sessions,count,sessions,increase,0.00,9.00,50,4.00,44.44,44.44
+KR-GOAL-EMP-000104-002-02,GOAL-EMP-000104-002,Complete learning hours,count,hours,increase,0.00,28.00,50,14.00,50.00,50.00
+KR-GOAL-EMP-000104-003-01,GOAL-EMP-000104-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,1.00,25.00,25.00
+KR-GOAL-EMP-000104-003-02,GOAL-EMP-000104-003,Complete learning hours,count,hours,increase,0.00,27.00,35,10.00,37.04,37.04
+KR-GOAL-EMP-000104-003-03,GOAL-EMP-000104-003,Deliver training sessions,count,sessions,increase,0.00,18.00,25,7.00,38.89,38.89
+KR-GOAL-EMP-000105-004-01,GOAL-EMP-000105-004,Complete learning hours,count,hours,increase,0.00,15.00,100,6.00,40.00,40.00
+KR-GOAL-EMP-000106-003-01,GOAL-EMP-000106-003,Reduce churned accounts,count,accounts,decrease,21.00,11.00,35,16.00,50.00,50.00
+KR-GOAL-EMP-000106-003-02,GOAL-EMP-000106-003,Complete learning hours,count,hours,increase,0.00,40.00,50,30.00,75.00,75.00
+KR-GOAL-EMP-000106-003-03,GOAL-EMP-000106-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,15,1.00,50.00,50.00
+KR-GOAL-EMP-000107-004-01,GOAL-EMP-000107-004,Complete learning hours,count,hours,increase,0.00,16.00,55,6.00,37.50,37.50
+KR-GOAL-EMP-000107-004-02,GOAL-EMP-000107-004,Reduce cost per lead,currency,USD,decrease,122.00,82.00,45,101.00,52.50,52.50
+KR-GOAL-EMP-000108-002-01,GOAL-EMP-000108-002,Raise NPS,count,points,increase,38.00,48.00,100,41.00,30.00,30.00
+KR-GOAL-EMP-000108-003-01,GOAL-EMP-000108-003,Increase renewal rate,percentage,%,increase,84.00,89.00,40,84.70,14.00,14.00
+KR-GOAL-EMP-000108-003-02,GOAL-EMP-000108-003,Complete learning hours,count,hours,increase,0.00,43.00,60,7.00,16.28,16.28
+KR-GOAL-EMP-000109-003-01,GOAL-EMP-000109-003,Complete learning hours,count,hours,increase,0.00,30.00,20,17.00,56.67,56.67
+KR-GOAL-EMP-000109-003-02,GOAL-EMP-000109-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,3.00,60.00,60.00
+KR-GOAL-EMP-000109-003-03,GOAL-EMP-000109-003,Win new logos,count,logos,increase,0.00,7.00,30,4.00,57.14,57.14
+KR-GOAL-EMP-000109-003-04,GOAL-EMP-000109-003,Close new ARR,currency,USD,increase,0.00,378250.00,30,222979.00,58.95,58.95
+KR-GOAL-EMP-000109-004-01,GOAL-EMP-000109-004,Win new logos,count,logos,increase,0.00,14.00,50,3.00,21.43,21.43
+KR-GOAL-EMP-000109-004-02,GOAL-EMP-000109-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,50,1.00,20.00,20.00
+KR-GOAL-EMP-000110-002-01,GOAL-EMP-000110-002,Automate manual processes,count,processes,increase,0.00,3.00,30,1.00,33.33,33.33
+KR-GOAL-EMP-000110-002-02,GOAL-EMP-000110-002,Reduce ticket resolution time,duration,hours,decrease,50.00,42.00,25,49.49,6.37,6.37
+KR-GOAL-EMP-000110-002-03,GOAL-EMP-000110-002,Complete learning hours,count,hours,increase,0.00,21.00,15,10.00,47.62,47.62
+KR-GOAL-EMP-000110-002-04,GOAL-EMP-000110-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,30,1.00,50.00,50.00
+KR-GOAL-EMP-000112-002-01,GOAL-EMP-000112-002,Raise automated test coverage,percentage,%,increase,47.00,65.00,20,57.88,60.44,60.44
+KR-GOAL-EMP-000112-002-02,GOAL-EMP-000112-002,Reduce p95 API latency,duration,ms,decrease,470.00,259.00,40,380.09,42.61,42.61
+KR-GOAL-EMP-000112-002-03,GOAL-EMP-000112-002,Ship production features,count,features,increase,0.00,10.00,15,5.00,50.00,50.00
+KR-GOAL-EMP-000112-002-04,GOAL-EMP-000112-002,Complete learning hours,count,hours,increase,0.00,24.00,25,9.00,37.50,37.50
+KR-GOAL-EMP-000112-003-01,GOAL-EMP-000112-003,Ship production features,count,features,increase,0.00,13.00,100,6.00,46.15,46.15
+KR-GOAL-EMP-000113-005-01,GOAL-EMP-000113-005,Reduce p95 API latency,duration,ms,decrease,746.00,526.00,50,627.81,53.72,53.72
+KR-GOAL-EMP-000113-005-02,GOAL-EMP-000113-005,Ship production features,count,features,increase,0.00,11.00,50,6.00,54.55,54.55
+KR-GOAL-EMP-000114-002-01,GOAL-EMP-000114-002,Deliver training sessions,count,sessions,increase,0.00,6.00,30,1.00,16.67,16.67
+KR-GOAL-EMP-000114-002-02,GOAL-EMP-000114-002,Raise engagement survey participation,percentage,%,increase,61.00,73.00,25,63.57,21.42,21.42
+KR-GOAL-EMP-000114-002-03,GOAL-EMP-000114-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,1.00,25.00,25.00
+KR-GOAL-EMP-000114-002-04,GOAL-EMP-000114-002,Reduce time to hire,duration,days,decrease,51.00,36.00,10,47.73,21.80,21.80
+KR-GOAL-EMP-000115-003-01,GOAL-EMP-000115-003,Reduce p95 API latency,duration,ms,decrease,752.00,664.00,30,726.82,28.61,28.61
+KR-GOAL-EMP-000115-003-02,GOAL-EMP-000115-003,Cut open P1 defects,count,defects,decrease,24.00,16.00,35,19.00,62.50,62.50
+KR-GOAL-EMP-000115-003-03,GOAL-EMP-000115-003,Raise automated test coverage,percentage,%,increase,64.00,84.00,35,78.25,71.25,71.25
+KR-GOAL-EMP-000115-004-01,GOAL-EMP-000115-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,55,1.00,25.00,25.00
+KR-GOAL-EMP-000115-004-02,GOAL-EMP-000115-004,Cut open P1 defects,count,defects,decrease,35.00,21.00,45,29.00,42.86,42.86
+KR-GOAL-EMP-000116-003-01,GOAL-EMP-000116-003,Shorten month-end close,duration,days,decrease,12.00,9.00,25,10.25,58.33,58.33
+KR-GOAL-EMP-000116-003-02,GOAL-EMP-000116-003,Improve forecast accuracy,percentage,%,increase,81.00,89.00,75,87.03,75.38,75.38
+KR-GOAL-EMP-000116-004-01,GOAL-EMP-000116-004,Complete learning hours,count,hours,increase,0.00,39.00,25,26.00,66.67,66.67
+KR-GOAL-EMP-000116-004-02,GOAL-EMP-000116-004,Reduce reconciliation exceptions,count,exceptions,decrease,67.00,32.00,45,43.00,68.57,68.57
+KR-GOAL-EMP-000116-004-03,GOAL-EMP-000116-004,Improve forecast accuracy,percentage,%,increase,87.00,90.00,30,89.01,67.00,67.00
+KR-GOAL-EMP-000117-004-01,GOAL-EMP-000117-004,Cut open P1 defects,count,defects,decrease,40.00,32.00,30,34.00,75.00,75.00
+KR-GOAL-EMP-000117-004-02,GOAL-EMP-000117-004,Raise automated test coverage,percentage,%,increase,47.00,60.00,50,49.90,22.31,22.31
+KR-GOAL-EMP-000117-004-03,GOAL-EMP-000117-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,2.00,40.00,40.00
+KR-GOAL-EMP-000117-005-01,GOAL-EMP-000117-005,Cut open P1 defects,count,defects,decrease,27.00,12.00,100,24.00,20.00,20.00
+KR-GOAL-EMP-000118-004-01,GOAL-EMP-000118-004,Raise NPS,count,points,increase,32.00,45.00,35,33.00,7.69,7.69
+KR-GOAL-EMP-000118-004-02,GOAL-EMP-000118-004,Increase renewal rate,percentage,%,increase,81.00,86.00,45,81.00,0.00,0.00
+KR-GOAL-EMP-000118-004-03,GOAL-EMP-000118-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,20,0.00,0.00,0.00
+KR-GOAL-EMP-000119-003-01,GOAL-EMP-000119-003,Close new ARR,currency,USD,increase,0.00,586000.00,50,139541.00,23.81,23.81
+KR-GOAL-EMP-000119-003-02,GOAL-EMP-000119-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,50,1.00,20.00,20.00
+KR-GOAL-EMP-000119-004-01,GOAL-EMP-000119-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,100,2.00,40.00,40.00
+KR-GOAL-EMP-000120-003-01,GOAL-EMP-000120-003,Cut open P1 defects,count,defects,decrease,38.00,30.00,55,34.00,50.00,50.00
+KR-GOAL-EMP-000120-003-02,GOAL-EMP-000120-003,Reduce p95 API latency,duration,ms,decrease,499.00,407.00,45,470.42,31.07,31.07
+KR-GOAL-EMP-000120-004-01,GOAL-EMP-000120-004,Cut open P1 defects,count,defects,decrease,35.00,24.00,100,35.00,0.00,0.00
+KR-GOAL-EMP-000121-002-01,GOAL-EMP-000121-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,40,3.00,60.00,60.00
+KR-GOAL-EMP-000121-002-02,GOAL-EMP-000121-002,Complete learning hours,count,hours,increase,0.00,15.00,25,6.00,40.00,40.00
+KR-GOAL-EMP-000121-002-03,GOAL-EMP-000121-002,Close new ARR,currency,USD,increase,0.00,375000.00,35,260755.00,69.53,69.53
+KR-GOAL-EMP-000122-003-01,GOAL-EMP-000122-003,Automate manual processes,count,processes,increase,0.00,5.00,30,2.00,40.00,40.00
+KR-GOAL-EMP-000122-003-02,GOAL-EMP-000122-003,Reduce ticket resolution time,duration,hours,decrease,38.00,25.00,45,29.66,64.15,64.15
+KR-GOAL-EMP-000122-003-03,GOAL-EMP-000122-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,25,3.00,75.00,75.00
+KR-GOAL-EMP-000122-004-01,GOAL-EMP-000122-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,30,3.00,60.00,60.00
+KR-GOAL-EMP-000122-004-02,GOAL-EMP-000122-004,Improve SLA attainment,percentage,%,increase,82.00,86.00,40,84.62,65.50,65.50
+KR-GOAL-EMP-000122-004-03,GOAL-EMP-000122-004,Reduce ticket resolution time,duration,hours,decrease,46.00,37.00,30,40.40,62.22,62.22
+KR-GOAL-EMP-000122-005-01,GOAL-EMP-000122-005,Reduce ticket resolution time,duration,hours,decrease,32.00,21.00,30,26.89,46.45,46.45
+KR-GOAL-EMP-000122-005-02,GOAL-EMP-000122-005,Improve SLA attainment,percentage,%,increase,83.00,86.00,40,84.41,47.00,47.00
+KR-GOAL-EMP-000122-005-03,GOAL-EMP-000122-005,Complete learning hours,count,hours,increase,0.00,24.00,30,11.00,45.83,45.83
+KR-GOAL-EMP-000123-002-01,GOAL-EMP-000123-002,Cut open P1 defects,count,defects,decrease,39.00,24.00,35,32.00,46.67,46.67
+KR-GOAL-EMP-000123-002-02,GOAL-EMP-000123-002,Complete learning hours,count,hours,increase,0.00,35.00,40,26.00,74.29,74.29
+KR-GOAL-EMP-000123-002-03,GOAL-EMP-000123-002,Raise automated test coverage,percentage,%,increase,59.00,76.00,25,65.18,36.35,36.35
+KR-GOAL-EMP-000123-003-01,GOAL-EMP-000123-003,Cut open P1 defects,count,defects,decrease,38.00,30.00,25,38.00,0.00,0.00
+KR-GOAL-EMP-000123-003-02,GOAL-EMP-000123-003,Complete learning hours,count,hours,increase,0.00,30.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000123-003-03,GOAL-EMP-000123-003,Ship production features,count,features,increase,0.00,5.00,15,0.00,0.00,0.00
+KR-GOAL-EMP-000123-003-04,GOAL-EMP-000123-003,Raise automated test coverage,percentage,%,increase,68.00,84.00,30,68.00,0.00,0.00
+KR-GOAL-EMP-000124-004-01,GOAL-EMP-000124-004,Complete learning hours,count,hours,increase,0.00,28.00,25,1.00,3.57,3.57
+KR-GOAL-EMP-000124-004-02,GOAL-EMP-000124-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000124-004-03,GOAL-EMP-000124-004,Shorten month-end close,duration,days,decrease,12.00,9.00,25,12.00,0.00,0.00
+KR-GOAL-EMP-000124-005-01,GOAL-EMP-000124-005,Shorten month-end close,duration,days,decrease,8.00,6.00,60,7.61,19.50,19.50
+KR-GOAL-EMP-000124-005-02,GOAL-EMP-000124-005,Reduce reconciliation exceptions,count,exceptions,decrease,83.00,48.00,40,78.00,14.29,14.29
+KR-GOAL-EMP-000125-002-01,GOAL-EMP-000125-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,45,4.00,66.67,66.67
+KR-GOAL-EMP-000125-002-02,GOAL-EMP-000125-002,Build qualified pipeline,currency,USD,increase,0.00,593600.00,55,369573.00,62.26,62.26
+KR-GOAL-EMP-000125-003-01,GOAL-EMP-000125-003,Win new logos,count,logos,increase,0.00,7.00,30,3.00,42.86,42.86
+KR-GOAL-EMP-000125-003-02,GOAL-EMP-000125-003,Complete learning hours,count,hours,increase,0.00,15.00,20,7.00,46.67,46.67
+KR-GOAL-EMP-000125-003-03,GOAL-EMP-000125-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,30,2.00,50.00,50.00
+KR-GOAL-EMP-000125-003-04,GOAL-EMP-000125-003,Close new ARR,currency,USD,increase,0.00,813000.00,20,378524.00,46.56,46.56
+KR-GOAL-EMP-000125-004-01,GOAL-EMP-000125-004,Win new logos,count,logos,increase,0.00,8.00,30,6.00,75.00,75.00
+KR-GOAL-EMP-000125-004-02,GOAL-EMP-000125-004,Complete learning hours,count,hours,increase,0.00,39.00,20,26.00,66.67,66.67
+KR-GOAL-EMP-000125-004-03,GOAL-EMP-000125-004,Build qualified pipeline,currency,USD,increase,0.00,1020000.00,50,673350.00,66.01,66.01
+KR-GOAL-EMP-000125-005-01,GOAL-EMP-000125-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,1.00,25.00,25.00
+KR-GOAL-EMP-000125-005-02,GOAL-EMP-000125-005,Win new logos,count,logos,increase,0.00,14.00,35,5.00,35.71,35.71
+KR-GOAL-EMP-000125-005-03,GOAL-EMP-000125-005,Close new ARR,currency,USD,increase,0.00,304000.00,30,126244.00,41.53,41.53
+KR-GOAL-EMP-000126-003-01,GOAL-EMP-000126-003,Improve SLA attainment,percentage,%,increase,84.00,91.00,60,86.06,29.43,29.43
+KR-GOAL-EMP-000126-003-02,GOAL-EMP-000126-003,Reduce ticket resolution time,duration,hours,decrease,33.00,18.00,40,22.57,69.53,69.53
+KR-GOAL-EMP-000128-003-01,GOAL-EMP-000128-003,Complete learning hours,count,hours,increase,0.00,15.00,25,2.00,13.33,13.33
+KR-GOAL-EMP-000128-003-02,GOAL-EMP-000128-003,Build qualified pipeline,currency,USD,increase,0.00,1638000.00,45,790056.00,48.23,48.23
+KR-GOAL-EMP-000128-003-03,GOAL-EMP-000128-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,30,0.00,0.00,0.00
+KR-GOAL-EMP-000129-002-01,GOAL-EMP-000129-002,Ship production features,count,features,increase,0.00,12.00,30,7.00,58.33,58.33
+KR-GOAL-EMP-000129-002-02,GOAL-EMP-000129-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,30,2.00,50.00,50.00
+KR-GOAL-EMP-000129-002-03,GOAL-EMP-000129-002,Reduce p95 API latency,duration,ms,decrease,529.00,233.00,40,393.87,45.65,45.65
+KR-GOAL-EMP-000130-002-01,GOAL-EMP-000130-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,45,0.00,0.00,0.00
+KR-GOAL-EMP-000130-002-02,GOAL-EMP-000130-002,Reduce ticket resolution time,duration,hours,decrease,33.00,19.00,20,32.62,2.71,2.71
+KR-GOAL-EMP-000130-002-03,GOAL-EMP-000130-002,Automate manual processes,count,processes,increase,0.00,3.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000130-003-01,GOAL-EMP-000130-003,Automate manual processes,count,processes,increase,0.00,8.00,40,2.00,25.00,25.00
+KR-GOAL-EMP-000130-003-02,GOAL-EMP-000130-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,60,1.00,33.33,33.33
+KR-GOAL-EMP-000131-005-01,GOAL-EMP-000131-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,60,1.00,50.00,50.00
+KR-GOAL-EMP-000131-005-02,GOAL-EMP-000131-005,Launch roadmap epics,count,epics,increase,0.00,5.00,40,1.00,20.00,20.00
+KR-GOAL-EMP-000131-006-01,GOAL-EMP-000131-006,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,100,2.00,40.00,40.00
+KR-GOAL-EMP-000132-002-01,GOAL-EMP-000132-002,Complete learning hours,count,hours,increase,0.00,33.00,40,16.00,48.48,48.48
+KR-GOAL-EMP-000132-002-02,GOAL-EMP-000132-002,Close new ARR,currency,USD,increase,0.00,601000.00,25,324116.00,53.93,53.93
+KR-GOAL-EMP-000132-002-03,GOAL-EMP-000132-002,Build qualified pipeline,currency,USD,increase,0.00,2020000.00,35,1136375.00,56.26,56.26
+KR-GOAL-EMP-000132-003-01,GOAL-EMP-000132-003,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000132-003-02,GOAL-EMP-000132-003,Complete learning hours,count,hours,increase,0.00,30.00,50,0.00,0.00,0.00
+KR-GOAL-EMP-000132-004-01,GOAL-EMP-000132-004,Close new ARR,currency,USD,increase,0.00,459900.00,100,160821.00,34.97,34.97
+KR-GOAL-EMP-000133-002-01,GOAL-EMP-000133-002,Win new logos,count,logos,increase,0.00,3.00,45,1.00,33.33,33.33
+KR-GOAL-EMP-000133-002-02,GOAL-EMP-000133-002,Complete learning hours,count,hours,increase,0.00,30.00,55,15.00,50.00,50.00
+KR-GOAL-EMP-000133-003-01,GOAL-EMP-000133-003,Close new ARR,currency,USD,increase,0.00,160000.00,70,19146.00,11.97,11.97
+KR-GOAL-EMP-000133-003-02,GOAL-EMP-000133-003,Complete learning hours,count,hours,increase,0.00,24.00,30,5.00,20.83,20.83
+KR-GOAL-EMP-000134-004-01,GOAL-EMP-000134-004,Reduce p95 API latency,duration,ms,decrease,698.00,523.00,35,659.05,22.26,22.26
+KR-GOAL-EMP-000134-004-02,GOAL-EMP-000134-004,Complete learning hours,count,hours,increase,0.00,14.00,30,3.00,21.43,21.43
+KR-GOAL-EMP-000134-004-03,GOAL-EMP-000134-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,35,1.00,33.33,33.33
+KR-GOAL-EMP-000135-003-01,GOAL-EMP-000135-003,Complete learning hours,count,hours,increase,0.00,12.00,25,8.00,66.67,66.67
+KR-GOAL-EMP-000135-003-02,GOAL-EMP-000135-003,Raise NPS,count,points,increase,39.00,48.00,45,45.00,66.67,66.67
+KR-GOAL-EMP-000135-003-03,GOAL-EMP-000135-003,Reduce churned accounts,count,accounts,decrease,32.00,20.00,30,25.00,58.33,58.33
+KR-GOAL-EMP-000135-004-01,GOAL-EMP-000135-004,Complete learning hours,count,hours,increase,0.00,23.00,20,18.00,78.26,78.26
+KR-GOAL-EMP-000135-004-02,GOAL-EMP-000135-004,Reduce churned accounts,count,accounts,decrease,41.00,32.00,45,36.00,55.56,55.56
+KR-GOAL-EMP-000135-004-03,GOAL-EMP-000135-004,Increase renewal rate,percentage,%,increase,79.00,83.00,35,80.61,40.25,40.25
+KR-GOAL-EMP-000136-002-01,GOAL-EMP-000136-002,Reduce churned accounts,count,accounts,decrease,29.00,14.00,40,24.00,33.33,33.33
+KR-GOAL-EMP-000136-002-02,GOAL-EMP-000136-002,Increase renewal rate,percentage,%,increase,83.00,86.00,20,84.22,40.67,40.67
+KR-GOAL-EMP-000136-002-03,GOAL-EMP-000136-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,40,2.00,33.33,33.33
+KR-GOAL-EMP-000137-002-01,GOAL-EMP-000137-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,2.00,25,1.00,50.00,50.00
+KR-GOAL-EMP-000137-002-02,GOAL-EMP-000137-002,Complete learning hours,count,hours,increase,0.00,23.00,30,6.00,26.09,26.09
+KR-GOAL-EMP-000137-002-03,GOAL-EMP-000137-002,Cut open P1 defects,count,defects,decrease,18.00,5.00,45,14.00,30.77,30.77
+KR-GOAL-EMP-000138-002-01,GOAL-EMP-000138-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,35,1.00,25.00,25.00
+KR-GOAL-EMP-000138-002-02,GOAL-EMP-000138-002,Raise automated test coverage,percentage,%,increase,56.00,64.00,35,57.59,19.88,19.88
+KR-GOAL-EMP-000138-002-03,GOAL-EMP-000138-002,Complete learning hours,count,hours,increase,0.00,25.00,30,7.00,28.00,28.00
+KR-GOAL-EMP-000138-003-01,GOAL-EMP-000138-003,Reduce p95 API latency,duration,ms,decrease,743.00,659.00,50,686.36,67.43,67.43
+KR-GOAL-EMP-000138-003-02,GOAL-EMP-000138-003,Raise automated test coverage,percentage,%,increase,69.00,88.00,50,83.48,76.21,76.21
+KR-GOAL-EMP-000138-004-01,GOAL-EMP-000138-004,Complete learning hours,count,hours,increase,0.00,22.00,50,14.00,63.64,63.64
+KR-GOAL-EMP-000138-004-02,GOAL-EMP-000138-004,Raise automated test coverage,percentage,%,increase,45.00,64.00,50,58.30,70.00,70.00
+KR-GOAL-EMP-000139-002-01,GOAL-EMP-000139-002,Reduce ticket resolution time,duration,hours,decrease,39.00,22.00,20,32.88,36.00,36.00
+KR-GOAL-EMP-000139-002-02,GOAL-EMP-000139-002,Complete learning hours,count,hours,increase,0.00,22.00,45,8.00,36.36,36.36
+KR-GOAL-EMP-000139-002-03,GOAL-EMP-000139-002,Automate manual processes,count,processes,increase,0.00,3.00,35,1.00,33.33,33.33
+KR-GOAL-EMP-000140-002-01,GOAL-EMP-000140-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,45,2.00,50.00,50.00
+KR-GOAL-EMP-000140-002-02,GOAL-EMP-000140-002,Complete learning hours,count,hours,increase,0.00,33.00,55,20.00,60.61,60.61
+KR-GOAL-EMP-000141-003-01,GOAL-EMP-000141-003,Launch roadmap epics,count,epics,increase,0.00,2.00,100,1.00,50.00,50.00
+KR-GOAL-EMP-000141-004-01,GOAL-EMP-000141-004,Launch roadmap epics,count,epics,increase,0.00,3.00,50,1.00,33.33,33.33
+KR-GOAL-EMP-000141-004-02,GOAL-EMP-000141-004,Complete customer discovery interviews,count,interviews,increase,0.00,11.00,50,1.00,9.09,9.09
+KR-GOAL-EMP-000141-005-01,GOAL-EMP-000141-005,Launch roadmap epics,count,epics,increase,0.00,2.00,50,1.00,50.00,50.00
+KR-GOAL-EMP-000141-005-02,GOAL-EMP-000141-005,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,5.00,50,3.00,60.00,60.00
+KR-GOAL-EMP-000141-006-01,GOAL-EMP-000141-006,Increase feature adoption,percentage,%,increase,20.00,30.00,30,25.38,53.80,53.80
+KR-GOAL-EMP-000141-006-02,GOAL-EMP-000141-006,Complete learning hours,count,hours,increase,0.00,39.00,40,21.00,53.85,53.85
+KR-GOAL-EMP-000141-006-03,GOAL-EMP-000141-006,Complete customer discovery interviews,count,interviews,increase,0.00,27.00,30,10.00,37.04,37.04
+KR-GOAL-EMP-000142-002-01,GOAL-EMP-000142-002,Automate manual processes,count,processes,increase,0.00,3.00,35,0.00,0.00,0.00
+KR-GOAL-EMP-000142-002-02,GOAL-EMP-000142-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,65,0.00,0.00,0.00
+KR-GOAL-EMP-000143-006-01,GOAL-EMP-000143-006,Increase renewal rate,percentage,%,increase,79.00,83.00,25,80.22,30.50,30.50
+KR-GOAL-EMP-000143-006-02,GOAL-EMP-000143-006,Complete learning hours,count,hours,increase,0.00,34.00,75,9.00,26.47,26.47
+KR-GOAL-EMP-000143-007-01,GOAL-EMP-000143-007,Complete learning hours,count,hours,increase,0.00,35.00,50,13.00,37.14,37.14
+KR-GOAL-EMP-000143-007-02,GOAL-EMP-000143-007,Increase renewal rate,percentage,%,increase,80.00,86.00,50,82.40,40.00,40.00
+KR-GOAL-EMP-000144-004-01,GOAL-EMP-000144-004,Build qualified pipeline,currency,USD,increase,0.00,776000.00,45,307288.00,39.60,39.60
+KR-GOAL-EMP-000144-004-02,GOAL-EMP-000144-004,Close new ARR,currency,USD,increase,0.00,743000.00,30,258845.00,34.84,34.84
+KR-GOAL-EMP-000144-004-03,GOAL-EMP-000144-004,Complete learning hours,count,hours,increase,0.00,39.00,25,21.00,53.85,53.85
+KR-GOAL-EMP-000145-002-01,GOAL-EMP-000145-002,Complete learning hours,count,hours,increase,0.00,28.00,20,7.00,25.00,25.00
+KR-GOAL-EMP-000145-002-02,GOAL-EMP-000145-002,Build qualified pipeline,currency,USD,increase,0.00,1805000.00,30,640100.00,35.46,35.46
+KR-GOAL-EMP-000145-002-03,GOAL-EMP-000145-002,Win new logos,count,logos,increase,0.00,10.00,50,3.00,30.00,30.00
+KR-GOAL-EMP-000145-003-01,GOAL-EMP-000145-003,Build qualified pipeline,currency,USD,increase,0.00,1644000.00,100,643916.00,39.17,39.17
+KR-GOAL-EMP-000146-003-01,GOAL-EMP-000146-003,Reduce ticket resolution time,duration,hours,decrease,43.00,31.00,20,42.02,8.17,8.17
+KR-GOAL-EMP-000146-003-02,GOAL-EMP-000146-003,Improve SLA attainment,percentage,%,increase,86.00,90.00,55,87.91,47.75,47.75
+KR-GOAL-EMP-000146-003-03,GOAL-EMP-000146-003,Complete learning hours,count,hours,increase,0.00,29.00,25,13.00,44.83,44.83
+KR-GOAL-EMP-000146-004-01,GOAL-EMP-000146-004,Reduce ticket resolution time,duration,hours,decrease,57.00,46.00,40,52.13,44.27,44.27
+KR-GOAL-EMP-000146-004-02,GOAL-EMP-000146-004,Improve SLA attainment,percentage,%,increase,92.00,97.00,20,93.19,23.80,23.80
+KR-GOAL-EMP-000146-004-03,GOAL-EMP-000146-004,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,40,1.00,33.33,33.33
+KR-GOAL-EMP-000147-001-01,GOAL-EMP-000147-001,Improve forecast accuracy,percentage,%,increase,86.00,94.00,65,91.04,63.00,63.00
+KR-GOAL-EMP-000147-001-02,GOAL-EMP-000147-001,Complete learning hours,count,hours,increase,0.00,33.00,35,22.00,66.67,66.67
+KR-GOAL-EMP-000147-002-01,GOAL-EMP-000147-002,Improve forecast accuracy,percentage,%,increase,83.00,91.00,40,83.00,0.00,0.00
+KR-GOAL-EMP-000147-002-02,GOAL-EMP-000147-002,Reduce reconciliation exceptions,count,exceptions,decrease,42.00,24.00,20,42.00,0.00,0.00
+KR-GOAL-EMP-000147-002-03,GOAL-EMP-000147-002,Complete learning hours,count,hours,increase,0.00,16.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000148-001-01,GOAL-EMP-000148-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,6.00,25,2.00,33.33,33.33
+KR-GOAL-EMP-000148-001-02,GOAL-EMP-000148-001,Complete learning hours,count,hours,increase,0.00,16.00,40,7.00,43.75,43.75
+KR-GOAL-EMP-000148-001-03,GOAL-EMP-000148-001,Win new logos,count,logos,increase,0.00,6.00,10,2.00,33.33,33.33
+KR-GOAL-EMP-000148-001-04,GOAL-EMP-000148-001,Close new ARR,currency,USD,increase,0.00,444000.00,25,155718.00,35.07,35.07
+KR-GOAL-EMP-000148-002-01,GOAL-EMP-000148-002,Complete learning hours,count,hours,increase,0.00,19.00,60,0.00,0.00,0.00
+KR-GOAL-EMP-000148-002-02,GOAL-EMP-000148-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,0.00,0.00,0.00
+KR-GOAL-EMP-000149-001-01,GOAL-EMP-000149-001,Reduce p95 API latency,duration,ms,decrease,575.00,426.00,30,500.14,50.24,50.24
+KR-GOAL-EMP-000149-001-02,GOAL-EMP-000149-001,Cut open P1 defects,count,defects,decrease,24.00,14.00,25,18.00,60.00,60.00
+KR-GOAL-EMP-000149-001-03,GOAL-EMP-000149-001,Raise automated test coverage,percentage,%,increase,55.00,71.00,25,61.01,37.56,37.56
+KR-GOAL-EMP-000149-001-04,GOAL-EMP-000149-001,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,3.00,20,1.00,33.33,33.33
+KR-GOAL-EMP-000149-002-01,GOAL-EMP-000149-002,Deliver knowledge-sharing sessions,count,sessions,increase,0.00,4.00,40,2.00,50.00,50.00
+KR-GOAL-EMP-000149-002-02,GOAL-EMP-000149-002,Reduce p95 API latency,duration,ms,decrease,496.00,309.00,60,370.30,67.22,67.22
+KR-GOAL-EMP-000149-003-01,GOAL-EMP-000149-003,Reduce p95 API latency,duration,ms,decrease,572.00,450.00,45,519.93,42.68,42.68
+KR-GOAL-EMP-000149-003-02,GOAL-EMP-000149-003,Ship production features,count,features,increase,0.00,5.00,55,1.00,20.00,20.00

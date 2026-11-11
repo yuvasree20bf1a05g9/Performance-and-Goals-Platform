@@ -1,0 +1,7 @@
+competency_id,name,category,description,scale_min,scale_max,applies_to
+COMP-01,Delivery & Execution,core,Plans and delivers outcomes reliably,1,5,all
+COMP-02,Collaboration,core,Works effectively across teams,1,5,all
+COMP-03,Customer Focus,core,Understands and serves customer needs,1,5,all
+COMP-04,Functional Expertise,technical,Depth of role-specific skill,1,5,all
+COMP-05,Communication,core,Communicates clearly and openly,1,5,all
+COMP-06,People Leadership,leadership,"Coaches, delegates and grows people",1,5,managers

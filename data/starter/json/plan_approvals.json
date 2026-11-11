@@ -1,0 +1,326 @@
+[
+ {
+  "approval_id": "DPA-000001",
+  "plan_id": "DP-2026-000001",
+  "approver_id": "EMP-000004",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-16T17:05:54",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000002",
+  "plan_id": "DP-2026-000001",
+  "approver_id": "EMP-000069",
+  "approver_role": "hr_partner",
+  "decision": "pending",
+  "decided_at": null,
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000003",
+  "plan_id": "DP-2026-000002",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-21T19:02:14",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000004",
+  "plan_id": "DP-2026-000003",
+  "approver_id": "EMP-000001",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-20T16:39:38",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000005",
+  "plan_id": "DP-2026-000004",
+  "approver_id": "EMP-000068",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-09-02T17:55:50",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000006",
+  "plan_id": "DP-2026-000004",
+  "approver_id": "EMP-000044",
+  "approver_role": "hr_partner",
+  "decision": "approved",
+  "decided_at": "2026-09-03T17:55:50",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000007",
+  "plan_id": "DP-2026-000005",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-22T19:54:12",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000008",
+  "plan_id": "DP-2026-000006",
+  "approver_id": "EMP-000018",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-22T13:29:23",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000009",
+  "plan_id": "DP-2026-000007",
+  "approver_id": "EMP-000074",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-14T11:23:04",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000010",
+  "plan_id": "DP-2026-000007",
+  "approver_id": "EMP-000052",
+  "approver_role": "hr_partner",
+  "decision": "pending",
+  "decided_at": null,
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000011",
+  "plan_id": "DP-2026-000008",
+  "approver_id": "EMP-000001",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-20T23:39:12",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000012",
+  "plan_id": "DP-2026-000009",
+  "approver_id": "EMP-000003",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-27T13:46:22",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000013",
+  "plan_id": "DP-2026-000010",
+  "approver_id": "EMP-000001",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-25T14:48:13",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000014",
+  "plan_id": "DP-2026-000011",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-14T18:09:55",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000015",
+  "plan_id": "DP-2026-000012",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-26T16:02:17",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000016",
+  "plan_id": "DP-2026-000012",
+  "approver_id": "EMP-000080",
+  "approver_role": "hr_partner",
+  "decision": "approved",
+  "decided_at": "2026-08-27T16:02:17",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000017",
+  "plan_id": "DP-2026-000013",
+  "approver_id": "EMP-000053",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-09-02T18:28:03",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000018",
+  "plan_id": "DP-2026-000013",
+  "approver_id": "EMP-000044",
+  "approver_role": "hr_partner",
+  "decision": "approved",
+  "decided_at": "2026-09-07T18:28:03",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000019",
+  "plan_id": "DP-2026-000014",
+  "approver_id": "EMP-000008",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-09-03T16:30:32",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000020",
+  "plan_id": "DP-2026-000015",
+  "approver_id": "EMP-000021",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-21T13:09:49",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000021",
+  "plan_id": "DP-2026-000016",
+  "approver_id": "EMP-000018",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-21T16:27:11",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000022",
+  "plan_id": "DP-2026-000017",
+  "approver_id": "EMP-000004",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-23T18:43:03",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000023",
+  "plan_id": "DP-2026-000019",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-29T12:23:06",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000024",
+  "plan_id": "DP-2026-000020",
+  "approver_id": "EMP-000068",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-31T16:45:46",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000025",
+  "plan_id": "DP-2026-000020",
+  "approver_id": "EMP-000038",
+  "approver_role": "hr_partner",
+  "decision": "approved",
+  "decided_at": "2026-09-03T16:45:46",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000026",
+  "plan_id": "DP-2026-000021",
+  "approver_id": "EMP-000004",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-14T17:35:29",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000027",
+  "plan_id": "DP-2026-000022",
+  "approver_id": "EMP-000048",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-31T18:41:36",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000028",
+  "plan_id": "DP-2026-000024",
+  "approver_id": "EMP-000018",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-20T16:33:28",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000029",
+  "plan_id": "DP-2026-000025",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "pending",
+  "decided_at": null,
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000030",
+  "plan_id": "DP-2026-000026",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-07T16:02:45",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000031",
+  "plan_id": "DP-2026-000027",
+  "approver_id": "EMP-000074",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-11T16:26:07",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000032",
+  "plan_id": "DP-2026-000028",
+  "approver_id": "EMP-000037",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-24T13:10:25",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000033",
+  "plan_id": "DP-2026-000029",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "pending",
+  "decided_at": null,
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000034",
+  "plan_id": "DP-2026-000030",
+  "approver_id": "EMP-000037",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-08T15:47:02",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000035",
+  "plan_id": "DP-2026-000031",
+  "approver_id": "EMP-000102",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-24T20:26:40",
+  "comment": null
+ },
+ {
+  "approval_id": "DPA-000036",
+  "plan_id": "DP-2026-000032",
+  "approver_id": "EMP-000074",
+  "approver_role": "manager",
+  "decision": "approved",
+  "decided_at": "2026-08-31T12:43:17",
+  "comment": null
+ }
+]

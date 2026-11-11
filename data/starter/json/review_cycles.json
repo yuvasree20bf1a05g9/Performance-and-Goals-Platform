@@ -1,0 +1,32 @@
+[
+ {
+  "cycle_id": "CYCLE-2026-H1",
+  "name": "2026 H1 Performance Cycle",
+  "start_date": "2026-01-01",
+  "end_date": "2026-06-30",
+  "goal_setting_deadline": "2026-01-31",
+  "review_deadline": "2026-07-31",
+  "status": "closed",
+  "closed_at": "2026-08-14T18:00:00"
+ },
+ {
+  "cycle_id": "CYCLE-2026-H2",
+  "name": "2026 H2 Performance Cycle",
+  "start_date": "2026-07-01",
+  "end_date": "2026-12-31",
+  "goal_setting_deadline": "2026-07-31",
+  "review_deadline": "2027-01-31",
+  "status": "active",
+  "closed_at": null
+ },
+ {
+  "cycle_id": "CYCLE-2027-H1",
+  "name": "2027 H1 Performance Cycle",
+  "start_date": "2027-01-01",
+  "end_date": "2027-06-30",
+  "goal_setting_deadline": "2027-01-31",
+  "review_deadline": "2027-07-31",
+  "status": "planned",
+  "closed_at": null
+ }
+]

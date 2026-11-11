@@ -1,0 +1,22 @@
+# Full stack with PostgreSQL:  docker compose up --build   ->  http://localhost:8000
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: pgp
+      POSTGRES_PASSWORD: pgp
+      POSTGRES_DB: pgp
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pgp"]
+      interval: 3s
+      retries: 20
+    ports: ["5432:5432"]
+  app:
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://pgp:pgp@db:5432/pgp
+      DATA_PROFILE: full
+    depends_on:
+      db:
+        condition: service_healthy
+    ports: ["8000:8000"]

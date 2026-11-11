@@ -1,0 +1,285 @@
+review_id,cycle_id,employee_id,reviewer_id,status,self_submitted_at,manager_submitted_at,finalized_at,manager_summary,goal_score_pct,goal_rating,competency_rating,overall_score,overall_rating,is_complete,missing_inputs
+REV-2026-000001,CYCLE-2026-H1,EMP-000002,EMP-000001,finalized,2026-07-04T14:31:29,2026-07-22T09:25:21,2026-08-12T13:31:31,Mixed results; development plan agreed.,96.50,4.86,3.33,4.25,Exceeds,true,
+REV-2026-000002,CYCLE-2026-H1,EMP-000003,EMP-000002,finalized,2026-07-09T18:29:26,2026-07-27T14:08:12,2026-08-10T13:38:04,Mixed results; development plan agreed.,91.52,4.66,3.33,4.13,Exceeds,true,
+REV-2026-000003,CYCLE-2026-H1,EMP-000004,EMP-000001,finalized,2026-07-02T09:52:51,2026-07-23T12:47:12,2026-08-09T15:04:23,Mixed results; development plan agreed.,75.38,4.02,3.17,3.68,Meets,true,
+REV-2026-000004,CYCLE-2026-H1,EMP-000005,EMP-000004,finalized,2026-07-02T10:43:35,2026-07-19T16:23:46,2026-08-08T15:05:54,Solid contributor; ready for broader scope.,40.26,2.61,2.83,2.70,Partially Meets,true,
+REV-2026-000005,CYCLE-2026-H1,EMP-000006,EMP-000003,finalized,2026-07-08T13:22:28,2026-07-30T11:53:11,2026-08-07T11:21:56,Strong cycle with clear ownership of outcomes.,69.26,3.77,3.50,3.66,Meets,true,
+REV-2026-000006,CYCLE-2026-H1,EMP-000007,EMP-000003,finalized,2026-07-16T10:57:27,2026-07-20T17:02:54,2026-08-03T11:52:30,Delivered core commitments; focus next on scaling impact.,96.96,4.88,4.50,4.73,Exceptional,true,
+REV-2026-000007,CYCLE-2026-H1,EMP-000008,EMP-000001,finalized,2026-07-07T11:10:18,2026-07-31T15:37:14,2026-08-07T17:56:33,Strong cycle with clear ownership of outcomes.,103.53,5.00,4.00,4.60,Exceptional,true,
+REV-2026-000008,CYCLE-2026-H1,EMP-000009,EMP-000053,finalized,2026-07-10T09:32:41,2026-07-27T12:51:13,2026-08-11T12:30:41,Strong cycle with clear ownership of outcomes.,90.18,4.61,4.00,4.37,Exceeds,true,
+REV-2026-000009,CYCLE-2026-H1,EMP-000010,EMP-000037,finalized,2026-07-01T15:06:05,2026-07-20T13:55:25,2026-08-09T10:40:59,Solid contributor; ready for broader scope.,80.00,4.20,3.20,3.80,Exceeds,true,
+REV-2026-000010,CYCLE-2026-H1,EMP-000011,EMP-000037,finalized,2026-07-15T16:54:04,2026-07-20T10:22:03,2026-08-05T10:55:40,Delivered core commitments; focus next on scaling impact.,15.55,1.62,3.00,2.17,Partially Meets,true,
+REV-2026-000011,CYCLE-2026-H1,EMP-000012,EMP-000004,finalized,2026-07-08T16:46:57,2026-07-26T12:40:28,2026-08-04T16:48:12,Delivered core commitments; focus next on scaling impact.,72.14,3.89,3.67,3.80,Exceeds,true,
+REV-2026-000012,CYCLE-2026-H1,EMP-000013,EMP-000051,finalized,2026-07-13T17:00:20,2026-07-23T18:11:33,2026-08-05T12:03:07,Strong cycle with clear ownership of outcomes.,98.45,4.94,3.60,4.40,Exceeds,true,
+REV-2026-000013,CYCLE-2026-H1,EMP-000014,EMP-000051,finalized,2026-07-01T09:21:54,2026-07-29T10:06:31,2026-08-01T16:32:48,Strong cycle with clear ownership of outcomes.,58.68,3.35,3.00,3.21,Meets,true,
+REV-2026-000014,CYCLE-2026-H1,EMP-000015,EMP-000102,finalized,2026-07-08T16:46:25,2026-07-26T14:32:53,2026-08-13T13:29:49,Mixed results; development plan agreed.,89.23,4.57,3.80,4.26,Exceeds,true,
+REV-2026-000015,CYCLE-2026-H1,EMP-000016,EMP-000046,finalized,2026-07-15T13:51:07,2026-07-19T16:02:34,2026-08-09T18:40:14,Delivered core commitments; focus next on scaling impact.,33.04,2.32,2.80,2.51,Partially Meets,true,
+REV-2026-000016,CYCLE-2026-H1,EMP-000017,EMP-000074,finalized,2026-07-04T18:40:54,2026-07-26T11:58:16,2026-08-04T15:30:22,Solid contributor; ready for broader scope.,75.27,4.01,3.60,3.85,Exceeds,true,
+REV-2026-000017,CYCLE-2026-H1,EMP-000018,EMP-000021,finalized,2026-07-08T17:13:13,2026-07-28T18:49:38,2026-08-06T12:20:35,Solid contributor; ready for broader scope.,51.71,3.07,3.33,3.17,Meets,true,
+REV-2026-000018,CYCLE-2026-H1,EMP-000019,EMP-000102,finalized,2026-07-14T13:20:14,2026-07-30T18:42:12,2026-08-06T14:02:14,Solid contributor; ready for broader scope.,54.20,3.17,3.20,3.18,Meets,true,
+REV-2026-000019,CYCLE-2026-H1,EMP-000020,EMP-000018,finalized,2026-07-04T14:32:02,2026-07-26T15:17:37,2026-08-13T09:42:04,Solid contributor; ready for broader scope.,82.67,4.31,3.80,4.11,Exceeds,true,
+REV-2026-000020,CYCLE-2026-H1,EMP-000021,EMP-000001,finalized,2026-07-17T10:16:57,2026-07-24T12:02:54,2026-08-08T14:39:38,Mixed results; development plan agreed.,82.28,4.29,2.67,3.64,Meets,true,
+REV-2026-000021,CYCLE-2026-H1,EMP-000022,EMP-000068,finalized,2026-07-11T11:39:56,2026-07-30T14:47:51,2026-08-13T16:55:50,Delivered core commitments; focus next on scaling impact.,41.80,2.67,2.60,2.64,Partially Meets,true,
+REV-2026-000022,CYCLE-2026-H1,EMP-000023,EMP-000048,finalized,2026-07-08T14:12:09,2026-07-30T14:53:12,2026-08-01T12:19:45,Strong cycle with clear ownership of outcomes.,78.29,4.13,3.40,3.84,Exceeds,true,
+REV-2026-000023,CYCLE-2026-H1,EMP-000024,EMP-000102,finalized,2026-07-01T13:43:22,2026-07-31T10:23:24,2026-08-13T16:54:12,Mixed results; development plan agreed.,56.24,3.25,2.40,2.91,Meets,true,
+REV-2026-000024,CYCLE-2026-H1,EMP-000025,EMP-000074,finalized,2026-07-10T15:34:45,2026-07-30T18:15:52,2026-08-03T16:23:19,Mixed results; development plan agreed.,39.75,2.59,3.60,2.99,Meets,true,
+REV-2026-000025,CYCLE-2026-H1,EMP-000026,EMP-000006,manager_submitted,2026-07-09T10:29:34,2026-07-25T12:57:16,,Solid contributor; ready for broader scope.,,,3.20,,,false,active_goal
+REV-2026-000026,CYCLE-2026-H1,EMP-000027,EMP-000007,finalized,2026-07-12T12:08:10,2026-07-27T14:50:22,2026-08-04T12:37:56,Strong cycle with clear ownership of outcomes.,78.54,4.14,3.20,3.76,Exceeds,true,
+REV-2026-000027,CYCLE-2026-H1,EMP-000028,EMP-000102,manager_submitted,2026-07-12T10:31:10,2026-07-26T18:49:36,,Delivered core commitments; focus next on scaling impact.,72.82,3.91,3.20,,,false,checkin:GOAL-EMP-000028-001
+REV-2026-000028,CYCLE-2026-H1,EMP-000029,EMP-000099,finalized,2026-07-17T18:08:03,2026-07-20T09:20:01,2026-08-04T17:57:07,Revised after close: Delivered core commitments; focus next on scaling impact.,90.00,4.60,4.00,4.36,Exceeds,true,
+REV-2026-000029,CYCLE-2026-H1,EMP-000030,EMP-000018,finalized,2026-07-11T16:44:33,2026-07-30T16:56:33,2026-08-09T13:29:23,Solid contributor; ready for broader scope.,71.43,3.86,2.80,3.44,Meets,true,
+REV-2026-000030,CYCLE-2026-H1,EMP-000031,EMP-000007,finalized,2026-07-06T18:00:47,2026-07-28T10:23:53,2026-08-03T11:40:28,Delivered core commitments; focus next on scaling impact.,60.14,3.41,3.20,3.33,Meets,true,
+REV-2026-000031,CYCLE-2026-H1,EMP-000032,EMP-000102,finalized,2026-07-06T12:47:22,2026-07-27T12:58:48,2026-08-09T11:29:55,Mixed results; development plan agreed.,78.61,4.14,3.20,3.76,Exceeds,true,
+REV-2026-000032,CYCLE-2026-H1,EMP-000033,EMP-000093,not_started,,,,,83.00,4.32,,,,false,self_feedback;manager_feedback
+REV-2026-000033,CYCLE-2026-H1,EMP-000034,EMP-000102,finalized,2026-07-18T13:11:35,2026-07-31T09:53:04,2026-08-07T09:49:44,Delivered core commitments; focus next on scaling impact.,87.78,4.51,3.20,3.99,Exceeds,true,
+REV-2026-000034,CYCLE-2026-H1,EMP-000035,EMP-000048,not_started,,,,,51.22,3.05,,,,false,self_feedback;manager_feedback
+REV-2026-000035,CYCLE-2026-H1,EMP-000036,EMP-000051,finalized,2026-07-17T13:56:46,2026-07-21T09:58:39,2026-08-09T09:32:09,Strong cycle with clear ownership of outcomes.,94.84,4.79,4.00,4.47,Exceeds,true,
+REV-2026-000036,CYCLE-2026-H1,EMP-000037,EMP-000001,finalized,2026-07-18T18:10:30,2026-07-21T10:29:56,2026-08-08T18:23:11,Mixed results; development plan agreed.,58.65,3.35,3.83,3.54,Meets,true,
+REV-2026-000037,CYCLE-2026-H1,EMP-000038,EMP-000008,finalized,2026-07-03T15:49:50,2026-07-30T09:07:00,2026-08-13T14:13:09,Solid contributor; ready for broader scope.,39.07,2.56,3.00,2.74,Partially Meets,true,
+REV-2026-000038,CYCLE-2026-H1,EMP-000039,EMP-000074,finalized,2026-07-05T18:06:09,2026-07-25T15:05:35,2026-08-01T10:23:04,Mixed results; development plan agreed.,100.42,5.00,4.40,4.76,Exceptional,true,
+REV-2026-000039,CYCLE-2026-H1,EMP-000040,EMP-000012,finalized,2026-07-04T11:07:47,2026-07-26T14:48:15,2026-08-01T17:39:16,Strong cycle with clear ownership of outcomes.,89.36,4.57,3.60,4.18,Exceeds,true,
+REV-2026-000040,CYCLE-2026-H1,EMP-000041,EMP-000037,finalized,2026-07-14T09:37:31,2026-07-31T18:42:22,2026-08-04T09:45:24,Mixed results; development plan agreed.,85.86,4.43,3.80,4.18,Exceeds,true,
+REV-2026-000041,CYCLE-2026-H1,EMP-000042,EMP-000021,finalized,2026-07-03T11:24:27,2026-07-31T17:54:42,2026-08-05T16:46:32,Delivered core commitments; focus next on scaling impact.,71.66,3.87,3.80,3.84,Exceeds,true,
+REV-2026-000042,CYCLE-2026-H1,EMP-000043,EMP-000037,finalized,2026-07-11T17:07:18,2026-07-23T11:35:24,2026-08-11T10:49:24,Mixed results; development plan agreed.,84.21,4.37,3.60,4.06,Exceeds,true,
+REV-2026-000043,CYCLE-2026-H1,EMP-000044,EMP-000008,not_started,,,,,85.80,4.43,,,,false,self_feedback;manager_feedback
+REV-2026-000044,CYCLE-2026-H1,EMP-000045,EMP-000009,finalized,2026-07-04T16:22:33,2026-07-28T18:37:01,2026-08-01T15:20:45,Delivered core commitments; focus next on scaling impact.,46.78,2.87,3.00,2.92,Meets,true,
+REV-2026-000045,CYCLE-2026-H1,EMP-000046,EMP-000001,finalized,2026-07-07T09:15:15,2026-07-28T14:46:48,2026-08-06T18:39:12,Mixed results; development plan agreed.,55.09,3.20,2.83,3.05,Meets,true,
+REV-2026-000046,CYCLE-2026-H1,EMP-000047,EMP-000018,finalized,2026-07-13T15:20:32,2026-07-23T12:37:09,2026-08-06T16:24:05,Mixed results; development plan agreed.,80.43,4.22,4.00,4.13,Exceeds,true,
+REV-2026-000047,CYCLE-2026-H1,EMP-000048,EMP-000005,finalized,2026-07-16T13:43:07,2026-07-30T16:28:58,2026-08-12T13:46:22,Solid contributor; ready for broader scope.,56.39,3.26,2.83,3.09,Meets,true,
+REV-2026-000048,CYCLE-2026-H1,EMP-000049,EMP-000051,finalized,2026-07-03T16:47:53,2026-07-19T13:28:34,2026-08-13T10:17:16,Strong cycle with clear ownership of outcomes.,90.50,4.62,4.00,4.37,Exceeds,true,
+REV-2026-000049,CYCLE-2026-H1,EMP-000050,EMP-000006,finalized,2026-07-07T10:51:11,2026-07-30T18:00:09,2026-08-04T17:40:08,Delivered core commitments; focus next on scaling impact.,100.00,5.00,4.00,4.60,Exceptional,true,
+REV-2026-000050,CYCLE-2026-H1,EMP-000051,EMP-000001,finalized,2026-07-08T10:17:56,2026-07-20T11:43:27,2026-08-08T16:17:12,Strong cycle with clear ownership of outcomes.,80.37,4.21,3.50,3.93,Exceeds,true,
+REV-2026-000051,CYCLE-2026-H1,EMP-000052,EMP-000008,finalized,2026-07-01T10:56:24,2026-07-21T16:02:01,2026-08-12T16:43:06,Mixed results; development plan agreed.,62.45,3.50,3.40,3.46,Meets,true,
+REV-2026-000052,CYCLE-2026-H1,EMP-000053,EMP-000001,finalized,2026-07-18T09:51:21,2026-07-29T12:05:24,2026-08-06T11:48:13,Solid contributor; ready for broader scope.,44.22,2.77,3.83,3.19,Meets,true,
+REV-2026-000053,CYCLE-2026-H1,EMP-000054,EMP-000012,self_submitted,2026-07-17T12:27:58,,,,0.00,1.00,,,,false,manager_feedback;checkin:GOAL-EMP-000054-001
+REV-2026-000054,CYCLE-2026-H1,EMP-000055,EMP-000102,finalized,2026-07-10T12:22:01,2026-07-25T11:38:34,2026-08-06T10:36:55,Delivered core commitments; focus next on scaling impact.,93.65,4.75,3.60,4.29,Exceeds,true,
+REV-2026-000055,CYCLE-2026-H1,EMP-000056,EMP-000007,finalized,2026-07-15T18:48:44,2026-07-19T09:44:47,2026-08-12T18:58:21,Delivered core commitments; focus next on scaling impact.,80.88,4.24,3.60,3.98,Exceeds,true,
+REV-2026-000056,CYCLE-2026-H1,EMP-000057,EMP-000102,finalized,2026-07-17T16:14:20,2026-07-24T15:42:05,2026-08-01T11:54:06,Mixed results; development plan agreed.,73.54,3.94,3.40,3.72,Meets,true,
+REV-2026-000057,CYCLE-2026-H1,EMP-000058,EMP-000037,finalized,2026-07-10T09:38:29,2026-07-24T11:25:29,2026-08-03T15:34:36,Strong cycle with clear ownership of outcomes.,56.37,3.25,3.20,3.23,Meets,true,
+REV-2026-000058,CYCLE-2026-H1,EMP-000059,EMP-000002,finalized,2026-07-12T17:26:44,2026-07-20T12:43:46,2026-08-10T12:20:55,Strong cycle with clear ownership of outcomes.,97.66,4.91,4.33,4.68,Exceptional,true,
+REV-2026-000059,CYCLE-2026-H1,EMP-000060,EMP-000006,finalized,2026-07-15T13:59:30,2026-07-22T10:26:05,2026-08-11T09:34:29,Solid contributor; ready for broader scope.,100.00,5.00,4.40,4.76,Exceptional,true,
+REV-2026-000060,CYCLE-2026-H1,EMP-000061,EMP-000059,finalized,2026-07-15T12:45:32,2026-07-29T11:38:38,2026-08-10T11:46:03,Solid contributor; ready for broader scope.,84.31,4.37,3.60,4.06,Exceeds,true,
+REV-2026-000061,CYCLE-2026-H1,EMP-000062,EMP-000102,finalized,2026-07-18T17:33:03,2026-07-28T14:56:40,2026-08-07T14:09:55,Strong cycle with clear ownership of outcomes.,63.73,3.55,2.60,3.17,Meets,true,
+REV-2026-000062,CYCLE-2026-H1,EMP-000063,EMP-000048,finalized,2026-07-10T14:38:03,2026-07-25T09:29:36,2026-08-08T09:50:52,Mixed results; development plan agreed.,74.70,3.99,3.40,3.75,Exceeds,true,
+REV-2026-000063,CYCLE-2026-H1,EMP-000064,EMP-000102,finalized,2026-07-12T16:34:44,2026-07-23T17:01:18,2026-08-07T14:02:17,Strong cycle with clear ownership of outcomes.,86.31,4.45,3.00,3.87,Exceeds,true,
+REV-2026-000064,CYCLE-2026-H1,EMP-000065,EMP-000007,finalized,2026-07-08T11:48:50,2026-07-27T18:41:40,2026-08-11T14:54:14,Mixed results; development plan agreed.,93.75,4.75,4.20,4.53,Exceptional,true,
+REV-2026-000065,CYCLE-2026-H1,EMP-000066,EMP-000003,finalized,2026-07-18T16:42:17,2026-07-31T16:17:12,2026-08-02T09:27:43,Mixed results; development plan agreed.,94.44,4.78,4.00,4.47,Exceeds,true,
+REV-2026-000066,CYCLE-2026-H1,EMP-000068,EMP-000053,finalized,2026-07-14T11:13:15,2026-07-28T18:03:39,2026-08-12T18:28:03,Delivered core commitments; focus next on scaling impact.,35.86,2.43,2.83,2.59,Partially Meets,true,
+REV-2026-000067,CYCLE-2026-H1,EMP-000069,EMP-000008,finalized,2026-07-06T11:49:31,2026-07-26T11:15:39,2026-08-12T15:30:32,Strong cycle with clear ownership of outcomes.,89.24,4.57,2.60,3.78,Exceeds,true,
+REV-2026-000068,CYCLE-2026-H1,EMP-000070,EMP-000102,finalized,2026-07-03T09:26:57,2026-07-20T10:41:08,2026-08-11T16:26:56,Delivered core commitments; focus next on scaling impact.,91.93,4.68,3.60,4.25,Exceeds,true,
+REV-2026-000069,CYCLE-2026-H1,EMP-000071,EMP-000074,finalized,2026-07-13T15:13:35,2026-07-21T13:16:44,2026-08-03T17:28:41,Strong cycle with clear ownership of outcomes.,78.28,4.13,3.20,3.76,Exceeds,true,
+REV-2026-000070,CYCLE-2026-H1,EMP-000072,EMP-000048,finalized,2026-07-11T11:59:12,2026-07-23T14:42:44,2026-08-09T13:11:23,Delivered core commitments; focus next on scaling impact.,62.85,3.51,3.40,3.47,Meets,true,
+REV-2026-000071,CYCLE-2026-H1,EMP-000073,EMP-000051,self_submitted,2026-07-11T13:26:53,,,,100.00,5.00,,,,false,manager_feedback
+REV-2026-000072,CYCLE-2026-H1,EMP-000074,EMP-000021,finalized,2026-07-13T12:22:40,2026-07-24T14:20:08,2026-08-10T13:09:49,Solid contributor; ready for broader scope.,79.00,4.16,2.83,3.63,Meets,true,
+REV-2026-000073,CYCLE-2026-H1,EMP-000075,EMP-000037,finalized,2026-07-08T14:47:39,2026-07-31T12:36:14,2026-08-02T14:45:09,Delivered core commitments; focus next on scaling impact.,52.85,3.11,3.00,3.07,Meets,true,
+REV-2026-000074,CYCLE-2026-H1,EMP-000076,EMP-000018,finalized,2026-07-16T15:09:37,2026-07-27T11:43:30,2026-08-13T15:27:11,Delivered core commitments; focus next on scaling impact.,51.86,3.07,3.00,3.04,Meets,true,
+REV-2026-000075,CYCLE-2026-H1,EMP-000077,EMP-000018,finalized,2026-07-01T18:03:52,2026-07-29T17:20:04,2026-08-12T14:04:53,Delivered core commitments; focus next on scaling impact.,61.60,3.46,3.40,3.44,Meets,true,
+REV-2026-000076,CYCLE-2026-H1,EMP-000078,EMP-000079,finalized,2026-07-16T13:20:08,2026-07-23T17:24:07,2026-08-08T12:52:56,Mixed results; development plan agreed.,36.71,2.47,3.00,2.68,Partially Meets,true,
+REV-2026-000077,CYCLE-2026-H1,EMP-000079,EMP-000004,finalized,2026-07-18T14:51:23,2026-07-21T12:15:52,2026-08-11T14:43:03,Solid contributor; ready for broader scope.,70.48,3.82,3.00,3.49,Meets,true,
+REV-2026-000078,CYCLE-2026-H1,EMP-000080,EMP-000008,finalized,2026-07-01T13:59:51,2026-07-25T10:23:18,2026-08-02T10:27:34,Delivered core commitments; focus next on scaling impact.,88.76,4.55,2.80,3.85,Exceeds,true,
+REV-2026-000079,CYCLE-2026-H1,EMP-000081,EMP-000102,finalized,2026-07-09T13:38:28,2026-07-28T12:18:46,2026-08-08T10:23:06,Delivered core commitments; focus next on scaling impact.,50.44,3.02,2.80,2.93,Meets,true,
+REV-2026-000080,CYCLE-2026-H1,EMP-000082,EMP-000099,finalized,2026-07-18T14:47:09,2026-07-21T16:05:37,2026-08-01T13:49:35,Delivered core commitments; focus next on scaling impact.,90.91,4.64,4.00,4.38,Exceeds,true,
+REV-2026-000081,CYCLE-2026-H1,EMP-000083,EMP-000048,finalized,2026-07-16T13:24:26,2026-07-26T12:46:32,2026-08-02T10:16:05,Mixed results; development plan agreed.,86.63,4.47,3.00,3.88,Exceeds,true,
+REV-2026-000082,CYCLE-2026-H1,EMP-000084,EMP-000074,finalized,2026-07-14T12:31:40,2026-07-25T10:31:21,2026-08-13T13:37:06,Mixed results; development plan agreed.,93.26,4.73,3.60,4.28,Exceeds,true,
+REV-2026-000083,CYCLE-2026-H1,EMP-000085,EMP-000037,finalized,2026-07-06T17:13:10,2026-07-29T11:19:25,2026-08-06T09:33:50,Mixed results; development plan agreed.,86.59,4.46,3.60,4.12,Exceeds,true,
+REV-2026-000084,CYCLE-2026-H1,EMP-000086,EMP-000009,finalized,2026-07-11T12:21:49,2026-07-25T13:55:48,2026-08-07T10:32:58,Delivered core commitments; focus next on scaling impact.,102.27,5.00,3.20,4.28,Exceeds,true,
+REV-2026-000085,CYCLE-2026-H1,EMP-000087,EMP-000068,finalized,2026-07-18T17:33:25,2026-07-20T09:28:39,2026-08-12T11:45:46,Delivered core commitments; focus next on scaling impact.,70.56,3.82,2.60,3.33,Meets,true,
+REV-2026-000086,CYCLE-2026-H1,EMP-000088,EMP-000008,finalized,2026-07-13T11:43:27,2026-07-19T12:54:54,2026-08-12T15:20:26,Mixed results; development plan agreed.,91.15,4.65,3.60,4.23,Exceeds,true,
+REV-2026-000087,CYCLE-2026-H1,EMP-000089,EMP-000074,finalized,2026-07-17T14:18:25,2026-07-21T12:13:55,2026-08-11T13:38:52,Strong cycle with clear ownership of outcomes.,100.00,5.00,3.40,4.36,Exceeds,true,
+REV-2026-000088,CYCLE-2026-H1,EMP-000090,EMP-000051,finalized,2026-07-04T14:02:48,2026-07-26T13:14:34,2026-08-10T09:11:54,Delivered core commitments; focus next on scaling impact.,75.34,4.01,3.00,3.61,Meets,true,
+REV-2026-000089,CYCLE-2026-H1,EMP-000091,EMP-000018,manager_submitted,2026-07-01T18:34:03,2026-07-20T14:27:49,,Strong cycle with clear ownership of outcomes.,,,2.60,,,false,active_goal
+REV-2026-000090,CYCLE-2026-H1,EMP-000092,EMP-000102,finalized,2026-07-07T14:11:33,2026-07-21T09:53:46,2026-08-13T10:42:43,Solid contributor; ready for broader scope.,68.41,3.74,3.20,3.52,Meets,true,
+REV-2026-000091,CYCLE-2026-H1,EMP-000093,EMP-000079,finalized,2026-07-15T18:59:39,2026-07-28T12:59:22,2026-08-04T16:35:29,Strong cycle with clear ownership of outcomes.,53.00,3.12,3.17,3.14,Meets,true,
+REV-2026-000092,CYCLE-2026-H1,EMP-000094,EMP-000007,finalized,2026-07-17T09:35:24,2026-07-23T12:48:15,2026-08-03T12:34:43,Solid contributor; ready for broader scope.,73.51,3.94,3.00,3.56,Meets,true,
+REV-2026-000093,CYCLE-2026-H1,EMP-000096,EMP-000048,finalized,2026-07-11T13:44:33,2026-07-22T12:57:04,2026-08-12T16:41:36,Strong cycle with clear ownership of outcomes.,90.00,4.60,2.80,3.88,Exceeds,true,
+REV-2026-000094,CYCLE-2026-H1,EMP-000097,EMP-000004,manager_submitted,2026-07-10T12:48:24,2026-07-24T17:44:04,,Mixed results; development plan agreed.,26.67,2.07,3.33,,,false,checkin:GOAL-EMP-000097-002
+REV-2026-000095,CYCLE-2026-H1,EMP-000098,EMP-000102,not_started,,,,,71.79,3.87,,,,false,self_feedback;manager_feedback
+REV-2026-000096,CYCLE-2026-H1,EMP-000099,EMP-000059,self_submitted,2026-07-04T15:14:36,,,,72.69,3.91,,,,false,manager_feedback
+REV-2026-000097,CYCLE-2026-H1,EMP-000100,EMP-000074,finalized,2026-07-13T18:21:37,2026-07-28T17:12:24,2026-08-09T12:14:08,Strong cycle with clear ownership of outcomes.,66.67,3.67,3.60,3.64,Meets,true,
+REV-2026-000098,CYCLE-2026-H1,EMP-000101,EMP-000102,finalized,2026-07-05T16:38:41,2026-07-28T16:57:08,2026-08-11T18:00:09,Mixed results; development plan agreed.,88.37,4.53,3.40,4.08,Exceeds,true,
+REV-2026-000099,CYCLE-2026-H1,EMP-000102,EMP-000046,self_submitted,2026-07-05T18:36:08,,,,65.61,3.62,,,,false,manager_feedback
+REV-2026-000100,CYCLE-2026-H1,EMP-000103,EMP-000048,finalized,2026-07-05T12:49:54,2026-07-30T16:08:47,2026-08-08T11:48:19,Delivered core commitments; focus next on scaling impact.,64.16,3.57,3.40,3.50,Meets,true,
+REV-2026-000101,CYCLE-2026-H1,EMP-000104,EMP-000008,finalized,2026-07-13T16:33:01,2026-07-26T11:31:14,2026-08-10T10:30:20,Strong cycle with clear ownership of outcomes.,107.73,5.00,3.80,4.52,Exceptional,true,
+REV-2026-000102,CYCLE-2026-H1,EMP-000105,EMP-000102,finalized,2026-07-16T17:25:45,2026-07-27T12:07:57,2026-08-09T11:16:45,Solid contributor; ready for broader scope.,76.40,4.06,3.80,3.96,Exceeds,true,
+REV-2026-000103,CYCLE-2026-H1,EMP-000106,EMP-000005,finalized,2026-07-17T13:45:09,2026-07-24T10:07:19,2026-08-08T09:34:06,Strong cycle with clear ownership of outcomes.,71.11,3.84,3.80,3.82,Exceeds,true,
+REV-2026-000104,CYCLE-2026-H1,EMP-000107,EMP-000051,finalized,2026-07-12T18:33:19,2026-07-20T13:27:48,2026-08-12T10:20:11,Mixed results; development plan agreed.,42.02,2.68,3.00,2.81,Meets,true,
+REV-2026-000105,CYCLE-2026-H1,EMP-000108,EMP-000097,finalized,2026-07-07T15:37:35,2026-07-29T15:26:30,2026-08-09T16:38:53,Mixed results; development plan agreed.,35.41,2.42,3.20,2.73,Partially Meets,true,
+REV-2026-000106,CYCLE-2026-H1,EMP-000109,EMP-000102,self_submitted,2026-07-14T14:21:02,,,,93.92,4.76,,,,false,manager_feedback
+REV-2026-000107,CYCLE-2026-H1,EMP-000110,EMP-000018,finalized,2026-07-01T09:33:11,2026-07-23T17:52:36,2026-08-06T16:33:28,Mixed results; development plan agreed.,55.32,3.21,2.40,2.89,Meets,true,
+REV-2026-000108,CYCLE-2026-H1,EMP-000112,EMP-000007,finalized,2026-07-09T13:11:36,2026-07-28T15:21:27,2026-08-02T17:55:14,Solid contributor; ready for broader scope.,102.22,5.00,3.40,4.36,Exceeds,true,
+REV-2026-000109,CYCLE-2026-H1,EMP-000113,EMP-000006,finalized,2026-07-11T16:56:07,2026-07-30T09:36:22,2026-08-08T10:40:15,Delivered core commitments; focus next on scaling impact.,100.98,5.00,4.20,4.68,Exceptional,true,
+REV-2026-000110,CYCLE-2026-H1,EMP-000114,EMP-000008,finalized,2026-07-13T12:03:28,2026-07-24T11:01:25,2026-08-13T17:06:39,Strong cycle with clear ownership of outcomes.,64.84,3.59,3.40,3.51,Meets,true,
+REV-2026-000111,CYCLE-2026-H1,EMP-000115,EMP-000006,finalized,2026-07-09T12:11:16,2026-07-31T11:25:37,2026-08-12T12:02:23,Strong cycle with clear ownership of outcomes.,84.95,4.40,3.60,4.08,Exceeds,true,
+REV-2026-000112,CYCLE-2026-H1,EMP-000116,EMP-000009,finalized,2026-07-18T15:48:49,2026-07-28T12:09:48,2026-08-10T15:27:33,Mixed results; development plan agreed.,107.12,5.00,3.40,4.36,Exceeds,true,
+REV-2026-000113,CYCLE-2026-H1,EMP-000117,EMP-000059,finalized,2026-07-17T13:46:24,2026-07-24T13:06:34,2026-08-01T17:58:05,Solid contributor; ready for broader scope.,67.89,3.72,3.20,3.51,Meets,true,
+REV-2026-000114,CYCLE-2026-H1,EMP-000118,EMP-000097,manager_submitted,2026-07-05T18:23:50,2026-07-23T15:55:34,,Strong cycle with clear ownership of outcomes.,45.27,2.81,2.60,,,false,checkin:GOAL-EMP-000118-003
+REV-2026-000115,CYCLE-2026-H1,EMP-000119,EMP-000102,finalized,2026-07-07T14:21:54,2026-07-27T18:14:08,2026-08-13T09:25:50,Mixed results; development plan agreed.,55.16,3.21,3.20,3.21,Meets,true,
+REV-2026-000116,CYCLE-2026-H1,EMP-000120,EMP-000006,finalized,2026-07-15T16:42:42,2026-07-27T16:04:54,2026-08-01T13:40:55,Revised after close: Delivered core commitments; focus next on scaling impact.,63.63,3.55,3.40,3.49,Meets,true,
+REV-2026-000117,CYCLE-2026-H1,EMP-000121,EMP-000102,finalized,2026-07-11T16:38:17,2026-07-28T12:43:28,2026-08-08T11:56:25,Solid contributor; ready for broader scope.,84.62,4.38,3.20,3.91,Exceeds,true,
+REV-2026-000118,CYCLE-2026-H1,EMP-000122,EMP-000074,finalized,2026-07-18T09:13:38,2026-07-21T16:19:33,2026-08-09T14:07:33,Mixed results; development plan agreed.,94.92,4.80,3.80,4.40,Exceeds,true,
+REV-2026-000119,CYCLE-2026-H1,EMP-000123,EMP-000048,finalized,2026-07-06T12:03:21,2026-07-27T14:13:47,2026-08-08T11:05:09,Strong cycle with clear ownership of outcomes.,71.66,3.87,3.20,3.60,Meets,true,
+REV-2026-000120,CYCLE-2026-H1,EMP-000124,EMP-000068,finalized,2026-07-03T15:39:35,2026-07-21T18:33:21,2026-08-02T12:10:36,Mixed results; development plan agreed.,52.41,3.10,3.20,3.14,Meets,true,
+REV-2026-000121,CYCLE-2026-H1,EMP-000125,EMP-000102,finalized,2026-07-01T10:24:27,2026-07-24T18:54:13,2026-08-02T14:28:16,Mixed results; development plan agreed.,100.00,5.00,4.20,4.68,Exceptional,true,
+REV-2026-000122,CYCLE-2026-H1,EMP-000126,EMP-000018,finalized,2026-07-06T16:34:58,2026-07-28T13:42:06,2026-08-01T09:52:21,Delivered core commitments; focus next on scaling impact.,86.85,4.47,3.20,3.96,Exceeds,true,
+REV-2026-000123,CYCLE-2026-H1,EMP-000128,EMP-000102,finalized,2026-07-13T09:32:31,2026-07-25T10:25:31,2026-08-01T15:02:45,Strong cycle with clear ownership of outcomes.,49.13,2.97,1.80,2.50,Partially Meets,true,
+REV-2026-000124,CYCLE-2026-H1,EMP-000129,EMP-000006,finalized,2026-07-09T11:20:51,2026-07-27T10:52:02,2026-08-13T11:57:08,Revised after close: Strong cycle with clear ownership of outcomes.,104.38,5.00,3.60,4.44,Exceeds,true,
+REV-2026-000125,CYCLE-2026-H1,EMP-000130,EMP-000074,finalized,2026-07-02T15:09:49,2026-07-26T09:48:45,2026-08-08T15:26:07,Mixed results; development plan agreed.,0.00,1.00,2.40,1.56,Below,true,
+REV-2026-000126,CYCLE-2026-H1,EMP-000131,EMP-000037,finalized,2026-07-06T15:47:08,2026-07-26T18:41:45,2026-08-11T12:10:25,Solid contributor; ready for broader scope. (HR-approved correction),60.44,3.42,3.40,3.41,Meets,true,
+REV-2026-000127,CYCLE-2026-H1,EMP-000132,EMP-000102,finalized,2026-07-02T09:15:37,2026-07-28T10:12:38,2026-08-11T17:56:40,Solid contributor; ready for broader scope.,78.78,4.15,3.60,3.93,Exceeds,true,
+REV-2026-000128,CYCLE-2026-H1,EMP-000133,EMP-000102,finalized,2026-07-02T12:32:25,2026-07-31T18:33:58,2026-08-08T13:41:00,Solid contributor; ready for broader scope.,60.15,3.41,3.00,3.25,Meets,true,
+REV-2026-000129,CYCLE-2026-H1,EMP-000134,EMP-000048,finalized,2026-07-12T12:42:33,2026-07-19T11:15:06,2026-08-06T15:57:57,Strong cycle with clear ownership of outcomes.,55.21,3.21,3.60,3.37,Meets,true,
+REV-2026-000130,CYCLE-2026-H1,EMP-000135,EMP-000079,finalized,2026-07-06T18:54:32,2026-07-20T15:31:40,2026-08-08T18:56:33,Delivered core commitments; focus next on scaling impact.,95.55,4.82,3.60,4.33,Exceeds,true,
+REV-2026-000131,CYCLE-2026-H1,EMP-000136,EMP-000093,self_submitted,2026-07-06T11:39:34,,,,96.40,4.86,,,,false,manager_feedback
+REV-2026-000132,CYCLE-2026-H1,EMP-000137,EMP-000048,finalized,2026-07-07T17:59:22,2026-07-30T13:08:40,2026-08-03T10:30:48,Strong cycle with clear ownership of outcomes.,67.18,3.69,3.00,3.41,Meets,true,
+REV-2026-000133,CYCLE-2026-H1,EMP-000138,EMP-000059,finalized,2026-07-04T13:06:42,2026-07-26T12:15:42,2026-08-11T17:58:24,Solid contributor; ready for broader scope.,96.92,4.88,4.00,4.53,Exceptional,true,
+REV-2026-000134,CYCLE-2026-H1,EMP-000139,EMP-000018,finalized,2026-07-15T16:20:31,2026-07-21T16:50:48,2026-08-10T10:55:02,Delivered core commitments; focus next on scaling impact.,83.42,4.34,3.00,3.80,Exceeds,true,
+REV-2026-000135,CYCLE-2026-H1,EMP-000140,EMP-000079,finalized,2026-07-17T14:50:20,2026-07-20T09:27:25,2026-08-01T09:55:54,Mixed results; development plan agreed.,89.39,4.58,3.80,4.27,Exceeds,true,
+REV-2026-000136,CYCLE-2026-H1,EMP-000141,EMP-000037,finalized,2026-07-18T18:32:58,2026-07-29T10:44:37,2026-08-02T12:47:02,Strong cycle with clear ownership of outcomes.,61.26,3.45,2.40,3.03,Meets,true,
+REV-2026-000137,CYCLE-2026-H1,EMP-000142,EMP-000074,finalized,2026-07-03T09:55:42,2026-07-22T10:28:32,2026-08-11T17:19:24,Strong cycle with clear ownership of outcomes.,73.54,3.94,3.60,3.80,Exceeds,true,
+REV-2026-000138,CYCLE-2026-H1,EMP-000143,EMP-000097,finalized,2026-07-17T09:53:23,2026-07-26T16:24:51,2026-08-08T15:36:18,Solid contributor; ready for broader scope. (HR-approved correction),83.65,4.35,3.80,4.13,Exceeds,true,
+REV-2026-000139,CYCLE-2026-H1,EMP-000144,EMP-000102,finalized,2026-07-06T13:07:32,2026-07-26T14:38:24,2026-08-10T16:26:40,Solid contributor; ready for broader scope.,93.03,4.72,4.00,4.43,Exceeds,true,
+REV-2026-000140,CYCLE-2026-H1,EMP-000145,EMP-000102,finalized,2026-07-16T15:02:53,2026-07-28T12:13:21,2026-08-01T18:36:13,Mixed results; development plan agreed.,52.30,3.09,2.80,2.97,Meets,true,
+REV-2026-000141,CYCLE-2026-H1,EMP-000146,EMP-000074,finalized,2026-07-15T09:51:26,2026-07-23T10:55:46,2026-08-12T11:43:17,Delivered core commitments; focus next on scaling impact.,58.81,3.35,2.60,3.05,Meets,true,
+REV-2026-000142,CYCLE-2026-H2,EMP-000002,EMP-000001,not_started,,,,,46.41,2.86,,,,false,self_feedback;manager_feedback
+REV-2026-000143,CYCLE-2026-H2,EMP-000003,EMP-000002,not_started,,,,,36.56,2.46,,,,false,self_feedback;manager_feedback
+REV-2026-000144,CYCLE-2026-H2,EMP-000004,EMP-000001,self_submitted,2026-11-02T14:00:27,,,,60.81,3.43,,,,false,manager_feedback
+REV-2026-000145,CYCLE-2026-H2,EMP-000005,EMP-000004,not_started,,,,,29.58,2.18,,,,false,self_feedback;manager_feedback
+REV-2026-000146,CYCLE-2026-H2,EMP-000006,EMP-000003,self_submitted,2026-10-23T10:23:09,,,,35.51,2.42,,,,false,manager_feedback
+REV-2026-000147,CYCLE-2026-H2,EMP-000007,EMP-000003,not_started,,,,,59.05,3.36,,,,false,self_feedback;manager_feedback
+REV-2026-000148,CYCLE-2026-H2,EMP-000008,EMP-000001,not_started,,,,,52.12,3.08,,,,false,self_feedback;manager_feedback
+REV-2026-000149,CYCLE-2026-H2,EMP-000009,EMP-000053,not_started,,,,,53.58,3.14,,,,false,self_feedback;manager_feedback
+REV-2026-000150,CYCLE-2026-H2,EMP-000010,EMP-000037,not_started,,,,,44.08,2.76,,,,false,self_feedback;manager_feedback
+REV-2026-000151,CYCLE-2026-H2,EMP-000011,EMP-000037,self_submitted,2026-10-26T18:36:03,,,,29.98,2.20,,,,false,manager_feedback
+REV-2026-000152,CYCLE-2026-H2,EMP-000012,EMP-000004,not_started,,,,,14.33,1.57,,,,false,self_feedback;manager_feedback
+REV-2026-000153,CYCLE-2026-H2,EMP-000013,EMP-000051,not_started,,,,,42.13,2.69,,,,false,self_feedback;manager_feedback
+REV-2026-000154,CYCLE-2026-H2,EMP-000014,EMP-000051,manager_submitted,2026-10-20T15:50:28,2026-11-08T10:58:06,,Solid contributor; ready for broader scope.,31.79,2.27,3.00,2.56,Partially Meets,true,
+REV-2026-000155,CYCLE-2026-H2,EMP-000015,EMP-000102,not_started,,,,,50.19,3.01,,,,false,self_feedback;manager_feedback
+REV-2026-000156,CYCLE-2026-H2,EMP-000016,EMP-000046,not_started,,,,,2.57,1.10,,,,false,self_feedback;manager_feedback
+REV-2026-000157,CYCLE-2026-H2,EMP-000017,EMP-000037,not_started,,,,,55.55,3.22,,,,false,self_feedback;manager_feedback
+REV-2026-000158,CYCLE-2026-H2,EMP-000018,EMP-000021,not_started,,,,,35.54,2.42,,,,false,self_feedback;manager_feedback
+REV-2026-000159,CYCLE-2026-H2,EMP-000019,EMP-000102,not_started,,,,,31.92,2.28,,,,false,self_feedback;manager_feedback
+REV-2026-000160,CYCLE-2026-H2,EMP-000020,EMP-000018,not_started,,,,,51.77,3.07,,,,false,self_feedback;manager_feedback
+REV-2026-000161,CYCLE-2026-H2,EMP-000021,EMP-000001,self_submitted,2026-10-22T14:08:35,,,,33.70,2.35,,,,false,manager_feedback
+REV-2026-000162,CYCLE-2026-H2,EMP-000022,EMP-000068,self_submitted,2026-10-24T10:02:00,,,,2.81,1.11,,,,false,manager_feedback
+REV-2026-000163,CYCLE-2026-H2,EMP-000023,EMP-000048,not_started,,,,,32.31,2.29,,,,false,self_feedback;manager_feedback
+REV-2026-000164,CYCLE-2026-H2,EMP-000024,EMP-000102,not_started,,,,,64.81,3.59,,,,false,self_feedback;manager_feedback
+REV-2026-000165,CYCLE-2026-H2,EMP-000025,EMP-000074,not_started,,,,,18.31,1.73,,,,false,self_feedback;manager_feedback
+REV-2026-000166,CYCLE-2026-H2,EMP-000026,EMP-000006,not_started,,,,,60.23,3.41,,,,false,self_feedback;manager_feedback
+REV-2026-000167,CYCLE-2026-H2,EMP-000027,EMP-000007,not_started,,,,,42.53,2.70,,,,false,self_feedback;manager_feedback
+REV-2026-000168,CYCLE-2026-H2,EMP-000028,EMP-000102,not_started,,,,,9.09,1.36,,,,false,self_feedback;manager_feedback
+REV-2026-000169,CYCLE-2026-H2,EMP-000029,EMP-000099,not_started,,,,,71.25,3.85,,,,false,self_feedback;manager_feedback
+REV-2026-000170,CYCLE-2026-H2,EMP-000030,EMP-000018,not_started,,,,,44.01,2.76,,,,false,self_feedback;manager_feedback
+REV-2026-000171,CYCLE-2026-H2,EMP-000031,EMP-000007,self_submitted,2026-10-31T14:24:33,,,,49.16,2.97,,,,false,manager_feedback
+REV-2026-000172,CYCLE-2026-H2,EMP-000032,EMP-000102,not_started,,,,,28.74,2.15,,,,false,self_feedback;manager_feedback
+REV-2026-000173,CYCLE-2026-H2,EMP-000033,EMP-000093,self_submitted,2026-11-01T11:51:29,,,,50.61,3.02,,,,false,manager_feedback
+REV-2026-000174,CYCLE-2026-H2,EMP-000034,EMP-000102,not_started,,,,,60.20,3.41,,,,false,self_feedback;manager_feedback
+REV-2026-000175,CYCLE-2026-H2,EMP-000035,EMP-000048,not_started,,,,,33.78,2.35,,,,false,self_feedback;manager_feedback
+REV-2026-000176,CYCLE-2026-H2,EMP-000036,EMP-000051,not_started,,,,,58.09,3.32,,,,false,self_feedback;manager_feedback
+REV-2026-000177,CYCLE-2026-H2,EMP-000037,EMP-000001,not_started,,,,,39.37,2.57,,,,false,self_feedback;manager_feedback
+REV-2026-000178,CYCLE-2026-H2,EMP-000038,EMP-000008,not_started,,,,,33.33,2.33,,,,false,self_feedback;manager_feedback
+REV-2026-000179,CYCLE-2026-H2,EMP-000039,EMP-000074,not_started,,,,,17.32,1.69,,,,false,self_feedback;manager_feedback
+REV-2026-000180,CYCLE-2026-H2,EMP-000040,EMP-000012,not_started,,,,,36.39,2.46,,,,false,self_feedback;manager_feedback
+REV-2026-000181,CYCLE-2026-H2,EMP-000041,EMP-000037,not_started,,,,,19.23,1.77,,,,false,self_feedback;manager_feedback
+REV-2026-000182,CYCLE-2026-H2,EMP-000042,EMP-000021,not_started,,,,,29.20,2.17,,,,false,self_feedback;manager_feedback
+REV-2026-000183,CYCLE-2026-H2,EMP-000043,EMP-000037,self_submitted,2026-10-22T12:58:55,,,,46.86,2.87,,,,false,manager_feedback
+REV-2026-000184,CYCLE-2026-H2,EMP-000044,EMP-000008,not_started,,,,,55.23,3.21,,,,false,self_feedback;manager_feedback
+REV-2026-000185,CYCLE-2026-H2,EMP-000045,EMP-000009,not_started,,,,,28.27,2.13,,,,false,self_feedback;manager_feedback
+REV-2026-000186,CYCLE-2026-H2,EMP-000046,EMP-000001,manager_submitted,2026-10-30T17:25:49,2026-11-08T18:23:32,,Solid contributor; ready for broader scope.,36.63,2.47,3.00,2.68,Partially Meets,true,
+REV-2026-000187,CYCLE-2026-H2,EMP-000047,EMP-000018,not_started,,,,,63.09,3.52,,,,false,self_feedback;manager_feedback
+REV-2026-000188,CYCLE-2026-H2,EMP-000048,EMP-000003,manager_submitted,2026-10-25T11:08:27,2026-11-07T18:59:06,,Solid contributor; ready for broader scope.,41.66,2.67,2.83,2.73,Partially Meets,true,
+REV-2026-000189,CYCLE-2026-H2,EMP-000049,EMP-000051,self_submitted,2026-10-26T14:51:43,,,,37.30,2.49,,,,false,manager_feedback
+REV-2026-000190,CYCLE-2026-H2,EMP-000050,EMP-000006,not_started,,,,,53.63,3.15,,,,false,self_feedback;manager_feedback
+REV-2026-000191,CYCLE-2026-H2,EMP-000051,EMP-000001,manager_submitted,2026-10-29T17:00:12,2026-11-04T17:53:05,,Solid contributor; ready for broader scope.,49.68,2.99,3.50,3.19,Meets,true,
+REV-2026-000192,CYCLE-2026-H2,EMP-000052,EMP-000008,manager_submitted,2026-11-03T10:10:36,2026-11-08T14:10:35,,Mixed results; development plan agreed.,31.08,2.24,3.40,2.70,Partially Meets,true,
+REV-2026-000193,CYCLE-2026-H2,EMP-000053,EMP-000001,not_started,,,,,10.10,1.40,,,,false,self_feedback;manager_feedback
+REV-2026-000194,CYCLE-2026-H2,EMP-000054,EMP-000012,not_started,,,,,18.81,1.75,,,,false,self_feedback;manager_feedback
+REV-2026-000195,CYCLE-2026-H2,EMP-000055,EMP-000102,not_started,,,,,46.85,2.87,,,,false,self_feedback;manager_feedback
+REV-2026-000196,CYCLE-2026-H2,EMP-000056,EMP-000007,not_started,,,,,48.01,2.92,,,,false,self_feedback;manager_feedback
+REV-2026-000197,CYCLE-2026-H2,EMP-000057,EMP-000102,not_started,,,,,39.30,2.57,,,,false,self_feedback;manager_feedback
+REV-2026-000198,CYCLE-2026-H2,EMP-000058,EMP-000037,self_submitted,2026-10-25T15:48:30,,,,33.64,2.35,,,,false,manager_feedback
+REV-2026-000199,CYCLE-2026-H2,EMP-000059,EMP-000002,not_started,,,,,51.08,3.04,,,,false,self_feedback;manager_feedback
+REV-2026-000200,CYCLE-2026-H2,EMP-000060,EMP-000006,manager_submitted,2026-10-23T10:39:54,2026-11-08T15:13:48,,Strong cycle with clear ownership of outcomes.,37.68,2.51,3.80,3.03,Meets,true,
+REV-2026-000201,CYCLE-2026-H2,EMP-000061,EMP-000059,not_started,,,,,50.23,3.01,,,,false,self_feedback;manager_feedback
+REV-2026-000202,CYCLE-2026-H2,EMP-000062,EMP-000102,not_started,,,,,25.07,2.00,,,,false,self_feedback;manager_feedback
+REV-2026-000203,CYCLE-2026-H2,EMP-000063,EMP-000048,self_submitted,2026-10-27T12:00:00,,,,45.72,2.83,,,,false,manager_feedback
+REV-2026-000204,CYCLE-2026-H2,EMP-000064,EMP-000102,not_started,,,,,23.27,1.93,,,,false,self_feedback;manager_feedback
+REV-2026-000205,CYCLE-2026-H2,EMP-000065,EMP-000007,not_started,,,,,33.05,2.32,,,,false,self_feedback;manager_feedback
+REV-2026-000206,CYCLE-2026-H2,EMP-000066,EMP-000003,not_started,,,,,53.77,3.15,,,,false,self_feedback;manager_feedback
+REV-2026-000207,CYCLE-2026-H2,EMP-000068,EMP-000053,self_submitted,2026-10-27T11:16:24,,,,30.93,2.24,,,,false,manager_feedback
+REV-2026-000208,CYCLE-2026-H2,EMP-000069,EMP-000008,self_submitted,2026-10-20T18:32:42,,,,62.89,3.52,,,,false,manager_feedback
+REV-2026-000209,CYCLE-2026-H2,EMP-000070,EMP-000102,not_started,,,,,32.23,2.29,,,,false,self_feedback;manager_feedback
+REV-2026-000210,CYCLE-2026-H2,EMP-000071,EMP-000074,self_submitted,2026-10-30T10:41:23,,,,,,,,,false,manager_feedback;active_goal
+REV-2026-000211,CYCLE-2026-H2,EMP-000072,EMP-000048,not_started,,,,,50.00,3.00,,,,false,self_feedback;manager_feedback
+REV-2026-000212,CYCLE-2026-H2,EMP-000073,EMP-000051,not_started,,,,,46.67,2.87,,,,false,self_feedback;manager_feedback
+REV-2026-000213,CYCLE-2026-H2,EMP-000074,EMP-000021,manager_submitted,2026-10-23T09:38:32,2026-11-08T11:53:39,,Mixed results; development plan agreed.,28.89,2.16,2.50,2.30,Partially Meets,true,
+REV-2026-000214,CYCLE-2026-H2,EMP-000075,EMP-000037,not_started,,,,,23.06,1.92,,,,false,self_feedback;manager_feedback
+REV-2026-000215,CYCLE-2026-H2,EMP-000076,EMP-000018,not_started,,,,,63.27,3.53,,,,false,self_feedback;manager_feedback
+REV-2026-000216,CYCLE-2026-H2,EMP-000077,EMP-000074,manager_submitted,2026-10-30T17:48:52,2026-11-08T11:54:57,,Strong cycle with clear ownership of outcomes.,34.36,2.37,4.00,3.02,Meets,true,
+REV-2026-000217,CYCLE-2026-H2,EMP-000078,EMP-000079,not_started,,,,,27.64,2.11,,,,false,self_feedback;manager_feedback
+REV-2026-000218,CYCLE-2026-H2,EMP-000079,EMP-000004,manager_submitted,2026-10-26T14:25:19,2026-11-04T14:17:56,,Delivered core commitments; focus next on scaling impact.,31.15,2.25,3.00,2.55,Partially Meets,true,
+REV-2026-000219,CYCLE-2026-H2,EMP-000080,EMP-000008,not_started,,,,,8.46,1.34,,,,false,self_feedback;manager_feedback
+REV-2026-000220,CYCLE-2026-H2,EMP-000081,EMP-000102,not_started,,,,,0.46,1.02,,,,false,self_feedback;manager_feedback
+REV-2026-000221,CYCLE-2026-H2,EMP-000082,EMP-000099,not_started,,,,,75.00,4.00,,,,false,self_feedback;manager_feedback
+REV-2026-000222,CYCLE-2026-H2,EMP-000083,EMP-000048,not_started,,,,,,,,,,false,self_feedback;manager_feedback;active_goal
+REV-2026-000223,CYCLE-2026-H2,EMP-000084,EMP-000074,not_started,,,,,48.55,2.94,,,,false,self_feedback;manager_feedback
+REV-2026-000224,CYCLE-2026-H2,EMP-000085,EMP-000037,not_started,,,,,64.33,3.57,,,,false,self_feedback;manager_feedback
+REV-2026-000225,CYCLE-2026-H2,EMP-000086,EMP-000009,not_started,,,,,41.88,2.68,,,,false,self_feedback;manager_feedback
+REV-2026-000226,CYCLE-2026-H2,EMP-000087,EMP-000068,self_submitted,2026-10-27T10:43:53,,,,57.17,3.29,,,,false,manager_feedback
+REV-2026-000227,CYCLE-2026-H2,EMP-000088,EMP-000008,not_started,,,,,52.73,3.11,,,,false,self_feedback;manager_feedback
+REV-2026-000228,CYCLE-2026-H2,EMP-000089,EMP-000074,not_started,,,,,,,,,,false,self_feedback;manager_feedback;active_goal
+REV-2026-000229,CYCLE-2026-H2,EMP-000090,EMP-000051,manager_submitted,2026-10-28T15:43:09,2026-11-06T12:57:06,,Mixed results; development plan agreed.,42.65,2.71,2.80,2.75,Meets,true,
+REV-2026-000230,CYCLE-2026-H2,EMP-000091,EMP-000018,not_started,,,,,30.08,2.20,,,,false,self_feedback;manager_feedback
+REV-2026-000231,CYCLE-2026-H2,EMP-000092,EMP-000102,not_started,,,,,47.25,2.89,,,,false,self_feedback;manager_feedback
+REV-2026-000232,CYCLE-2026-H2,EMP-000093,EMP-000004,not_started,,,,,35.32,2.41,,,,false,self_feedback;manager_feedback
+REV-2026-000233,CYCLE-2026-H2,EMP-000094,EMP-000007,not_started,,,,,36.00,2.44,,,,false,self_feedback;manager_feedback
+REV-2026-000234,CYCLE-2026-H2,EMP-000096,EMP-000048,self_submitted,2026-10-21T18:42:29,,,,,,,,,false,manager_feedback;active_goal
+REV-2026-000235,CYCLE-2026-H2,EMP-000097,EMP-000004,not_started,,,,,22.82,1.91,,,,false,self_feedback;manager_feedback
+REV-2026-000236,CYCLE-2026-H2,EMP-000098,EMP-000102,not_started,,,,,47.21,2.89,,,,false,self_feedback;manager_feedback
+REV-2026-000237,CYCLE-2026-H2,EMP-000099,EMP-000059,not_started,,,,,20.70,1.83,,,,false,self_feedback;manager_feedback
+REV-2026-000238,CYCLE-2026-H2,EMP-000100,EMP-000074,not_started,,,,,54.06,3.16,,,,false,self_feedback;manager_feedback
+REV-2026-000239,CYCLE-2026-H2,EMP-000101,EMP-000102,manager_submitted,2026-10-24T14:14:07,2026-11-07T16:02:57,,Strong cycle with clear ownership of outcomes.,69.67,3.79,4.20,3.95,Exceeds,true,
+REV-2026-000240,CYCLE-2026-H2,EMP-000102,EMP-000046,not_started,,,,,42.90,2.72,,,,false,self_feedback;manager_feedback
+REV-2026-000241,CYCLE-2026-H2,EMP-000103,EMP-000048,manager_submitted,2026-11-03T14:48:28,2026-11-10T09:45:16,,Delivered core commitments; focus next on scaling impact.,52.81,3.11,3.80,3.39,Meets,true,
+REV-2026-000242,CYCLE-2026-H2,EMP-000104,EMP-000008,self_submitted,2026-10-26T10:02:35,,,,39.23,2.57,,,,false,manager_feedback
+REV-2026-000243,CYCLE-2026-H2,EMP-000105,EMP-000102,not_started,,,,,40.00,2.60,,,,false,self_feedback;manager_feedback
+REV-2026-000244,CYCLE-2026-H2,EMP-000106,EMP-000005,not_started,,,,,62.50,3.50,,,,false,self_feedback;manager_feedback
+REV-2026-000245,CYCLE-2026-H2,EMP-000107,EMP-000051,self_submitted,2026-10-29T13:36:02,,,,44.25,2.77,,,,false,manager_feedback
+REV-2026-000246,CYCLE-2026-H2,EMP-000108,EMP-000097,not_started,,,,,21.22,1.85,,,,false,self_feedback;manager_feedback
+REV-2026-000247,CYCLE-2026-H2,EMP-000109,EMP-000102,not_started,,,,,41.31,2.65,,,,false,self_feedback;manager_feedback
+REV-2026-000248,CYCLE-2026-H2,EMP-000110,EMP-000018,self_submitted,2026-10-25T09:13:46,,,,33.73,2.35,,,,false,manager_feedback
+REV-2026-000249,CYCLE-2026-H2,EMP-000112,EMP-000007,self_submitted,2026-10-31T15:28:30,,,,46.08,2.84,,,,false,manager_feedback
+REV-2026-000250,CYCLE-2026-H2,EMP-000113,EMP-000006,not_started,,,,,54.13,3.17,,,,false,self_feedback;manager_feedback
+REV-2026-000251,CYCLE-2026-H2,EMP-000114,EMP-000008,manager_submitted,2026-10-28T13:24:28,2026-11-04T12:22:24,,Mixed results; development plan agreed.,21.29,1.85,3.40,2.47,Partially Meets,true,
+REV-2026-000252,CYCLE-2026-H2,EMP-000115,EMP-000006,self_submitted,2026-11-01T13:02:58,,,,41.98,2.68,,,,false,manager_feedback
+REV-2026-000253,CYCLE-2026-H2,EMP-000116,EMP-000009,self_submitted,2026-10-26T14:58:31,,,,69.72,3.79,,,,false,manager_feedback
+REV-2026-000254,CYCLE-2026-H2,EMP-000117,EMP-000059,not_started,,,,,34.08,2.36,,,,false,self_feedback;manager_feedback
+REV-2026-000255,CYCLE-2026-H2,EMP-000118,EMP-000097,not_started,,,,,2.69,1.11,,,,false,self_feedback;manager_feedback
+REV-2026-000256,CYCLE-2026-H2,EMP-000119,EMP-000102,not_started,,,,,31.86,2.27,,,,false,self_feedback;manager_feedback
+REV-2026-000257,CYCLE-2026-H2,EMP-000120,EMP-000006,not_started,,,,,41.48,2.66,,,,false,self_feedback;manager_feedback
+REV-2026-000258,CYCLE-2026-H2,EMP-000121,EMP-000102,not_started,,,,,58.34,3.33,,,,false,self_feedback;manager_feedback
+REV-2026-000259,CYCLE-2026-H2,EMP-000122,EMP-000074,not_started,,,,,58.13,3.33,,,,false,self_feedback;manager_feedback
+REV-2026-000260,CYCLE-2026-H2,EMP-000123,EMP-000099,not_started,,,,,55.14,3.21,,,,false,self_feedback;manager_feedback
+REV-2026-000261,CYCLE-2026-H2,EMP-000125,EMP-000102,manager_submitted,2026-10-20T15:10:00,2026-11-05T13:42:40,,Strong cycle with clear ownership of outcomes.,51.78,3.07,3.60,3.28,Meets,true,
+REV-2026-000262,CYCLE-2026-H2,EMP-000126,EMP-000018,self_submitted,2026-10-26T12:07:35,,,,45.47,2.82,,,,false,manager_feedback
+REV-2026-000263,CYCLE-2026-H2,EMP-000128,EMP-000102,not_started,,,,,25.04,2.00,,,,false,self_feedback;manager_feedback
+REV-2026-000264,CYCLE-2026-H2,EMP-000129,EMP-000006,not_started,,,,,50.76,3.03,,,,false,self_feedback;manager_feedback
+REV-2026-000265,CYCLE-2026-H2,EMP-000130,EMP-000074,self_submitted,2026-10-24T12:50:28,,,,12.32,1.49,,,,false,manager_feedback
+REV-2026-000266,CYCLE-2026-H2,EMP-000131,EMP-000037,not_started,,,,,38.80,2.55,,,,false,self_feedback;manager_feedback
+REV-2026-000267,CYCLE-2026-H2,EMP-000132,EMP-000102,not_started,,,,,45.80,2.83,,,,false,self_feedback;manager_feedback
+REV-2026-000268,CYCLE-2026-H2,EMP-000133,EMP-000102,not_started,,,,,25.78,2.03,,,,false,self_feedback;manager_feedback
+REV-2026-000269,CYCLE-2026-H2,EMP-000134,EMP-000048,not_started,,,,,25.89,2.04,,,,false,self_feedback;manager_feedback
+REV-2026-000270,CYCLE-2026-H2,EMP-000135,EMP-000079,not_started,,,,,58.98,3.36,,,,false,self_feedback;manager_feedback
+REV-2026-000271,CYCLE-2026-H2,EMP-000136,EMP-000093,not_started,,,,,34.80,2.39,,,,false,self_feedback;manager_feedback
+REV-2026-000272,CYCLE-2026-H2,EMP-000137,EMP-000048,not_started,,,,,34.17,2.37,,,,false,self_feedback;manager_feedback
+REV-2026-000273,CYCLE-2026-H2,EMP-000138,EMP-000059,not_started,,,,,51.49,3.06,,,,false,self_feedback;manager_feedback
+REV-2026-000274,CYCLE-2026-H2,EMP-000139,EMP-000018,manager_submitted,2026-10-26T18:15:36,2026-11-10T10:24:17,,Delivered core commitments; focus next on scaling impact.,35.23,2.41,3.40,2.81,Meets,true,
+REV-2026-000275,CYCLE-2026-H2,EMP-000140,EMP-000079,not_started,,,,,55.84,3.23,,,,false,self_feedback;manager_feedback
+REV-2026-000276,CYCLE-2026-H2,EMP-000141,EMP-000037,not_started,,,,,46.94,2.88,,,,false,self_feedback;manager_feedback
+REV-2026-000277,CYCLE-2026-H2,EMP-000142,EMP-000074,self_submitted,2026-10-30T09:18:54,,,,,,,,,false,manager_feedback;active_goal
+REV-2026-000278,CYCLE-2026-H2,EMP-000143,EMP-000097,manager_submitted,2026-10-28T18:42:49,2026-11-08T14:59:52,,Delivered core commitments; focus next on scaling impact.,32.47,2.30,3.40,2.74,Partially Meets,true,
+REV-2026-000279,CYCLE-2026-H2,EMP-000144,EMP-000102,not_started,,,,,,,,,,false,self_feedback;manager_feedback;active_goal
+REV-2026-000280,CYCLE-2026-H2,EMP-000145,EMP-000102,not_started,,,,,34.91,2.40,,,,false,self_feedback;manager_feedback
+REV-2026-000281,CYCLE-2026-H2,EMP-000146,EMP-000074,not_started,,,,,37.28,2.49,,,,false,self_feedback;manager_feedback
+REV-2026-000282,CYCLE-2026-H2,EMP-000147,EMP-000009,not_started,,,,,64.28,3.57,,,,false,self_feedback;manager_feedback
+REV-2026-000283,CYCLE-2026-H2,EMP-000148,EMP-000102,manager_submitted,2026-10-30T18:26:53,2026-11-10T11:38:30,,Strong cycle with clear ownership of outcomes.,37.93,2.52,4.40,3.27,Meets,true,
+REV-2026-000284,CYCLE-2026-H2,EMP-000149,EMP-000059,not_started,,,,,46.32,2.85,,,,false,self_feedback;manager_feedback

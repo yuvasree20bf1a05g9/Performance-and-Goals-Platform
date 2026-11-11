@@ -1,0 +1,26 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Generate + validate starter dataset
+        run: |
+          python manage.py generate --profile starter
+          python manage.py validate --profile starter
+      - name: Reproducibility (same seed twice -> identical checksums)
+        run: python manage.py reproduce --profile starter
+      - name: Tests
+        run: python -m pytest -q
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm ci && npm run build
+        working-directory: frontend
