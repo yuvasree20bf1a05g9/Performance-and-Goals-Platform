@@ -1,0 +1,5 @@
+# Tell GitHub which files are generated data / build output, so the
+# Languages bar reflects the source code (Python, JavaScript, CSS).
+data/**          linguist-generated=true
+frontend/dist/** linguist-generated=true
+*.sql            linguist-generated=true
