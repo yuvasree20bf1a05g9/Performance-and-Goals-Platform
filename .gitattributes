@@ -1,5 +1,7 @@
-# Tell GitHub which files are generated data / build output, so the
-# Languages bar reflects the source code (Python, JavaScript, CSS).
-data/**          linguist-generated=true
-frontend/dist/** linguist-generated=true
-*.sql            linguist-generated=true
+# GitHub's "Languages" bar counts file SIZE per type. The generated seed data
+# (data/ - CSV, JSON and 3.6 MB of SQL INSERTs) and the pre-built UI bundle
+# (frontend/dist) would otherwise drown out the real source code, so they are
+# excluded from the statistics. Nothing is removed from the repository.
+data/**          linguist-generated=true linguist-vendored=true
+frontend/dist/** linguist-generated=true linguist-vendored=true
+*.sql            linguist-detectable=false linguist-generated=true
